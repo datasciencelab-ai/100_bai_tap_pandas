@@ -1,0 +1,54 @@
+store_cd,store_name,prefecture_cd,prefecture,address,tel_no,longitude,latitude,floor_area
+S12014,Chigakadai store,12,Chiba prefecture,"1-chome, Chigusadai, Inage-ku, Chiba-shi, Chiba",043-123-4003,140.118,35.63559,1698.0
+S13002,Kokubunji Temple,13,Tokyo,"Honda 2-chome, Kokubunji City, Tokyo",042-123-4008,139.4802,35.70566,1735.0
+S14010,Kikuna store,14,Kanagawa Prefecture,"Kikuna 1-chome, Kohoku-ku, Yokohama-shi, Kanagawa",045-123-4032,139.6326,35.50049,1732.0
+S14033,Akuwa store,14,Kanagawa Prefecture,"Akuwa Nishi 1-chome, Seya-ku, Yokohama-shi, Kanagawa",045-123-4043,139.4961,35.45918,1495.0
+S14036,Sagamihara Central Store,14,Kanagawa Prefecture,"2-chome, Chuo, Sagamihara City, Kanagawa Prefecture",042-123-4045,139.3716,35.57327,1679.0
+S13051,Itabashi Ohara store,13,Tokyo,"Ohara-cho, Itabashi-ku, Tokyo",03-0123-4029,139.698,35.76788,1045.0
+S13015,Southern sand store,13,Tokyo,"2-chome, Koto-ku, Tokyo 2-chome",03-0123-4014,139.8229,35.67066,1337.0
+S14040,Nagatsuta store,14,Kanagawa Prefecture,"Nagatsuda Minamidai 5-chome, Midori-ku, Yokohama-shi, Kanagawa",045-123-4046,139.4994,35.52398,1548.0
+S13044,Minami -Rokugo store,13,Tokyo,"Minami Rokugo 2-chome, Ota-ku, Tokyo",03-0123-4028,139.7207,35.54604,1379.0
+S14050,Akuwa Nishi store,14,Kanagawa Prefecture,"Akuwa Nishi 1-chome, Seya-ku, Yokohama-shi, Kanagawa",045-123-4053,139.4961,35.45918,1830.0
+S13019,Komorone store,13,Tokyo,"Komorine 1-chome, Itabashi-ku, Tokyo",03-0123-4018,139.6795,35.74468,1004.0
+S13052,Morino store,13,Tokyo,"Morino Sanchome, Machida City, Tokyo",042-123-4030,139.4383,35.55293,1087.0
+S14028,Futatsu Bridge store,14,Kanagawa Prefecture,"Futatsuhashi-cho, Seya-ku, Yokohama-shi, Kanagawa",045-123-4042,139.4963,35.46304,1574.0
+S13031,Hatsudai store,13,Tokyo,"Hatsudai 2-chome, Shibuya-ku, Tokyo",03-0123-4020,139.6862,35.67616,986.0
+S13038,Higashikasai store,13,Tokyo,"Tokyo Kasai 9-chome, Edogawa-ku, Tokyo",03-0123-4024,139.8826,35.65366,1184.0
+S13001,Naka -Rokugo store,13,Tokyo,"2-chome, Nakarokugo, Ota-ku, Tokyo",03-1234-4007,139.7132,35.55135,1796.0
+S14012,Honmaki Wada store,14,Kanagawa Prefecture,"Honmaki Wada, Naka-ku, Yokohama-shi, Kanagawa",045-123-4034,139.6582,35.42156,1341.0
+S13004,Sagimiya store,13,Tokyo,"Saginomiya Sanchome, Nakano-ku, Tokyo",03-0123-4010,139.6421,35.72348,947.0
+S14046,Kitayamada store,14,Kanagawa Prefecture,"Kitamada 1-chome, Tsuzuki-ku, Yokohama-shi, Kanagawa",045-123-4049,139.5916,35.56189,831.0
+S14022,Zushi store,14,Kanagawa Prefecture,"Zushi 1-chome, Zushi City, Kanagawa Prefecture",046-123-4036,139.5789,35.29642,1838.0
+S14011,Hiyoshi Honmachi store,14,Kanagawa Prefecture,"4-chome Honcho, Kohoku-ku, Yokohama-shi, Kanagawa",045-123-4033,139.6316,35.54655,890.0
+S13016,Koganei store,13,Tokyo,"1-chome Honmachi, Koganei-shi, Tokyo",042-123-4015,139.5094,35.70018,1399.0
+S14034,Kawasaki Nogawa store,14,Kanagawa Prefecture,"Nogawa, Miyamae-ku, Kawasaki City, Kanagawa Prefecture",044-123-4044,139.5998,35.57693,1318.0
+S13008,Seijo store,13,Tokyo,"Seijo 3-chome, Setagaya-ku, Tokyo",03-0123-4012,139.5966,35.63614,883.0
+S13020,Jujo Nakahara store,13,Tokyo,"Jujo Nakahara Sanchome, Kita-ku, Tokyo",03-0123-4019,139.7186,35.76686,801.0
+S13043,Minami -Shinagawa store,13,Tokyo,"Minami-Shinagawa Sanchome, Shinagawa-ku, Tokyo",03-0123-4027,139.7436,35.60981,845.0
+S14048,Nakagawa Chuo store,14,Kanagawa Prefecture,"2-chome Nakagawa Chuo 2-chome, Tsuzuki-ku, Yokohama-shi, Kanagawa",045-123-4051,139.5758,35.54912,1657.0
+S12007,Sakura store,12,Chiba prefecture,"Kamishizu, Sakura City, Chiba Prefecture",043-123-4001,140.1452,35.71872,1895.0
+S14026,Tsujido west coast store,14,Kanagawa Prefecture,"2-chome, Tsujido, Fujisawa City, Kanagawa Prefecture",046-123-4040,139.4466,35.32464,1732.0
+S13041,Hachioji store,13,Tokyo,"Otsuka, Hachioji, Tokyo",042-123-4026,139.4235,35.63787,810.0
+S13017,Koenji Minami store,13,Tokyo,"Koenji Minami 4-chome, Suginami-ku, Tokyo",03-0123-4016,139.6513,35.70273,841.0
+S14049,Kawasaki Daishi store,14,Kanagawa Prefecture,"Nakase Sanchome, Kawasaki-ku, Kawasaki City, Kanagawa Prefecture",044-123-4052,139.7327,35.53759,962.0
+S14023,Kawasaki store,14,Kanagawa Prefecture,"2-chome Honmachi, Kawasaki-ku, Kawasaki-shi, Kanagawa",044-123-4037,139.7028,35.53599,1804.0
+S13018,Kiyose store,13,Tokyo,"Matsuyama 1-chome, Kiyose City, Tokyo",042-123-4017,139.5178,35.76885,1220.0
+S13035,Yoga 4 -chome store,13,Tokyo,"Yoga 4-chome, Setagaya-ku, Tokyo",03-0123-4022,139.6318,35.63029,988.0
+S14027,Minami -Fujizawa store,14,Kanagawa Prefecture,"Minami Fujisawa, Fujisawa City, Kanagawa Prefecture",046-123-4041,139.4896,35.33762,1521.0
+S14021,Isehara store,14,Kanagawa Prefecture,"Isehara 4-chome, Isehara City, Kanagawa Prefecture",046-123-4035,139.3129,35.40169,962.0
+S14047,Sagamihara store,14,Kanagawa Prefecture,"6-chome, Chiyoda, Sagamihara City, Kanagawa Prefecture",042-123-4050,139.3748,35.55959,1047.0
+S12013,Narashino store,12,Chiba prefecture,"1-chome Shibaen, Narashino City, Chiba Prefecture",047-123-4002,140.022,35.66122,808.0
+S13032,Naka -Rokugo store,13,Tokyo,"Nakarokugo Sanchome, Ota-ku, Tokyo",03-0123-4021,139.7123,35.54682,1354.0
+S14042,Niiyama Shinto store,14,Kanagawa Prefecture,"Shinyamashita 2-chome, Naka-ku, Yokohama-shi, Kanagawa",045-123-4047,139.6593,35.43894,1044.0
+S13039,Minamiogikubo store,13,Tokyo,"Minamiogikubo 4-chome, Suginami-ku, Tokyo",03-0123-4025,139.6152,35.70045,1133.0
+S12030,Yawata store,12,Chiba prefecture,"Yawata 3-chome, Ichikawa City, Chiba Prefecture",047-123-4005,139.924,35.72318,1162.0
+S13009,Yoga store,13,Tokyo,"Setagaya-ku, Tokyo Kaga 2-chome",03-0123-4013,139.6382,35.6272,1243.0
+S14025,Yamato store,14,Kanagawa Prefecture,"Shimwada, Yamato City, Kanagawa Prefecture",046-123-4039,139.468,35.43414,1011.0
+S14045,Atsugi store,14,Kanagawa Prefecture,"2-chome Nakamachi, Atsugi City, Kanagawa Prefecture",046-123-4048,139.3651,35.44182,980.0
+S13005,Shirasagi store,13,Tokyo,"Shirasagi Sanchome, Nakano-ku, Tokyo",03-0123-4011,139.6307,35.72246,1259.0
+S12029,Higashino store,12,Chiba prefecture,"1-chome Higashino, Urayasu City, Chiba Prefecture",047-123-4004,139.8968,35.65086,1101.0
+S13003,Komae store,13,Tokyo,"Komae City, Tokyo Izumi Honcho 4-chome",03-0123-4009,139.5668,35.64462,1529.0
+S12053,Takasu store,12,Chiba prefecture,"Takasu 5-chome, Urayasu City, Chiba Prefecture",047-123-4006,139.9176,35.63755,1555.0
+S13037,Minamisuna 1 -chome store,13,Tokyo,"Koto-ku, Tokyo Minamisuna 1-chome",03-0123-4023,139.8215,35.67898,814.0
+S14024,Mita store,14,Kanagawa Prefecture,"Mita 4-chome, Tama-ku, Kawasaki City, Kanagawa Prefecture",044-123-4038,139.5424,35.6077,972.0
+S14006,Kuzugaya store,14,Kanagawa Prefecture,"Kuzugaya, Tsuzuki-ku, Yokohama City, Kanagawa Prefecture",045-123-4031,139.5633,35.53573,1886.0

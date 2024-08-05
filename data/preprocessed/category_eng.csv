@@ -1,0 +1,229 @@
+category_major_cd,category_major_name,category_medium_cd,category_medium_name,category_small_cd,category_small_name
+4,Side dish,401,Rice,40101,Lunch
+4,Side dish,401,Rice,40102,Sushi
+4,Side dish,402,Tsukudani,40201,Seafood tsukudani
+4,Side dish,402,Tsukudani,40202,Sea grass tsukudani
+4,Side dish,402,Tsukudani,40203,Vegetable tsukudani
+4,Side dish,402,Tsukudani,40204,Beans Kudani
+4,Side dish,403,Salad,40301,Salad
+4,Side dish,404,Japanese side dish,40401,Stir-fried and boiled foods
+4,Side dish,404,Japanese side dish,40402,Masturbation
+4,Side dish,404,Japanese side dish,40403,Vinegar
+4,Side dish,404,Japanese side dish,40404,Other Japanese side dishes
+4,Side dish,405,Fry,40501,Fry
+4,Side dish,405,Fry,40502,Fried chicken
+4,Side dish,405,Fry,40503,Tempura
+4,Side dish,405,Fry,40504,Chicken roasted
+4,Side dish,406,Western-style side dish,40601,Gratin pizza
+4,Side dish,406,Western-style side dish,40602,Snacks
+4,Side dish,406,Western-style side dish,40603,Other Western-style side dishes
+4,Side dish,407,Chinese side dish,40701,Chinese side dish
+4,Side dish,408,pottery,40801,Eel kabayaki
+4,Side dish,408,pottery,40802,Other pottery
+4,Side dish,413,others,41302,others
+5,Japanese Japanese,501,Waterfish,50101,Tofu
+5,Japanese Japanese,501,Waterfish,50102,Fried fried and cancer
+5,Japanese Japanese,501,Waterfish,50103,Konjac
+5,Japanese Japanese,501,Waterfish,50104,Other water
+5,Japanese Japanese,502,Pickles,50201,Bran pickles
+5,Japanese Japanese,502,Pickles,50202,Pickled in salted
+5,Japanese Japanese,502,Pickles,50203,Pickled soy sauce
+5,Japanese Japanese,502,Pickles,50204,Pickled in lees
+5,Japanese Japanese,502,Pickles,50205,Pickling
+5,Japanese Japanese,502,Pickles,50206,Pickled miso
+5,Japanese Japanese,502,Pickles,50207,Other pickles
+5,Japanese Japanese,503,Raw noodles,50301,Raw udon
+5,Japanese Japanese,503,Raw noodles,50302,Raw soba
+5,Japanese Japanese,503,Raw noodles,50303,Raw ramen
+5,Japanese Japanese,503,Raw noodles,50304,Raw pasta
+5,Japanese Japanese,503,Raw noodles,50305,others
+5,Japanese Japanese,504,Trick,50401,Red plate
+5,Japanese Japanese,504,Trick,50402,Bamboo burning
+5,Japanese Japanese,504,Trick,50403,Bamboo ring
+5,Japanese Japanese,504,Trick,50404,Fried food
+5,Japanese Japanese,504,Trick,50405,Hanpen
+5,Japanese Japanese,504,Trick,50406,Other Kamaboko
+5,Japanese Japanese,504,Trick,50407,Cooking product
+5,Japanese Japanese,505,frozen food,50501,Frozen vegetables
+5,Japanese Japanese,505,frozen food,50502,Side food frozen food
+5,Japanese Japanese,505,frozen food,50503,Snack frozen food
+5,Japanese Japanese,505,frozen food,50504,Rice frozen food
+5,Japanese Japanese,505,frozen food,50505,Noodles frozen foods
+5,Japanese Japanese,505,frozen food,50506,Other frozen foods
+5,Japanese Japanese,506,egg,50601,Ordinary eggs
+5,Japanese Japanese,506,egg,50602,Special egg
+5,Japanese Japanese,506,egg,50603,others
+5,Japanese Japanese,507,Other Japanese Japanese,50701,Natto
+5,Japanese Japanese,590,others,59001,others
+6,Bread / dairy products,601,bread,60101,Plain bread
+6,Bread / dairy products,601,bread,60102,Confectionery bread
+6,Bread / dairy products,601,bread,60103,Cooking bread
+6,Bread / dairy products,601,bread,60104,Other bread
+6,Bread / dairy products,602,Raw confectionery,60201,Raw confectionery
+6,Bread / dairy products,602,Raw confectionery,60202,Buns
+6,Bread / dairy products,602,Raw confectionery,60203,Cakes
+6,Bread / dairy products,602,Raw confectionery,60204,others
+6,Bread / dairy products,603,milk,60303,Other milk
+6,Bread / dairy products,604,Dairy products,60401,butter
+6,Bread / dairy products,604,Dairy products,60402,margarine
+6,Bread / dairy products,604,Dairy products,60403,cheese
+6,Bread / dairy products,605,Chilled food,60501,Chilled semi-product
+6,Bread / dairy products,605,Chilled food,60502,Chilled seasoning
+6,Bread / dairy products,605,Chilled food,60503,Chilled dessert
+6,Bread / dairy products,606,milk beverage,60601,milk beverage
+6,Bread / dairy products,606,milk beverage,60602,Juice drink
+6,Bread / dairy products,606,milk beverage,60603,others
+6,Bread / dairy products,607,dessert,60701,Pudding
+6,Bread / dairy products,607,dessert,60702,Yogurt
+6,Bread / dairy products,607,dessert,60703,jelly
+6,Bread / dairy products,607,dessert,60704,Other dessert
+6,Bread / dairy products,608,Cold confectionery,60801,Personal ice
+6,Bread / dairy products,608,Cold confectionery,60802,Premium ice
+6,Bread / dairy products,608,Cold confectionery,60803,Family ice cream
+6,Bread / dairy products,608,Cold confectionery,60804,Ice value pack
+6,Bread / dairy products,608,Cold confectionery,60805,Commercial ice cream
+6,Bread / dairy products,608,Cold confectionery,60806,Other cold confectionery
+7,Canned canned,701,Agricultural dry matter,70101,Flour
+7,Canned canned,701,Agricultural dry matter,70102,Shiitake mushrooms
+7,Canned canned,701,Agricultural dry matter,70103,Dried beans
+7,Canned canned,701,Agricultural dry matter,70104,Other agricultural dry matter
+7,Canned canned,702,Marine-produced food,70201,seaweed
+7,Canned canned,702,Marine-produced food,70202,Seaweed
+7,Canned canned,702,Marine-produced food,70203,Boiled and shaved
+7,Canned canned,702,Marine-produced food,70204,Other marine dry matter
+7,Canned canned,703,Japanese-style taste,70301,soy sauce
+7,Canned canned,703,Japanese-style taste,70302,sweet sake
+7,Canned canned,703,Japanese-style taste,70303,Sauce soup
+7,Canned canned,703,Japanese-style taste,70304,miso
+7,Canned canned,703,Japanese-style taste,70305,Sugar and sweeteners
+7,Canned canned,703,Japanese-style taste,70306,salt
+7,Canned canned,703,Japanese-style taste,70307,Seasoning
+7,Canned canned,703,Japanese-style taste,70308,Cooking oil
+7,Canned canned,703,Japanese-style taste,70309,Edible vinegar
+7,Canned canned,703,Japanese-style taste,70310,Other Japanese-style seasoning
+7,Canned canned,704,Western-style seasoning,70401,dressing
+7,Canned canned,704,Western-style seasoning,70402,vinegar
+7,Canned canned,704,Western-style seasoning,70403,ketchup
+7,Canned canned,704,Western-style seasoning,70404,sauce
+7,Canned canned,704,Western-style seasoning,70405,Curry stew
+7,Canned canned,704,Western-style seasoning,70406,spices
+7,Canned canned,704,Western-style seasoning,70407,Chinese material
+7,Canned canned,704,Western-style seasoning,70408,Other Western-style seasonings
+7,Canned canned,705,Can bottles,70501,Canned agricultural
+7,Canned canned,705,Can bottles,70502,Canned livestock
+7,Canned canned,705,Can bottles,70503,Canned fisheries
+7,Canned canned,705,Can bottles,70504,Fruit can
+7,Canned canned,705,Can bottles,70505,bottled
+7,Canned canned,705,Can bottles,70506,Other can bottles
+7,Canned canned,706,Dry noodles,70601,Dried noodles
+7,Canned canned,706,Dry noodles,70602,Dry pasta
+7,Canned canned,707,Instant processing,70701,Instant bag noodles
+7,Canned canned,707,Instant processing,70702,Instant cup noodle
+7,Canned canned,707,Instant processing,70703,Instant soups
+7,Canned canned,707,Instant processing,70704,Instant miso soup
+7,Canned canned,707,Instant processing,70705,Instant pasta
+7,Canned canned,707,Instant processing,70706,Instant food
+7,Canned canned,707,Instant processing,70707,Sprinkle Ochazuke
+7,Canned canned,707,Instant processing,70708,U.S.-related instant tuning agent
+7,Canned canned,707,Instant processing,70709,Instant tuning for cooking
+7,Canned canned,707,Instant processing,70710,Other processed products
+7,Canned canned,708,Coffee tea,70801,Regular coffee
+7,Canned canned,708,Coffee tea,70802,Instant coffee
+7,Canned canned,708,Coffee tea,70803,Black tea cocoa
+7,Canned canned,708,Coffee tea,70804,powder
+7,Canned canned,708,Coffee tea,70805,Japanese tea
+7,Canned canned,708,Coffee tea,70806,China Healthy Tea
+7,Canned canned,708,Coffee tea,70807,others
+7,Canned canned,709,Luxury,70901,Jams
+7,Canned canned,709,Luxury,70902,Dessert mix
+7,Canned canned,709,Luxury,70903,Premix
+7,Canned canned,709,Luxury,70904,Cake bread material
+7,Canned canned,709,Luxury,70905,Other luxury items
+7,Canned canned,710,Drink,71001,Fruit juice soft drink
+7,Canned canned,710,Drink,71002,Carbonated drink
+7,Canned canned,710,Drink,71003,Functional drink drink
+7,Canned canned,710,Drink,71004,Coffee drink
+7,Canned canned,710,Drink,71005,Tea drink
+7,Canned canned,710,Drink,71006,water
+7,Canned canned,710,Drink,71007,Other beverages
+7,Canned canned,711,Nutritional aids,71101,Vitamin auxiliary agent
+7,Canned canned,711,Nutritional aids,71102,Calcium auxiliary agent
+7,Canned canned,711,Nutritional aids,71103,Other nutritional aids
+7,Canned canned,712,Baby food,71201,Powdered milk
+7,Canned canned,712,Baby food,71202,Baby food
+7,Canned canned,712,Baby food,71203,Other supplementation agent
+7,Canned canned,713,Rice,71301,Rice
+7,Canned canned,713,Rice,71302,Other US processed products
+7,Canned canned,714,tobacco,71401,tobacco
+8,Confectionery,801,Pocket,80101,chocolate candy
+8,Confectionery,801,Pocket,80102,Candy
+8,Confectionery,801,Pocket,80103,Gum
+8,Confectionery,801,Pocket,80104,Toy confectionery
+8,Confectionery,801,Pocket,80105,Other pocket items
+8,Confectionery,802,snack,80201,Crisps
+8,Confectionery,802,snack,80202,Snacks
+8,Confectionery,802,snack,80203,Other snacks
+8,Confectionery,803,Chocolate confectionery,80301,Bag chocolate
+8,Confectionery,803,Chocolate confectionery,80302,Other chocolate
+8,Confectionery,804,Biscuit,80401,Biscuit cookie
+8,Confectionery,804,Biscuit,80402,cracker
+8,Confectionery,804,Biscuit,80403,Oil sweets
+8,Confectionery,804,Biscuit,80404,others
+8,Confectionery,805,Candy,80501,Yokan in the middle
+8,Confectionery,805,Candy,80502,donut
+8,Confectionery,805,Candy,80503,Room temperature dessert cake
+8,Confectionery,805,Candy,80504,Other confectionery
+8,Confectionery,806,Bean confectionery,80601,peanut
+8,Confectionery,806,Bean confectionery,80602,Nuts
+8,Confectionery,806,Bean confectionery,80603,Other beans confectionery
+8,Confectionery,807,Rice confectionery,80701,"Oh, Okaki"
+8,Confectionery,807,Rice confectionery,80702,Rice cracker
+8,Confectionery,807,Rice confectionery,80703,Other rice confectionery
+8,Confectionery,808,delicacy,80801,Fishery delicacy
+8,Confectionery,808,delicacy,80802,Livestock delicacy
+8,Confectionery,808,delicacy,80803,Pickled delicacy
+8,Confectionery,808,delicacy,80804,Dried fruit
+8,Confectionery,808,delicacy,80805,Other delicacy
+8,Confectionery,809,Other confectionery,80901,Assorted confectionery
+8,Confectionery,809,Other confectionery,80903,others
+9,detergent,901,detergent,90102,Washing detergent
+9,detergent,901,detergent,90103,Kitchen detergent
+9,detergent,902,Soap shampoo lines,90201,Makeup soap
+9,detergent,902,Soap shampoo lines,90202,Body shampoo
+9,detergent,902,Soap shampoo lines,90203,Bath additive
+9,detergent,902,Soap shampoo lines,90204,shampoo
+9,detergent,902,Soap shampoo lines,90205,Hairrins
+9,detergent,902,Soap shampoo lines,90206,treatment
+9,detergent,903,Equipment supplies,90301,dentifrice
+9,detergent,903,Equipment supplies,90302,toothbrush
+9,detergent,903,Equipment supplies,90303,Cooling agent in the mouth
+9,detergent,903,Equipment supplies,90304,Denture agent
+9,detergent,904,Hygienic supplies,90401,Tissue paper
+9,detergent,904,Hygienic supplies,90402,Paper towel
+9,detergent,904,Hygienic supplies,90403,toilet paper
+9,detergent,904,Hygienic supplies,90404,Paper diaper
+9,detergent,904,Hygienic supplies,90405,Dust paper Kyohana paper
+9,detergent,907,Insect repellent aromatic deodorant,90701,Insecticide
+9,detergent,907,Insect repellent aromatic deodorant,90702,Insect repellent
+9,detergent,907,Insect repellent aromatic deodorant,90703,Deodorants
+9,detergent,907,Insect repellent aromatic deodorant,90704,aromatic
+9,detergent,908,Home sundries,90801,Cleaning care supplies
+9,detergent,908,Home sundries,90802,Washing and clothesline
+9,detergent,908,Home sundries,90803,Toilet supplies
+9,detergent,908,Home sundries,90804,Wash and bathroom supplies
+9,detergent,908,Home sundries,90805,Clothing storage storage supplies
+9,detergent,908,Home sundries,90806,Home exhaustion sundries
+9,detergent,908,Home sundries,90807,Cairo
+9,detergent,908,Home sundries,90808,Smoking utensils
+9,detergent,909,Kitchen equipment,90901,Cooking pots and pots
+9,detergent,909,Kitchen equipment,90902,Knife
+9,detergent,909,Kitchen equipment,90903,Cooking auxiliary equipment kitchen seal
+9,detergent,909,Kitchen equipment,90904,Cooking consumables
+9,detergent,909,Kitchen equipment,90905,Sink
+9,detergent,909,Kitchen equipment,90906,Food container
+9,detergent,909,Kitchen equipment,90907,Tabletop
+9,detergent,914,Pet food,91401,Pet food
+9,detergent,914,Pet food,91402,Pet for pet
+9,detergent,914,Pet food,91403,Pet utensils
+9,detergent,915,DIY supplies,91501,Building and painting materials
+9,detergent,915,DIY supplies,91503,Gardening

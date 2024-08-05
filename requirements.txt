@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyterlab
+ipykernel
+folium
+statsmodels
+lightgbm
+imblearn
+googletrans
+openpyxl

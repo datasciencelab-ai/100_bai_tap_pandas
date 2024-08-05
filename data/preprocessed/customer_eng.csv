@@ -1,0 +1,1100 @@
+customer_id,customer_name,gender_cd,gender,birth_day,age,postal_cd,address,application_store_cd,application_date,status_cd
+CS019415000154,Yuki Umemura,9,Unknown,1971-07-08,47,179-0084,"Hikawadai, Nerima -ku, Tokyo",S13019,20150506,E-20101014-E
+CS008514000047,Nozomi Ishikawa,1,Male,1962-04-03,56,201-0004,"Iwato Kita, Komae City, Tokyo",S13008,20150423,6-20100613-8
+CS038615000025,Takamiko Koyanagi,1,Male,1955-06-29,63,134-0085,"Minami Kasai, Edogawa -ku, Tokyo",S13038,20141222,0-00000000-0
+CS004615000296,Yu Tateishi,1,Male,1950-02-23,69,165-0027,"Nakano -ku, Tokyo Nomo",S13004,20160618,4-20080701-1
+CS033515000071,Yuki Suwa,1,Male,1966-04-30,52,246-0031,"Seya -ku, Yokohama -shi, Kanagawa",S14033,20151129,D-20100930-D
+CS041402000009,Tamura Yonizo,0,Female,1973-10-30,45,206-0022,"Seigaoka, Tama City, Tokyo",S13041,20180501,0-00000000-0
+CS001603000084,Yoshimasa Koseki,0,Female,1956-08-02,62,144-0051,"Nishi -Kamata, Ota -ku, Tokyo",S13001,20170919,0-00000000-0
+CS022515000271,Riho Nakagawa,1,Male,1966-08-27,52,249-0005,"Sakurayama, Zushi City, Kanagawa Prefecture",S14022,20181010,0-00000000-0
+CS020412000046,An apricot of Kurosaki,1,Male,1971-12-09,47,174-0056,"Shimura, Itabashi -ku, Tokyo",S13020,20150820,1-20100516-3
+CS002515000759,Tomosaka Rare,1,Male,1963-07-15,55,185-0013,"Kokubunji -shi, Tokyo Nishiki Kokubo",S13002,20171213,0-00000000-0
+CS015212000021,Fujimura 7th,1,Male,1997-03-20,22,136-0071,"Kameido, Koto -ku, Tokyo",S13015,20150812,0-00000000-0
+CS031514000047,Reiko Haraguchi,1,Male,1963-07-26,55,151-0064,"Uehara, Shibuya -ku, Tokyo",S13031,20150927,8-20090607-6
+CS017513000183,Kyoko Suenaga,1,Male,1965-05-05,53,165-0027,"Nakano -ku, Tokyo Nomo",S13017,20151101,1-20090203-3
+CS002412000619,Light of Noda,1,Male,1975-08-16,43,187-0013,"Mazutacho, Kodaira City, Tokyo",S13002,20170625,0-00000000-0
+CS026712000035,Riko Nagata,1,Male,1942-06-12,76,253-0002,"Takada, Chigasaki City, Kanagawa Prefecture",S14026,20150526,0-00000000-0
+CS044415000024,Chikako Sugino,1,Male,1977-06-02,41,144-0052,"Kamata, Ota -ku, Tokyo",S13044,20180519,6-20101016-9
+CS024415000146,Sachiko Hosaka,1,Male,1977-10-31,41,214-0038,"Ikuta, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150518,D-20101026-F
+CS007502000011,Koji Asakura,0,Female,1962-07-28,56,285-0854,"Kamiza, Sakura City, Chiba Prefecture",S12007,20150328,0-00000000-0
+CS012614000040,Maho Kameyama,1,Male,1951-09-24,67,231-0806,"Honmaki -cho, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150607,0-00000000-0
+CS011312000103,Kaoru Usami,1,Male,1985-08-22,33,211-0066,"Imai Nishi -cho, Nakahara -ku, Kawasaki -shi, Kanagawa",S14011,20150106,0-00000000-0
+CS004415000861,Ryoko Omori,1,Male,1974-01-28,45,165-0032,"Saginomiya, Nakano -ku, Tokyo",S13004,20170525,0-00000000-0
+CS028612000114,Reina Kawamoto,1,Male,1949-04-30,69,245-0016,"Izumi -cho, Izumi -ku, Yokohama -shi, Kanagawa",S14028,20151106,0-00000000-0
+CS019511000020,Erika Kuramoto,1,Male,1966-01-03,53,173-0024,"Oyama Kanai -cho, Itabashi -ku, Tokyo",S13019,20160226,0-00000000-0
+CS027315000019,Yuu Kawahara,1,Male,1983-10-26,35,251-0053,"Honmachi, Fujisawa City, Kanagawa Prefecture",S14027,20141224,0-00000000-0
+CS025512000055,Mayuko Mizuguchi,1,Male,1966-01-15,53,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20150108,4-20090705-4
+CS005713000066,Cool in Ginjo,1,Male,1942-06-01,76,167-0031,"Motomonuma, Suginami -ku, Tokyo",S13005,20170402,0-00000000-0
+CS016711000008,Ruria Tsuruta,1,Male,1946-07-26,72,187-0011,"Suzuki -cho, Kodaira, Tokyo",S13016,20150312,0-00000000-0
+CS002402000002,Kotaro Kameda,0,Female,1970-10-01,48,187-0044,"Kiheicho, Kodaira City, Tokyo",S13002,20150725,0-00000000-0
+CS003413000483,Sachiko Totsuka,1,Male,1977-05-18,41,201-0012,"Komae -shi, Tokyo Ikuwaki",S13003,20160711,0-00000000-0
+CS035715000050,Yuki Iizuka,1,Male,1943-01-07,76,158-0081,"Fukasawa, Setagaya -ku, Tokyo",S13035,20150506,0-00000000-0
+CS030713000033,Haruka Higuchi,1,Male,1940-05-09,78,272-0035,"Nitta, Ichikawa City, Chiba Prefecture",S12030,20141228,0-00000000-0
+CS003412000408,Kamei Mahiru,1,Male,1975-05-03,43,182-0025,"Tama River, Chofu City, Tokyo",S13003,20160729,0-00000000-0
+CS015415000242,Yoshino Masaki,1,Male,1977-09-11,41,136-0076,"Minami sand in Koto -ku, Tokyo",S13015,20161029,0-00000000-0
+CS023315000156,Saki Takayama,1,Male,1988-03-28,31,212-0016,"Minamikai -cho, Sachi -ku, Kawasaki -shi, Kanagawa",S14023,20150223,0-00000000-0
+CS011315000042,Aya Inagaki,1,Male,1982-02-04,37,223-0061,"Hiyoshi, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20150618,1-20080219-3
+CS016612000085,Natsuki Takenaka,1,Male,1950-03-05,69,184-0015,"Nukii Kita -cho, Koganei -shi, Tokyo",S13016,20150819,0-00000000-0
+CS007702000011,History of Takeshi Nagai,0,Female,1941-04-22,77,285-0866,"Usuidai, Sakura City, Chiba Prefecture",S12007,20150609,0-00000000-0
+CS029503000041,Nakahara Subaru,0,Female,1966-02-13,53,134-0084,"Higashi Kasai, Edogawa -ku, Tokyo",S12029,20150222,0-00000000-0
+CS005312000200,Kaoru Kurata,1,Male,1978-11-01,40,179-0075,"Takamatsu, Nerima -ku, Tokyo",S13005,20170524,0-00000000-0
+CS023313000136,Mukai Mukai,1,Male,1981-11-25,37,212-0011,"Yuki -cho, Kawasaki -shi, Kanagawa",S14023,20150419,0-00000000-0
+CS044611000004,Yoshino Kikuchi,1,Male,1949-07-12,69,143-0026,"Nishimagome, Ota -ku, Tokyo",S13044,20170921,0-00000000-0
+CS001315000186,Mikako Tomita,1,Male,1979-11-13,39,144-0055,"Nakarokugo, Ota -ku, Tokyo",S13001,20150503,3-20080412-1
+CS034704000005,Takahiro Gomi,0,Female,1940-06-20,78,216-0001,"Nogawa, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150811,0-00000000-0
+CS023213000050,Rinko Nagano,1,Male,1995-12-01,23,212-0005,"Tate at Sachi -ku, Kawasaki City, Kanagawa Prefecture",S14023,20150625,0-00000000-0
+CS019114000002,Mami Morii,1,Male,2004-12-17,14,171-0041,"Chikawa, Toshima -ku, Tokyo",S13019,20150507,0-00000000-0
+CS019415000084,Honzan Mami,1,Male,1971-12-20,47,176-0003,"Hazawa, Nerima -ku, Tokyo",S13019,20151109,C-20101012-E
+CS026513000087,Natsuki Kikuchi,9,Unknown,1961-09-24,57,251-0047,"Tsujido, Fujisawa City, Kanagawa Prefecture",S14026,20150218,7-20100613-A
+CS039602000013,Yosuke Kawamura,0,Female,1952-06-24,66,168-0073,"Shimotaka well, Suginami -ku, Tokyo",S13039,20150308,0-00000000-0
+CS017313000004,Reina Numata,1,Male,1986-11-12,32,166-0011,"Umisato, Suginami -ku, Tokyo",S13017,20150220,0-00000000-0
+CS026615000130,Rie Matsunaga,1,Male,1951-12-19,67,251-0043,"Tsujido Motomachi, Fujisawa City, Kanagawa Prefecture",S14026,20150128,8-20090727-5
+CS007714000023,Ema Nishikawa,1,Male,1942-09-26,76,285-0854,"Kamiza, Sakura City, Chiba Prefecture",S12007,20151123,0-00000000-0
+CS027613000042,Hiroko Ishiguro,9,Unknown,1950-11-06,68,251-0052,"Fujisawa, Fujisawa City, Kanagawa Prefecture",S14027,20151121,0-00000000-0
+CS023313000214,Old rice flower,1,Male,1985-01-23,34,212-0016,"Minamikai -cho, Sachi -ku, Kawasaki -shi, Kanagawa",S14023,20180129,0-00000000-0
+CS019214000008,Reina Okuno,1,Male,1991-07-01,27,171-0044,"Chihaya, Toshima -ku, Tokyo",S13019,20150102,D-20100714-A
+CS002515000256,Yoko Kikuchi,1,Male,1964-10-06,54,185-0013,"Kokubunji -shi, Tokyo Nishiki Kokubo",S13002,20161201,A-20100303-7
+CS020402000018,Miyaji Meida,0,Female,1977-03-24,42,174-0072,"Minamitoshidai, Itabashi -ku, Tokyo",S13020,20150420,0-00000000-0
+CS034612000049,Chinatsu Miki,1,Male,1950-07-01,68,213-0022,"Thousands of Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150711,1-20081230-4
+CS019504000003,Hiro Sugawara,0,Female,1961-01-22,58,176-0004,"Kotake -cho, Nerima -ku, Tokyo",S13019,20151030,0-00000000-0
+CS003303000038,Hideki Shiina,0,Female,1981-03-14,38,201-0001,"Nishinogawa, Komae City, Tokyo",S13003,20160522,0-00000000-0
+CS005314000119,Misato Ida,1,Male,1984-08-25,34,167-0031,"Motomonuma, Suginami -ku, Tokyo",S13005,20170610,0-00000000-0
+CS005713000021,Ruria Noda,1,Male,1943-10-03,75,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13005,20150317,0-00000000-0
+CS006513000109,Rinako Kinoshita,1,Male,1967-07-23,51,224-0053,"Ikebe -cho, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20150505,9-20090329-8
+CS006303000008,Izumi alone,0,Female,1985-07-20,33,224-0006,"Eda Higashi, Tsuzuki -ku, Yokohama City, Kanagawa Prefecture",S14006,20150409,0-00000000-0
+CS017315000023,Reina Uchino,1,Male,1987-02-21,32,166-0015,"Narita Higashi, Suginami -ku, Tokyo",S13017,20141209,C-20090424-5
+CS002511000067,Yu Kishibe,1,Male,1960-01-22,59,187-0043,"Gakuen -shi, Kodaira, Tokyo",S13002,20160507,0-00000000-0
+CS004512000443,Hiro Kameda,9,Unknown,1967-06-15,51,179-0074,"Kasuga -cho, Nerima -ku, Tokyo",S13004,20170405,2-20100801-1
+CS029603000027,Masayoshi Tamura,0,Female,1948-11-01,70,279-0011,"Mihama, Urayasu City, Chiba Prefecture",S12029,20150128,0-00000000-0
+CS002415000437,Saki Otsuka,1,Male,1970-04-07,48,184-0015,"Nukii Kita -cho, Koganei -shi, Tokyo",S13002,20160219,2-20100217-1
+CS037412000196,Accompaniment,1,Male,1975-05-17,43,136-0071,"Kameido, Koto -ku, Tokyo",S13037,20150115,4-20090322-4
+CS019412000220,Carnivorous,1,Male,1975-03-08,44,174-0062,"Fujimi -cho, Itabashi -ku, Tokyo",S13019,20151201,0-00000000-0
+CS030415000034,Tamaki Nanko,1,Male,1969-01-28,50,272-0025,"Owada, Ichikawa City, Chiba Prefecture",S12030,20150501,F-20101020-F
+CS004614000135,Reina Otani,1,Male,1951-08-11,67,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13004,20160110,0-00000000-0
+CS025214000016,Furukawa Erika,1,Male,1995-10-06,23,245-0018,"Kamiiida -cho, Izumi -ku, Yokohama -shi, Kanagawa",S14025,20150825,D-20101029-F
+CS003615000385,Kyoko Uemura,1,Male,1951-02-25,68,201-0001,"Nishinogawa, Komae City, Tokyo",S13003,20170310,0-00000000-0
+CS006413000104,Sudo flower,1,Male,1970-03-01,49,224-0006,"Eda Higashi, Tsuzuki -ku, Yokohama City, Kanagawa Prefecture",S14006,20151018,3-20080519-2
+CS029615000022,Asami Ogata,1,Male,1949-11-06,69,279-0041,"Horie, Urayasu City, Chiba Prefecture",S12029,20150728,0-00000000-0
+CS004603000051,Taro Matsutani,0,Female,1952-12-11,66,165-0032,"Saginomiya, Nakano -ku, Tokyo",S13004,20161014,0-00000000-0
+CS003314000081,Takakura sandbags,1,Male,1984-06-27,34,201-0012,"Komae -shi, Tokyo Ikuwaki",S13003,20150324,6-20100917-7
+CS015613000137,Takamiko Ishikawa,1,Male,1951-01-28,68,136-0073,"Kitasuna, Koto -ku, Tokyo",S13015,20150620,0-00000000-0
+CS039315000008,Michiko Kasahara,1,Male,1980-01-16,39,166-0004,"Asaya Minami, Suginami -ku, Tokyo",S13039,20150327,8-20081025-6
+CS022512000112,Miki Oya,1,Male,1959-12-18,59,240-0111,"Ichiro Hayama -cho, Miura -gun, Kanagawa Prefecture",S14022,20150310,0-00000000-0
+CS031615000133,Kyoko Mizutani,1,Male,1953-05-22,65,151-0064,"Uehara, Shibuya -ku, Tokyo",S13031,20150118,0-00000000-0
+CS026612000001,Nao Umemura,1,Male,1953-03-11,66,253-0012,"Owada, Chigasaki City, Kanagawa Prefecture",S14026,20150705,0-00000000-0
+CS031513000075,Ikuko Yoneya,1,Male,1960-03-23,59,164-0014,"Minamidai, Nakano -ku, Tokyo",S13031,20150720,9-20100823-A
+CS040514000025,Ryo Kageyama,1,Male,1966-11-28,52,226-0028,"Ibukino, Midori -ku, Yokohama City, Kanagawa Prefecture",S14040,20150722,8-20091205-9
+CS001315000496,Yu Hosaka,1,Male,1980-08-17,38,146-0095,"Tama River, Ota -ku, Tokyo",S13001,20180129,0-00000000-0
+CS010713000056,Horii Asayang,1,Male,1942-09-07,76,221-0065,"Hakuraku Kanagawa -ku, Yokohama City, Kanagawa Prefecture",S14010,20150616,0-00000000-0
+CS034212000041,Mayuko Asada,1,Male,1988-11-25,30,213-0013,"Last Director of Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150927,6-20100419-6
+CS025612000110,Hiroko Teranishi,1,Male,1950-08-31,68,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20180323,0-00000000-0
+CS003401000014,Hiromasa Nukijiya,0,Female,1975-10-06,43,206-0812,"Yanoguchi, Inagi City, Tokyo",S13003,20160322,0-00000000-0
+CS015512000161,Fukushi Reina,1,Male,1960-11-25,58,136-0074,"Higashi Sands, Koto -ku, Tokyo",S13015,20151215,7-20091206-3
+CS011413000136,Chiemi Ichikawa,1,Male,1974-02-08,45,223-0051,"Minowa -cho, Kita -ku, Yokohama -shi, Kanagawa",S14011,20150723,0-00000000-0
+CS006315000046,Haruka Oguchi,1,Male,1985-12-31,33,224-0064,"Hiradai, Tsuzuki -ku, Yokohama City, Kanagawa Prefecture",S14006,20140424,9-20080920-8
+CS024414000120,Erika Sekiguchi,1,Male,1974-06-20,44,214-0034,"Mita, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150901,9-20100818-D
+CS005314000076,Sachie Otsuki,1,Male,1980-10-01,38,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13005,20150430,5-20090915-1
+CS010712000050,Nana Okura,1,Male,1939-10-31,79,223-0057,"Shinhamachi, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150922,0-00000000-0
+CS023213000021,Rio Moriguchi,1,Male,1985-08-05,33,158-0083,"Okusawa, Setagaya -ku, Tokyo",S14023,20150302,0-00000000-0
+CS029505000003,Sogo Sugawa,0,Female,1966-01-29,53,279-0041,"Horie, Urayasu City, Chiba Prefecture",S12029,20151121,1-20080701-5
+CS032611000019,Nanko Okamoto,1,Male,1972-08-14,46,213-0013,"Last Director of Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S13032,20150413,0-00000000-0
+CS009313000179,Nana Yoneya,1,Male,1987-07-01,31,158-0097,"Yoga, Setagaya -ku, Tokyo",S13009,20151017,0-00000000-0
+CS004513000323,Tomosaka Erica,1,Male,1959-08-13,59,165-0027,"Nakano -ku, Tokyo Nomo",S13004,20161206,9-20091005-8
+CS021115000004,Hikaru Kurata,1,Male,2003-01-19,16,259-1111,"Nishi -Tomioka, Isehara City, Kanagawa Prefecture",S14021,20150212,E-20100925-E
+CS038503000012,Aoki Choi,0,Female,1961-08-31,57,279-0041,"Horie, Urayasu City, Chiba Prefecture",S13038,20150125,0-00000000-0
+CS027614000029,Reiko Yamada,1,Male,1955-03-25,64,251-0016,"Maitreji Temple, Fujisawa City, Kanagawa Prefecture",S14027,20150212,5-20100704-6
+CS005513000137,Riho Kodaira,1,Male,1967-04-26,51,165-0033,"Wakamiya, Nakano -ku, Tokyo",S13005,20150117,2-20100614-2
+CS020311000044,Onoda Shibori,1,Male,1983-06-13,35,174-0074,"Higashishinmachi, Itabashi -ku, Tokyo",S13020,20151224,2-20080212-3
+CS001312000118,Natsuki Honda,1,Male,1982-08-11,36,210-0834,"Oshima, Kawasaki -ku, Kawasaki City, Kanagawa Prefecture",S13001,20150709,0-00000000-0
+CS039415000073,Ryoko Toda,1,Male,1977-06-12,41,167-0051,"Ogikubo, Suginami -ku, Tokyo",S13039,20150322,F-20100427-E
+CS004511000031,Risa Tsutsumi,1,Male,1967-10-13,51,179-0075,"Takamatsu, Nerima -ku, Tokyo",S13004,20150911,0-00000000-0
+CS003712000143,Yoko Hamamoto,1,Male,1944-03-09,75,182-0006,"Nishitsukijigaoka, Chofu City, Tokyo",S13003,20161204,0-00000000-0
+CS028311000030,Reina Kasai,1,Male,1982-01-07,37,245-0016,"Izumi -cho, Izumi -ku, Yokohama -shi, Kanagawa",S14028,20150608,0-00000000-0
+CS034503000014,Manami Igarashi,9,Unknown,1967-02-18,52,216-0001,"Nogawa, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14034,20151012,0-00000000-0
+CS015413000198,Yuki Yamazaki,1,Male,1977-03-15,42,135-0016,"Toyo, Koto -ku, Tokyo",S13015,20150516,0-00000000-0
+CS017615000060,Michiko Kawachi,1,Male,1957-02-27,62,165-0027,"Nakano -ku, Tokyo Nomo",S13017,20150604,7-20090831-2
+CS037215000046,Asami Shimadzu,1,Male,1996-04-20,22,136-0072,"Oshima, Koto -ku, Tokyo",S13037,20150822,F-20100914-E
+CS007315000123,Ruria Kaneda,1,Male,1979-11-17,39,285-0855,"Ino, Sakura City, Chiba Prefecture",S12007,20150419,0-00000000-0
+CS007412000103,Maho Mikami,1,Male,1972-09-24,46,276-0023,"Katsutadai, Yachiyo City, Chiba Prefecture",S12007,20150429,0-00000000-0
+CS029512000159,Ayako Shibayama,1,Male,1963-04-03,55,134-0003,"Harue -cho, Edogawa -ku, Tokyo",S12029,20150713,0-00000000-0
+CS019715000017,Mika Shibata,1,Male,1946-01-07,73,173-0037,"Komorine, Itabashi -ku, Tokyo",S13019,20150830,0-00000000-0
+CS035513000081,Multiply,1,Male,1964-04-03,54,154-0015,"Sakurashinmachi, Setagaya -ku, Tokyo",S13035,20150605,6-20090309-8
+CS015512000016,Kyoko Mizukami,1,Male,1963-02-14,56,136-0072,"Oshima, Koto -ku, Tokyo",S13015,20150509,0-00000000-0
+CS001213000018,Hitomi Ichikawa,1,Male,1996-01-16,23,144-0055,"Nakarokugo, Ota -ku, Tokyo",S13001,20150721,1-20080519-2
+CS009413000064,Hiroko Koyama,1,Male,1974-12-25,44,154-0016,"Setagaya -ku, Tokyo string roll",S13009,20150512,3-20080414-5
+CS031512000121,Harumi Fukaya,1,Male,1959-03-01,60,164-0014,"Minamidai, Nakano -ku, Tokyo",S13031,20150921,2-20081216-5
+CS033412000074,Mami Umemoto,1,Male,1975-03-18,44,245-0002,"Midorien, Izumi -ku, Yokohama -shi, Kanagawa",S14033,20141222,2-20081013-5
+CS002611000104,Okayama Kyou,1,Male,1954-05-17,64,185-0035,"Nishimachi, Kokubunji -shi, Tokyo",S13002,20170601,0-00000000-0
+CS037413000120,Shun Nagano,1,Male,1976-02-28,43,136-0073,"Kitasuna, Koto -ku, Tokyo",S13037,20150423,4-20080915-6
+CS004715000195,Rinako Yamada,1,Male,1947-05-16,71,165-0033,"Wakamiya, Nakano -ku, Tokyo",S13004,20161218,0-00000000-0
+CS007813000023,Airi Mizoguchi,1,Male,1932-06-28,86,285-0843,"Nakashizu, Sakura City, Chiba Prefecture",S12007,20150501,0-00000000-0
+CS002815000035,Ema Kawano,1,Male,1932-04-17,86,185-0024,"Izumi -cho, Kokubunji, Tokyo",S13002,20161227,3-20090908-2
+CS028715000034,Mayuko Asano,1,Male,1943-12-08,75,246-0031,"Seya -ku, Yokohama -shi, Kanagawa",S14028,20151114,0-00000000-0
+CS016615000090,Toshiaki Hase,9,Unknown,1951-10-22,67,184-0013,"Maehara -cho, Koganei -shi, Tokyo",S13016,20150717,6-20100801-7
+CS012813000024,Nanami Tazaki,1,Male,1934-10-27,84,231-0826,"Honzaki Arai, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150130,0-00000000-0
+CS039813000020,Toshima light,1,Male,1932-03-29,87,167-0034,"Momoi, Suginami -ku, Tokyo",S13039,20150630,0-00000000-0
+CS004112000011,Miyu Tamaki,1,Male,2007-01-03,12,161-0031,"Nishimoho, Shinjuku -ku, Tokyo",S13004,20160615,0-00000000-0
+CS006803000004,Kubota Mekei,0,Female,1933-06-17,85,224-0056,"Kawadai, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20150619,7-20090504-8
+CS023515000237,Miyahara Bunyo,9,Unknown,1961-01-08,58,210-0801,"Suzuki -cho, Kawasaki -ku, Kawasaki -shi, Kanagawa",S14023,20141129,7-20100821-C
+CS039302000007,Kaoru Fujisaki,0,Female,1979-01-14,40,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13039,20150701,0-00000000-0
+CS025403000039,Kawase,0,Female,1976-03-11,43,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20141025,0-00000000-0
+CS028614000036,Yoko Kurita,1,Male,1976-06-27,42,179-0075,"Takamatsu, Nerima -ku, Tokyo",S14028,20150422,3-20091130-5
+CS014502000054,Beyond,0,Female,1962-11-09,56,264-0032,"Mitsuwadai, Wakaba -ku, Chiba City, Chiba Prefecture",S12014,20150427,0-00000000-0
+CS012411000020,Kanako Okuno,1,Male,1976-10-17,42,231-0065,"Miyagawa -cho, Naka -ku, Yokohama -shi, Kanagawa",S14012,20151025,7-20100721-A
+CS033515000117,Aya Tamayama,1,Male,1962-11-24,56,246-0031,"Seya -ku, Yokohama -shi, Kanagawa",S14033,20150622,D-20100207-F
+CS005515000368,Megumi Umezawa,1,Male,1963-06-23,55,165-0031,"Kami -Saginomiya, Nakano -ku, Tokyo",S13005,20170827,5-20101018-2
+CS010404000005,Teppei Abe,0,Female,1972-10-01,46,222-0026,"Shinohara -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150306,0-00000000-0
+CS027313000083,Accompaniment,1,Male,1982-07-26,36,251-0016,"Maitreji Temple, Fujisawa City, Kanagawa Prefecture",S14027,20150405,0-00000000-0
+CS025412000116,Matsuda Somegoro,9,Unknown,1975-09-06,43,242-0014,"Kamewada, Yamato City, Kanagawa Prefecture",S14025,20150909,2-20090223-4
+CS003215000035,Ogasawara Nanomo,1,Male,1996-10-24,22,201-0012,"Komae -shi, Tokyo Ikuwaki",S13003,20150323,A-20101008-B
+CS030412000165,Reina Ozaki,1,Male,1970-02-24,49,270-2222,"Takatsuka Nitta, Matsudo City, Chiba Prefecture",S12030,20151219,0-00000000-0
+CS001515000173,Bunsei Bunbun,1,Male,1960-03-01,59,144-0035,"Minami Kamata, Ota -ku, Tokyo",S13001,20150513,5-20100920-8
+CS012313000033,Saki Seki,9,Unknown,1984-08-06,34,231-0838,"Mameguchiidai, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150504,0-00000000-0
+CS033415000003,Car Kaoru,1,Male,1971-10-26,47,246-0025,"Akuwanishi, Seya -ku, Yokohama -shi, Kanagawa",S14033,20150626,8-20100409-9
+CS025412000184,Yo Kusaka Yo Kusaka,1,Male,1969-07-22,49,242-0014,"Kamewada, Yamato City, Kanagawa Prefecture",S14025,20150601,0-00000000-0
+CS017712000055,Risa Ogata,1,Male,1941-03-13,78,166-0000,"Suginami-ku, Tokyo",S13017,20151226,0-00000000-0
+CS012415000115,First generation of Noguchi,1,Male,1975-01-13,44,231-0831,"Yaguchi Dodai, Naka -ku, Yokohama -shi, Kanagawa",S14012,20160219,C-20100224-A
+CS002715000296,Nao Koyanagi,1,Male,1939-08-09,79,185-0011,"Honda, Kokubunji, Tokyo",S13002,20180629,0-00000000-0
+CS023602000043,Kazuyuki Toda,0,Female,1949-01-31,70,212-0054,"Kokura, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S14023,20170114,0-00000000-0
+CS011615000148,Mina Itagaki,1,Male,1950-11-24,68,223-0053,"Tsunashima Nishi, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20160917,0-00000000-0
+CS003611000081,Reina Kawachi,1,Male,1954-11-26,64,214-0038,"Ikuta, Tama -ku, Kawasaki City, Kanagawa Prefecture",S13003,20170611,0-00000000-0
+CS005515000082,Mikako Yoshii,1,Male,1961-01-24,58,165-0032,"Saginomiya, Nakano -ku, Tokyo",S13005,20151018,C-20091219-C
+CS022413000090,Noriko Shigematsu,1,Male,1970-06-04,48,249-0005,"Sakurayama, Zushi City, Kanagawa Prefecture",S14022,20150909,0-00000000-0
+CS037312000044,Kyoko Ban,1,Male,1983-04-21,35,136-0072,"Oshima, Koto -ku, Tokyo",S13037,20150529,0-00000000-0
+CS023312000142,Aiko Oyama,1,Male,1979-02-14,40,212-0054,"Kokura, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S14023,20150117,0-00000000-0
+CS022415000100,Misako Sunagawa,1,Male,1976-07-10,42,249-0007,"Shinjuku, Zushi City, Kanagawa Prefecture",S14022,20150323,B-20091009-9
+CS012314000114,Sachiko Ashida,1,Male,1986-05-12,32,231-0822,"Honmokimotocho, Naka -ku, Yokohama -shi, Kanagawa",S14012,20180828,0-00000000-0
+CS031404000015,Yusuke Iwanaga,0,Female,1971-04-06,47,151-0071,"Honmachi, Shibuya -ku, Tokyo",S13031,20160205,0-00000000-0
+CS002513000652,Imanishi Kou,9,Unknown,1967-07-05,51,185-0013,"Kokubunji -shi, Tokyo Nishiki Kokubo",S13002,20170625,0-00000000-0
+CS038314000035,Kyoko Okunuki,1,Male,1979-04-09,39,134-0084,"Higashi Kasai, Edogawa -ku, Tokyo",S13038,20151015,A-20100917-9
+CS001412000555,Sachie Nishimoto,1,Male,1972-12-09,46,212-0004,"Koitai -cho, Sachi -ku, Kawasaki -shi, Kanagawa",S13001,20170927,0-00000000-0
+CS023303000011,Masashi Kikuta,0,Female,1985-12-30,33,212-0015,"Kawasaki -shi, Kanagawa, Ko -ku, Yanagi -cho",S14023,20151219,0-00000000-0
+CS002312000208,Yuu Sudo,1,Male,1980-10-12,38,185-0013,"Kokubunji -shi, Tokyo Nishiki Kokubo",S13002,20160614,0-00000000-0
+CS008615000055,Ninomiya Kou,1,Male,1953-06-15,65,157-0074,"Okura, Setagaya -ku, Tokyo",S13008,20150623,5-20100531-8
+CS004712000127,Eiichi Nakahara,0,Female,1964-05-06,54,272-0035,"Nitta, Ichikawa City, Chiba Prefecture",S13004,20170526,0-00000000-0
+CS004513000232,Reiko Fujishima,1,Male,1966-09-08,52,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13004,20161226,0-00000000-0
+CS032312000099,Kyoko Kawano,1,Male,1987-06-05,31,210-0807,"Kawasaki -ku, Kawasaki City, Kanagawa Prefecture",S13032,20150605,0-00000000-0
+CS046311000003,Kyoko Nakata,1,Male,1984-02-24,35,223-0066,"Takada Nishi, Kohoku -ku, Yokohama -shi, Kanagawa",S14046,20170313,2-20090922-4
+CS040612000031,Miho Maeda,1,Male,1956-10-24,62,226-0014,"Taitamura -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150323,0-00000000-0
+CS017413000143,Maruyama Saki,1,Male,1973-09-03,45,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13017,20151120,2-20090517-3
+CS003402000183,Konno Subaru,0,Female,1972-03-01,47,201-0016,"Komai -cho, Komae City, Tokyo",S13003,20180911,0-00000000-0
+CS013415000041,Cool Ichikawa,1,Male,1973-01-10,46,275-0023,"Shibaen, Narashino City, Chiba Prefecture",S12013,20150504,E-20101019-F
+CS003502000170,Saburo Yamanishi,0,Female,1966-01-15,53,214-0038,"Ikuta, Tama -ku, Kawasaki City, Kanagawa Prefecture",S13003,20180119,0-00000000-0
+CS009312000046,Touza Tamura,1,Male,1984-06-14,34,157-0068,"Unane, Setagaya -ku, Tokyo",S13009,20150603,0-00000000-0
+CS002713000169,Hiromi Sasaki,1,Male,1946-07-29,72,185-0023,"Nishimotocho, Kokubunji -shi, Tokyo",S13002,20170710,0-00000000-0
+CS035513000155,Masayo Itakura,1,Male,1960-06-12,58,157-0075,"Kinuta Park, Setagaya -ku, Tokyo",S13035,20150625,0-00000000-0
+CS016513000108,Rinako Miyazaki,1,Male,1964-10-26,54,184-0014,"Koganei City, Koganei -shi, Tokyo",S13016,20150623,0-00000000-0
+CS030613000131,Theatrical Company Miyuki,1,Male,1957-01-05,62,272-0021,"Yawata, Ichikawa City, Chiba Prefecture",S12030,20160408,2-20100830-4
+CS007712000049,Shihori Kosuga,1,Male,1939-05-13,79,285-0836,"Ikutani, Sakura City, Chiba Prefecture",S12007,20150730,0-00000000-0
+CS002313000026,Miyuki Owada,1,Male,1983-09-30,35,185-0021,"Minami -cho, Kokubunji -shi, Tokyo",S13002,20150525,0-00000000-0
+CS010715000051,Sugaya tomorrow,1,Male,1945-02-19,74,221-0001,"Nishidao, Kanagawa -ku, Yokohama City, Kanagawa Prefecture",S14010,20160207,0-00000000-0
+CS025712000031,Tsuchiya Manami,1,Male,1942-02-10,77,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20150809,0-00000000-0
+CS011415000059,Tomoyo Nakamura,1,Male,1971-01-03,48,223-0051,"Minowa -cho, Kita -ku, Yokohama -shi, Kanagawa",S14011,20141226,F-20101013-F
+CS023603000025,Minakawa,0,Female,1955-07-15,63,212-0012,"Nakayuki -cho, Yuki -ku, Kawasaki -shi, Kanagawa",S14023,20151025,0-00000000-0
+CS002713000080,Reina Hirao,9,Unknown,1944-04-21,74,185-0024,"Izumi -cho, Kokubunji, Tokyo",S13002,20160725,0-00000000-0
+CS004503000020,Rokuro Fujiwara,0,Female,1968-02-25,51,165-0035,"Shirasagi, Nakano -ku, Tokyo",S13004,20150425,0-00000000-0
+CS003515000667,Kaoru Yanagihara,1,Male,1962-12-08,56,182-0022,"Kokuro -cho, Chofu -shi, Tokyo",S13003,20170614,2-20091229-2
+CS035404000012,Five great success,0,Female,1976-08-02,42,158-0097,"Yoga, Setagaya -ku, Tokyo",S13035,20170809,0-00000000-0
+CS019412000123,Misa Yasui,1,Male,1973-04-17,45,173-0015,"Sakaemachi, Itabashi -ku, Tokyo",S13019,20150718,1-20090921-3
+CS009415000307,Yuko Asakawa,1,Male,1972-01-15,47,158-0096,"Tamakawadai, Setagaya -ku, Tokyo",S13009,20180826,0-00000000-0
+CS041313000015,Kyoko Nogami,1,Male,1984-04-02,34,192-0354,"Hachioji Ichimatsu, Tokyo",S13041,20170205,0-00000000-0
+CS003312000290,Mayuko Shigematsu,1,Male,1986-02-17,33,206-0812,"Yanoguchi, Inagi City, Tokyo",S13003,20160629,0-00000000-0
+CS024815000023,Mayuko Takenaka,1,Male,1931-11-25,87,214-0035,"Nagasawa, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20151030,2-20080925-4
+CS002611000086,Yoko Toyoda,9,Unknown,1954-03-16,65,187-0032,"Ogawa -cho, Kodaira -shi, Tokyo",S13002,20170512,0-00000000-0
+CS052515000002,Natsuki Oda,1,Male,1966-03-03,53,194-0022,"Morino, Machida City, Tokyo",S13052,20180117,0-00000000-0
+CS006615000045,Aiko Hata,1,Male,1956-08-31,62,224-0053,"Ikebe -cho, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20150919,4-20091101-8
+CS032413000073,Ai Sugiura,9,Unknown,1975-09-18,43,144-0044,"Haneda, Ota -ku, Tokyo",S13032,20150929,1-20080317-5
+CS001511000115,Michiko Nakamura,1,Male,1967-07-09,51,212-0021,"Miyako -ku, Kawasaki -shi, Kanagawa",S13001,20170310,0-00000000-0
+CS013314000055,Satomi Okuno,1,Male,1979-01-15,40,261-0025,"Hamada, Mihama -ku, Chiba -shi, Chiba",S12013,20150501,3-20080524-3
+CS031513000017,Yonekura Harumi,1,Male,1966-08-25,52,151-0062,"Former Yoyogi -cho, Shibuya -ku, Tokyo",S13031,20151220,B-20090720-B
+CS039313000112,Ayaka Otsuka,1,Male,1981-05-02,37,167-0052,"Minamiogikubo, Suginami -ku, Tokyo",S13039,20150802,0-00000000-0
+CS027815000014,Nanami Ichikawa,1,Male,1933-04-22,85,251-0052,"Fujisawa, Fujisawa City, Kanagawa Prefecture",S14027,20151113,0-00000000-0
+CS007512000054,Akane Shimadzu,1,Male,1963-12-17,55,276-0045,"Owada, Yachiyo City, Chiba Prefecture",S12007,20150713,0-00000000-0
+CS003412000454,Okayama Natsuzora,1,Male,1971-04-30,47,182-0012,"Chofu -shi, Tokyo, Jindaiji Temple Higashi -cho",S13003,20171011,0-00000000-0
+CS015215000021,Yumiko Oda,1,Male,1997-04-16,21,135-0014,"Ishijima, Koto -ku, Tokyo",S13015,20151019,B-20100316-D
+CS040513000035,Asuka Morinaga,1,Male,1959-05-01,59,226-0025,"Toki -Ichimachi, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150502,9-20100927-B
+CS015315000033,Rinako Fukushi,1,Male,1983-03-17,36,135-0043,"Shiohama, Koto -ku, Tokyo",S13015,20141024,4-20080219-3
+CS011413000082,Theatrical company Saki,1,Male,1969-05-18,49,223-0066,"Takada Nishi, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20150613,0-00000000-0
+CS031515000257,Mizuki Kita,1,Male,1961-07-30,57,151-0066,"Nishihara, Shibuya -ku, Tokyo",S13031,20180124,0-00000000-0
+CS023412000145,Natsumi Sugaya,1,Male,1973-03-19,46,212-0004,"Koitai -cho, Sachi -ku, Kawasaki -shi, Kanagawa",S14023,20150315,0-00000000-0
+CS027414000140,Junko Kanaya,1,Male,1969-11-30,49,251-0052,"Fujisawa, Fujisawa City, Kanagawa Prefecture",S14027,20150319,A-20100817-E
+CS002303000036,Yujiro Yamase,0,Female,1987-06-23,31,185-0011,"Honda, Kokubunji, Tokyo",S13002,20161126,0-00000000-0
+CS019401000022,Aya Kodaira,1,Male,1981-10-27,37,158-0096,"Tamakawadai, Setagaya -ku, Tokyo",S13019,20150613,0-00000000-0
+CS003512000285,Maho Uno,1,Male,1965-03-08,54,214-0004,"Sugababa, Tama -ku, Kawasaki City, Kanagawa Prefecture",S13003,20161013,6-20100530-2
+CS005312000249,Takamiko Toyama,1,Male,1983-04-03,35,177-0044,"Kamiishi Kamiii, Nerima -ku, Tokyo",S13005,20170323,0-00000000-0
+CS024312000012,Durability,9,Unknown,1980-01-19,39,216-0031,"Kamikihonmachi, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150601,0-00000000-0
+CS005414000029,Sekinao,1,Male,1973-03-09,46,165-0035,"Shirasagi, Nakano -ku, Tokyo",S13005,20150616,2-20100814-1
+CS033712000042,Hiraoka Shibori,1,Male,1946-06-07,72,245-0016,"Izumi -cho, Izumi -ku, Yokohama -shi, Kanagawa",S14033,20151013,0-00000000-0
+CS030212000015,Sachie Moriguchi,1,Male,1997-02-17,22,272-0013,"Takaya, Ichikawa City, Chiba Prefecture",S12030,20150903,0-00000000-0
+CS023515000061,Miyuki Hamaguchi,1,Male,1967-05-06,51,212-0022,"Shinmeicho, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S14023,20150913,B-20100629-D
+CS030312000070,Yoko Itakura,1,Male,1954-07-08,64,263-0001,"Naganumahara -cho, Inage -ku, Chiba -shi, Chiba",S12030,20150616,0-00000000-0
+CS006413000127,Sachiko Ono,1,Male,1975-05-23,43,224-0007,"Eda Minami, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20150716,0-00000000-0
+CS006413000182,Rinako Matsunaga,1,Male,1974-04-06,44,224-0064,"Hiradai, Tsuzuki -ku, Yokohama City, Kanagawa Prefecture",S14006,20150626,1-20100919-2
+CS003611000089,Rinako Yamauchi,1,Male,1956-06-20,62,206-0812,"Yanoguchi, Inagi City, Tokyo",S13003,20170524,0-00000000-0
+CS017314000022,Sachiko Kamino,1,Male,1986-12-06,32,166-0002,"Koenji Kita, Suginami -ku, Tokyo",S13017,20150602,5-20100921-7
+CS007403000006,Full -hearted,0,Female,1970-05-23,48,285-0855,"Ino, Sakura City, Chiba Prefecture",S12007,20150422,0-00000000-0
+CS004513000111,Miyake Shibori,1,Male,1959-07-11,59,165-0027,"Nakano -ku, Tokyo Nomo",S13004,20150921,0-00000000-0
+CS023213000030,Takamiko Kosuga,1,Male,1994-08-08,24,212-0021,"Miyako -ku, Kawasaki -shi, Kanagawa",S14023,20160106,0-00000000-0
+CS008512000019,Tomoichi Shirakawa,1,Male,1966-01-13,53,213-0033,"Shimosakuri, Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S13008,20150616,4-20100829-8
+CS040412000141,Ogawa Natsu Sky,1,Male,1970-12-03,48,226-0026,"Nagatsuda -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150812,8-20080210-4
+CS003313000543,Risa Kawai,1,Male,1983-03-10,36,182-0022,"Kokuro -cho, Chofu -shi, Tokyo",S13003,20170630,0-00000000-0
+CS025512000143,Yoshino Kikuchi,1,Male,1962-11-24,56,242-0023,"Shibuya, Yamato City, Kanagawa Prefecture",S14025,20160306,B-20090802-5
+CS021415000285,Misato Maeda,1,Male,1974-01-26,45,259-1144,"Ikehata, Isehara City, Kanagawa Prefecture",S14021,20170603,0-00000000-0
+CS019311000048,Mayuko Okochi,1,Male,1987-02-14,32,173-0031,"Otaniguchi Kitamachi, Itabashi -ku, Tokyo",S13019,20160528,0-00000000-0
+CS001615000273,Manami Hatano,1,Male,1956-02-28,63,144-0054,"Shin -Kamata, Ota -ku, Tokyo",S13001,20160602,0-00000000-0
+CS037412000218,Sayaka Nishii,1,Male,1970-05-19,48,136-0071,"Kameido, Koto -ku, Tokyo",S13037,20170920,0-00000000-0
+CS002615000351,Ruria Tanikawa,1,Male,1952-08-16,66,185-0022,"Higashimotomachi, Kokubunji -shi, Tokyo",S13002,20170419,0-00000000-0
+CS042711000004,Ikuko Matsuda,1,Male,1940-11-15,78,231-0868,"Ishikawa -cho, Naka -ku, Yokohama -shi, Kanagawa",S14042,20190125,0-00000000-0
+CS016515000070,Ai Kurata,1,Male,1965-01-20,54,184-0011,"Higashi -cho, Koganei -shi, Tokyo",S13016,20150911,B-20101002-D
+CS033315000166,Mika Suenaga,1,Male,1984-11-16,34,246-0023,"Akuwato, Seya -ku, Yokohama -shi, Kanagawa",S14033,20150629,0-00000000-0
+CS020415000311,Koyama 7th,1,Male,1977-05-24,41,174-0052,"Hasunuma -cho, Itabashi -ku, Tokyo",S13020,20171201,0-00000000-0
+CS007215000002,Chinatsu Imaishi,1,Male,1996-05-08,22,285-0845,"Nishishizu, Sakura City, Chiba Prefecture",S12007,20160301,0-00000000-0
+CS032115000006,Koizumi High History,9,Unknown,2003-11-14,15,144-0056,"Nishi -Rokugo, Ota -ku, Tokyo",S13032,20150223,6-20100725-A
+CS001413000447,Mika Haraguchi,1,Male,1974-07-21,44,146-0095,"Tama River, Ota -ku, Tokyo",S13001,20170311,0-00000000-0
+CS038413000061,Megumi Omura,1,Male,1976-11-25,42,134-0083,"Tokyo, Edogawa -ku, Tokyo, Kasai",S13038,20150519,0-00000000-0
+CS017403000047,Tatsuya Numata,0,Female,1974-10-27,44,166-0000,"Suginami-ku, Tokyo",S13017,20150311,0-00000000-0
+CS003713000101,Fujimura Tamaki,9,Unknown,1945-03-30,74,182-0022,"Kokuro -cho, Chofu -shi, Tokyo",S13003,20160531,0-00000000-0
+CS018415000234,Rinko Igarashi,1,Male,1977-03-14,42,352-0032,"Shinbori, Niiza City, Saitama Prefecture",S13018,20150828,F-20100916-F
+CS023613000082,Miki Terasawa,1,Male,1952-07-03,66,210-0001,"Honmachi, Kawasaki -ku, Kawasaki City, Kanagawa Prefecture",S14023,20141222,0-00000000-0
+CS039315000089,Misako Oyama,1,Male,1984-09-27,34,168-0081,"Miyamae, Suginami -ku, Tokyo",S13039,20150129,2-20080412-4
+CS030802000009,Shingo Shogo,0,Female,1930-08-31,88,272-0803,"Ichikawa -shi, Chiba",S12030,20180506,0-00000000-0
+CS011615000103,Accompaniment,1,Male,1957-02-28,62,223-0064,"Shimoda -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20160124,0-00000000-0
+CS027315000100,Hiraoka Sachie,1,Male,1984-05-29,34,251-0052,"Fujisawa, Fujisawa City, Kanagawa Prefecture",S14027,20150913,0-00000000-0
+CS014414000036,Yuu Kido,1,Male,1969-07-30,49,263-0024,"Anagawa, Inage -ku, Chiba -shi, Chiba",S12014,20150223,E-20100925-D
+CS006311000005,Noriko Suikoshi,1,Male,1983-02-04,36,224-0057,"Kawawa -cho, Chiku, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20150329,5-20100917-8
+CS038513000088,Nanami Morioka,1,Male,1966-12-30,52,279-0043,"Fujimi, Urayasu City, Chiba Prefecture",S13038,20150508,6-20100816-9
+CS015414000150,Aya Fukuoka,1,Male,1968-11-06,50,136-0076,"Minami sand in Koto -ku, Tokyo",S13015,20170625,0-00000000-0
+CS005715000153,Nishikawa tomorrow,1,Male,1942-03-30,77,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13005,20170730,0-00000000-0
+CS023413000088,Miwako Hamaguchi,1,Male,1976-05-14,42,212-0016,"Minamikai -cho, Sachi -ku, Kawasaki -shi, Kanagawa",S14023,20150603,0-00000000-0
+CS002411000124,Miki Kurata,1,Male,1971-06-18,47,187-0042,"Nakamachi, Kodaira City, Tokyo",S13002,20160326,1-20090827-1
+CS021214000036,Reiko Sakakibara,1,Male,1995-03-10,24,259-1141,"Kamikasuya, Isehara City, Kanagawa Prefecture",S14021,20150222,6-20080917-7
+CS025512000014,Reina Ogata,1,Male,1959-03-12,60,242-0016,"Yamato Minami, Yamato City, Kanagawa Prefecture",S14025,20141102,0-00000000-0
+CS001615000284,Nana Otsuki,1,Male,1956-07-19,62,144-0051,"Nishi -Kamata, Ota -ku, Tokyo",S13001,20170727,0-00000000-0
+CS005613000045,Michiko Ohara,1,Male,1955-03-18,64,177-0034,"Fujimidai, Nerima -ku, Tokyo",S13005,20150930,0-00000000-0
+CS001514000199,Ikue Kumazawa,1,Male,1960-11-23,58,146-0094,"Higashi -Yaguchi, Ota -ku, Tokyo",S13001,20160730,0-00000000-0
+CS002512000215,Aya Morioka,1,Male,1961-06-09,57,187-0002,"Hanakoganei, Kodaira City, Tokyo",S13002,20160615,5-20091206-7
+CS002413000789,Kyoko Konno,1,Male,1973-05-18,45,185-0012,"Honmachi, Kokubunji -shi, Tokyo",S13002,20171025,0-00000000-0
+CS003315000142,Hiroko Kasuga,1,Male,1980-07-02,38,201-0003,"Izumi Honcho, Komae City, Tokyo",S13003,20150119,6-20080517-2
+CS012611000014,Reina Fukazawa,1,Male,1951-04-05,67,232-0037,"Yawata -cho, Minami -ku, Yokohama -shi, Kanagawa",S14012,20150820,0-00000000-0
+CS008415000059,Aya Fujisawa,1,Male,1974-11-04,44,157-0067,"Kitaami, Setagaya -ku, Tokyo",S13008,20151001,F-20100817-F
+CS022315000160,Takamiko Sugaya,1,Male,1980-07-08,38,240-0113,"Hayama -cho, Miura -gun, Kanagawa Prefecture",S14022,20150517,0-00000000-0
+CS002314000073,Kazuka Sakuma,1,Male,1983-04-20,35,185-0012,"Honmachi, Kokubunji -shi, Tokyo",S13002,20150428,4-20100921-1
+CS001613000401,Chiemi Fukuda,1,Male,1954-10-04,64,144-0035,"Minami Kamata, Ota -ku, Tokyo",S13001,20170305,0-00000000-0
+CS040312000071,Airi Suenaga,1,Male,1982-03-16,37,226-0021,"Kita -Hatsusaku -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150317,0-00000000-0
+CS010513000187,Asami Matsukawa,1,Male,1966-09-01,52,222-0032,"Samido -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150710,D-20100808-2
+CS007313000078,Aoi Kawai,1,Male,1986-03-30,33,285-0859,"Minami Eucalyptus, Sakura City, Chiba Prefecture",S12007,20151227,0-00000000-0
+CS020513000021,Koji Inagaki,9,Unknown,1967-06-27,51,115-0043,"Kamiya, Kita -ku, Tokyo",S13020,20150223,6-20090608-7
+CS020415000162,Shirori Otsuka,1,Male,1976-01-17,43,114-0032,"Kita -ku, Tokyo Nakagojo",S13020,20150729,C-20100928-B
+CS002502000123,Yusuke Sawada,0,Female,1965-07-30,53,185-0023,"Nishimotocho, Kokubunji -shi, Tokyo",S13002,20171025,0-00000000-0
+CS004712000163,Miyuki Nakata,1,Male,1939-02-08,80,166-0000,"Suginami-ku, Tokyo",S13004,20170420,0-00000000-0
+CS009513000012,Masami Omura,1,Male,1966-12-29,52,154-0016,"Setagaya -ku, Tokyo string roll",S13009,20150225,A-20100719-C
+CS027312000084,Yu Hara,1,Male,1982-06-23,36,251-0052,"Fujisawa, Fujisawa City, Kanagawa Prefecture",S14027,20150112,0-00000000-0
+CS037603000041,Kimiken Tashiro,0,Female,1954-06-28,64,136-0072,"Oshima, Koto -ku, Tokyo",S13037,20150204,0-00000000-0
+CS043212000003,Love of Kageyama,1,Male,1997-09-20,21,108-0075,"Minato -ku, Tokyo Konan",S13043,20170429,5-20100307-6
+CS034512000003,Satomi Omori,1,Male,1959-09-11,59,213-0013,"Last Director of Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150322,3-20100607-5
+CS048611000001,Mika Itagaki,1,Male,1954-05-26,64,223-0066,"Takada Nishi, Kohoku -ku, Yokohama -shi, Kanagawa",S14048,20161030,0-00000000-0
+CS010512000001,Love of Takashima,1,Male,1966-06-19,52,223-0057,"Shinhamachi, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20160101,0-00000000-0
+CS026512000144,Nana Oizumi,1,Male,1966-10-18,52,253-0001,"Akabane, Chigasaki City, Kanagawa Prefecture",S14026,20150407,8-20091109-9
+CS046611000001,Satomi Asada,1,Male,1955-07-09,63,223-0066,"Takada Nishi, Kohoku -ku, Yokohama -shi, Kanagawa",S14046,20170620,0-00000000-0
+CS039502000034,Hayashi Nogiwa,0,Female,1963-06-09,55,166-0012,"Wada, Suginami -ku, Tokyo",S13039,20150707,0-00000000-0
+CS026612000100,Erika Nagasawa,9,Unknown,1949-10-30,69,253-0001,"Akabane, Chigasaki City, Kanagawa Prefecture",S14026,20170519,0-00000000-0
+CS002413000657,Mayuko Yanagita,1,Male,1971-05-03,47,185-0022,"Higashimotomachi, Kokubunji -shi, Tokyo",S13002,20161223,4-20090216-1
+CS027415000040,Matsui Sora,1,Male,1972-03-16,47,251-0016,"Maitreji Temple, Fujisawa City, Kanagawa Prefecture",S14027,20150409,D-20100427-D
+CS018513000043,Hanako Kaneshiro,1,Male,1963-09-21,55,204-0021,"Motomachi, Kiyose City, Tokyo",S13018,20150624,9-20100711-C
+CS011512000176,Mayuko Ogawa,1,Male,1965-04-24,53,212-0055,"Minami Kase, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S14011,20141205,6-20100829-7
+CS011612000044,Asami Kajiwara,1,Male,1949-03-11,70,212-0054,"Kokura, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S14011,20150617,0-00000000-0
+CS004315000449,Masahiko Morinaga,9,Unknown,1986-05-20,32,176-0025,"Nakamura Minami, Nerima -ku, Tokyo",S13004,20170914,0-00000000-0
+CS002213000157,Satomi Kusano,1,Male,1991-08-04,27,185-0022,"Higashimotomachi, Kokubunji -shi, Tokyo",S13002,20170102,0-00000000-0
+CS018404000002,Yamauchi Santa Maria,0,Female,1975-07-05,43,203-0041,Higashi -Kurume City Nonori,S13018,20150721,0-00000000-0
+CS005312000294,Toshio Zhaku,9,Unknown,1979-07-06,39,179-0075,"Takamatsu, Nerima -ku, Tokyo",S13005,20170213,0-00000000-0
+CS016415000013,Kajiwara flower,1,Male,1969-11-06,49,184-0013,"Maehara -cho, Koganei -shi, Tokyo",S13016,20150606,B-20101014-E
+CS010515000070,Michiko Hara,1,Male,1962-01-08,57,222-0023,"Nakamotohara, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20151231,9-20100724-C
+CS005413000529,Michiko Ogawa,1,Male,1975-05-24,43,167-0033,"Shimizu, Suginami -ku, Tokyo",S13005,20170722,0-00000000-0
+CS024514000012,Haruka Sakaguchi,1,Male,1962-10-22,56,214-0034,"Mita, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20151225,6-20100621-A
+CS016314000088,Seiki Segawa,1,Male,1985-05-10,33,184-0004,"Honmachi, Koganei City, Tokyo",S13016,20150622,9-20091016-B
+CS012511000023,Airi Oshima,1,Male,1967-07-02,51,232-0007,"Shimizuigaoka, Minami -ku, Yokohama -shi, Kanagawa",S14012,20150701,7-20100131-3
+CS017513000185,Sachiko Yamazaki,1,Male,1960-04-09,58,165-0027,"Nakano -ku, Tokyo Nomo",S13017,20150629,8-20100606-A
+CS008615000117,Reiko Kikuchi,1,Male,1950-10-14,68,157-0066,"Seijo, Setagaya -ku, Tokyo",S13008,20150619,0-00000000-0
+CS030413000038,Hitomi Iizuka,1,Male,1970-01-28,49,272-0015,"Ichikawa City, Chiba Prefecture Onitaka",S12030,20150521,0-00000000-0
+CS004512000471,Airi Okamura,1,Male,1962-12-12,56,177-0034,"Fujimidai, Nerima -ku, Tokyo",S13004,20170715,0-00000000-0
+CS023402000041,Kaoru Tamaki,0,Female,1969-11-12,49,212-0004,"Koitai -cho, Sachi -ku, Kawasaki -shi, Kanagawa",S14023,20150612,0-00000000-0
+CS020212000014,Matsui Natsuzora,1,Male,1991-05-08,27,332-0015,"Kawaguchi, Kawaguchi City, Saitama Prefecture",S13020,20150707,E-20100524-7
+CS034712000016,Toshima flower,1,Male,1941-01-19,78,216-0024,"Minamihiradai, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150422,0-00000000-0
+CS023312000011,Seki Asuka,1,Male,1981-07-11,37,212-0011,"Yuki -cho, Kawasaki -shi, Kanagawa",S14023,20150712,0-00000000-0
+CS008312000033,Mia Kodaira,1,Male,1985-09-11,33,213-0032,"Kukuchi, Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S13008,20150730,0-00000000-0
+CS026612000097,Miwako Uno,1,Male,1950-11-11,68,253-0051,"Wakamatsu -cho, Chigasaki City, Kanagawa Prefecture",S14026,20171227,0-00000000-0
+CS005415000202,Nana Ishiguro,1,Male,1975-02-06,44,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13005,20150912,8-20100616-B
+CS002515000597,Teppei Tabata,9,Unknown,1959-09-16,59,185-0021,"Minami -cho, Kokubunji -shi, Tokyo",S13002,20171019,0-00000000-0
+CS002511000146,Inagaki's eyes,1,Male,1963-02-24,56,189-0012,"Hagiyama -cho, Higashimurayama City, Tokyo",S13002,20170205,0-00000000-0
+CS020612000122,Nao Konuma,1,Male,1957-01-24,62,174-0074,"Higashishinmachi, Itabashi -ku, Tokyo",S13020,20180608,0-00000000-0
+CS022413000156,Nanko Sakashita,1,Male,1976-04-20,42,249-0003,"Ikeko, Zushi City, Kanagawa Prefecture",S14022,20150605,0-00000000-0
+CS004314000136,Shiori Kawamoto,1,Male,1986-11-14,32,165-0027,"Nakano -ku, Tokyo Nomo",S13004,20160802,A-20100921-B
+CS022612000043,Kaoru Fujishima,1,Male,1950-03-13,69,249-0008,"Kotsubo, Zushi City, Kanagawa Prefecture",S14022,20150214,0-00000000-0
+CS012502000034,Plain Plain,0,Female,1967-08-14,51,231-0023,"Yamashita -cho, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150124,0-00000000-0
+CS002615000072,Love of Ito,1,Male,1954-08-15,64,185-0014,"Higashi Koikokubo, Kokubunji City, Tokyo",S13002,20150523,5-20091214-2
+CS014602000010,Masayoshi Suzuki,0,Female,1953-11-18,65,264-0024,"Takabu -cho, Wakaba -ku, Chiba -shi, Chiba",S12014,20150402,0-00000000-0
+CS001715000226,Yui Wakita,1,Male,1939-02-19,80,144-0035,"Minami Kamata, Ota -ku, Tokyo",S13001,20171222,0-00000000-0
+CS002603000039,Yuta Hayami,0,Female,1957-06-12,61,185-0014,"Higashi Koikokubo, Kokubunji City, Tokyo",S13002,20150410,0-00000000-0
+CS004315000291,Haruka Tahara,1,Male,1985-09-17,33,165-0035,"Shirasagi, Nakano -ku, Tokyo",S13004,20160506,0-00000000-0
+CS018414000080,Mami Umemoto,1,Male,1970-09-10,48,203-0051,"Oyama, Higashikurume City, Tokyo",S13018,20150826,E-20100720-F
+CS001615000410,Love of Itagaki,1,Male,1957-09-20,61,144-0055,"Nakarokugo, Ota -ku, Tokyo",S13001,20161002,0-00000000-0
+CS001614000162,Nanami Nakabayashi,1,Male,1951-03-20,68,144-0055,"Nakarokugo, Ota -ku, Tokyo",S13001,20170529,0-00000000-0
+CS017215000070,Manami Oyama,1,Male,1993-08-13,25,166-0014,"Matsunogi, Suginami -ku, Tokyo",S13017,20170910,2-20100421-3
+CS051515000002,Fuse Chinatsu,1,Male,1966-04-06,52,115-0056,"Nishigaoka, Kita -ku, Tokyo",S13051,20171211,2-20101025-4
+CS004415000119,Keiko Oichi,1,Male,1969-03-20,50,165-0027,"Nakano -ku, Tokyo Nomo",S13004,20150327,A-20100402-C
+CS004512000013,Rinako Haneda,1,Male,1960-04-28,58,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13004,20150205,0-00000000-0
+CS004403000156,Kimimaro Shimizu,0,Female,1976-06-02,42,165-0034,"Yamato -cho, Nakano -ku, Tokyo",S13004,20170510,0-00000000-0
+CS024215000013,Haruka Kono,1,Male,1991-12-27,27,214-0038,"Ikuta, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150322,6-20100115-A
+CS009513000132,Honda Ai,1,Male,1966-03-13,53,158-0081,"Fukasawa, Setagaya -ku, Tokyo",S13009,20150123,3-20090824-2
+CS005513000069,Airi Saito,1,Male,1966-12-09,52,165-0031,"Kami -Saginomiya, Nakano -ku, Tokyo",S13005,20151110,2-20080630-2
+CS001612000311,Mika Okamoto,1,Male,1951-03-21,68,211-0015,"Kitaya -cho, Nakahara -ku, Kawasaki -shi, Kanagawa",S13001,20171118,0-00000000-0
+CS011415000008,Kurita Mahiru,1,Male,1975-05-09,43,223-0062,"Hiyoshi Honmachi, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20150710,C-20101026-E
+CS001515000528,Aya Nagahama,9,Unknown,1966-07-12,52,144-0044,"Haneda, Ota -ku, Tokyo",S13001,20170429,0-00000000-0
+CS030315000042,Masami Mizuguchi,1,Male,1985-04-10,33,272-0025,"Owada, Ichikawa City, Chiba Prefecture",S12030,20150722,2-20080215-5
+CS025511000026,Love of Nagase,1,Male,1962-10-02,56,242-0014,"Kamewada, Yamato City, Kanagawa Prefecture",S14025,20150823,0-00000000-0
+CS039612000088,Riho Ono,1,Male,1957-03-04,62,168-0065,"Hamadayama, Suginami -ku, Tokyo",S13039,20150319,0-00000000-0
+CS017513000075,Kawaguchi Sora,1,Male,1961-07-30,57,166-0003,"Koenji Minami, Suginami -ku, Tokyo",S13017,20150512,0-00000000-0
+CS037213000058,Mayuko Tabe,1,Male,1991-05-29,27,136-0072,"Oshima, Koto -ku, Tokyo",S13037,20150714,7-20090223-4
+CS022615000148,Rinako Asanuma,1,Male,1953-09-03,65,240-0113,"Hayama -cho, Miura -gun, Kanagawa Prefecture",S14022,20150405,5-20100719-9
+CS009415000269,Sayaka Shimizu,1,Male,1972-04-30,46,154-0014,"Shinmachi, Setagaya -ku, Tokyo",S13009,20160821,9-20100720-B
+CS033513000001,Miho Saito,1,Male,1964-06-18,54,246-0037,"Hashido, Seya -ku, Yokohama -shi, Kanagawa",S14033,20150918,9-20090809-6
+CS003303000001,Masahiko Miki,0,Female,1980-11-11,38,201-0002,"Higashinogawa, Komae City, Tokyo",S13003,20150425,0-00000000-0
+CS020412000052,Rinako Oyama,1,Male,1972-11-22,46,173-0004,"Itabashi -ku, Tokyo, Itabashi",S13020,20150217,0-00000000-0
+CS037413000102,Born Ishida,1,Male,1972-02-23,47,136-0072,"Oshima, Koto -ku, Tokyo",S13037,20150802,0-00000000-0
+CS024315000112,Ayaka Mukai,1,Male,1981-02-19,38,214-0035,"Nagasawa, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150815,0-00000000-0
+CS034303000009,Hiroshi Kamiyama,0,Female,1987-10-18,31,216-0001,"Nogawa, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150316,0-00000000-0
+CS003612000141,Asuka Kitada,1,Male,1951-12-10,67,182-0035,"Ueishihara, Chofu City, Tokyo",S13003,20170101,0-00000000-0
+CS001315000421,Kazuki Matsuda,9,Unknown,1979-06-03,39,144-0051,"Nishi -Kamata, Ota -ku, Tokyo",S13001,20171105,0-00000000-0
+CS031615000101,Rina Fujimura,1,Male,1951-07-29,67,151-0064,"Uehara, Shibuya -ku, Tokyo",S13031,20150421,0-00000000-0
+CS009415000080,Ryoda Ryo,1,Male,1971-04-21,47,158-0097,"Yoga, Setagaya -ku, Tokyo",S13009,20141213,F-20100810-E
+CS008411000075,Chiemi Hama,1,Male,1973-03-18,46,213-0034,"Kami Sanshin, Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S13008,20180304,0-00000000-0
+CS048615000009,Noriko Nakata,1,Male,1952-12-26,66,224-0006,"Eda Higashi, Tsuzuki -ku, Yokohama City, Kanagawa Prefecture",S14048,20180117,0-00000000-0
+CS020614000032,Yoshino Nishimoto,1,Male,1955-02-21,64,114-0032,"Kita -ku, Tokyo Nakagojo",S13020,20150514,3-20081229-2
+CS038304000004,Hiro Yokota,0,Female,1981-03-26,38,279-0041,"Horie, Urayasu City, Chiba Prefecture",S13038,20150811,7-20101015-A
+CS016312000003,Misa Shinozaki,1,Male,1986-07-23,32,187-0013,"Mazutacho, Kodaira City, Tokyo",S13016,20150816,0-00000000-0
+CS010615000104,Takamiko Sugihara,1,Male,1949-09-24,69,222-0012,"Fujizuka, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20141212,5-20100531-7
+CS006511000009,Miyu Nagano,1,Male,1959-11-20,59,224-0043,"Origami -Honmachi, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20150808,0-00000000-0
+CS006413000306,Pupil Tanabe,1,Male,1975-04-22,43,224-0057,"Kawawa -cho, Chiku, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20180801,0-00000000-0
+CS009314000042,Miki Ishikura,1,Male,1982-10-13,36,158-0097,"Yoga, Setagaya -ku, Tokyo",S13009,20150331,9-20100319-8
+CS004813000023,Miyuki Kitada,1,Male,1935-09-29,83,165-0032,"Saginomiya, Nakano -ku, Tokyo",S13004,20150322,0-00000000-0
+CS044713000007,Rie Fukikoshi,1,Male,1944-07-22,74,144-0046,"Higashi Rokugo, Ota -ku, Tokyo",S13044,20180317,0-00000000-0
+CS002515000382,Asuka Uehara,1,Male,1963-09-20,55,185-0021,"Minami -cho, Kokubunji -shi, Tokyo",S13002,20160611,9-20081021-7
+CS016514000148,Asami Owada,1,Male,1967-10-27,51,184-0004,"Honmachi, Koganei City, Tokyo",S13016,20150626,1-20100307-3
+CS004615000391,Ishikura Sora,1,Male,1957-01-03,62,165-0035,"Shirasagi, Nakano -ku, Tokyo",S13004,20170923,0-00000000-0
+CS037615000079,Scandal of Sakaguchi,1,Male,1949-09-06,69,136-0076,"Minami sand in Koto -ku, Tokyo",S13037,20150831,2-20100704-4
+CS003315000362,Aya Okunuki,1,Male,1979-10-08,39,182-0015,"Yakumodai, Chofu City, Tokyo",S13003,20160927,0-00000000-0
+CS025302000005,Teruo Sakurai,0,Female,1981-07-20,37,242-0014,"Kamewada, Yamato City, Kanagawa Prefecture",S14025,20150129,0-00000000-0
+CS032412000071,Sakurai Natsu Sky,1,Male,1973-12-30,45,210-0826,"Shiohama, Kawasaki -ku, Kawasaki City, Kanagawa Prefecture",S13032,20150813,4-20100926-6
+CS040412000092,Mahiru Koyanagi,1,Male,1975-04-23,43,226-0027,"Nagatsuda, Midori -ku, Yokohama City, Kanagawa Prefecture",S14040,20150901,0-00000000-0
+CS014615000122,Tsugawa Kou,1,Male,1949-06-08,69,263-0016,"Tendai, Inage -ku, Chiba -shi, Chiba",S12014,20150814,5-20091214-7
+CS020515000132,Saki Komiya,1,Male,1965-12-16,53,115-0043,"Kamiya, Kita -ku, Tokyo",S13020,20150720,D-20100509-A
+CS003215000016,Miyuki Ichikawa,1,Male,1995-12-08,23,201-0003,"Izumi Honcho, Komae City, Tokyo",S13003,20150907,3-20100921-2
+CS001411000107,Chiemi Kosuga,1,Male,1976-09-05,42,212-0054,"Kokura, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S13001,20170404,0-00000000-0
+CS034315000128,Hiroko Abe,1,Male,1979-10-21,39,216-0001,"Nogawa, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14034,20141114,3-20080924-5
+CS012412000199,Ryo Morioka,1,Male,1970-03-03,49,231-0862,"Yamate -cho, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150624,0-00000000-0
+CS004615000351,Saki Kaneshiro,1,Male,1987-11-14,31,144-0052,"Kamata, Ota -ku, Tokyo",S13004,20170624,0-00000000-0
+CS001614000179,Sayuri Yoshinaga,1,Male,1951-05-22,67,144-0054,"Shin -Kamata, Ota -ku, Tokyo",S13001,20170304,0-00000000-0
+CS010613000136,Michiko Shiina,1,Male,1950-09-25,68,221-0004,"Nishioguchi, Kanagawa -ku, Yokohama City, Kanagawa Prefecture",S14010,20150226,0-00000000-0
+CS020513000016,Saki Sasakawa,1,Male,1963-04-21,55,174-0052,"Hasunuma -cho, Itabashi -ku, Tokyo",S13020,20151103,1-20100816-3
+CS006513000170,Ruria Mizutani,1,Male,1962-02-04,57,224-0032,"Chigasaki Chuo, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20150327,C-20100621-B
+CS002303000029,Kimono Tsuji,0,Female,1983-07-19,35,185-0002,"Higashi -Tokura, Kokubunji, Tokyo",S13002,20160430,0-00000000-0
+CS032815000020,Natsuki Doi,1,Male,1932-06-14,86,144-0056,"Nishi -Rokugo, Ota -ku, Tokyo",S13032,20151104,0-00000000-0
+CS013813000021,Kyoko Oshima,1,Male,1935-06-10,83,275-0025,"Akitsu, Narashino City, Chiba Prefecture",S12013,20151009,0-00000000-0
+CS017811000003,Yuu Kageyama,1,Male,1930-02-27,89,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13017,20150224,0-00000000-0
+CS014415000172,Mina Nagano,1,Male,1973-06-23,45,263-0051,"Sono -cho, Inage -ku, Chiba -shi, Chiba",S12014,20150628,F-20101021-F
+CS004313000327,Blossom,1,Male,1985-02-05,34,165-0032,"Saginomiya, Nakano -ku, Tokyo",S13004,20161010,0-00000000-0
+CS003314000003,Yu Kaneshiro,1,Male,1979-01-18,40,201-0003,"Izumi Honcho, Komae City, Tokyo",S13003,20150704,0-00000000-0
+CS031614000026,Ikeuchi Erika,1,Male,1952-05-19,66,151-0071,"Honmachi, Shibuya -ku, Tokyo",S13031,20150609,1-20100802-5
+CS002412000113,Michiko Furusawa,1,Male,1970-08-30,48,187-0001,"Onuma -cho, Kodaira -shi, Tokyo",S13002,20150211,2-20090315-1
+CS039701000012,Tsuda Sadaw,0,Female,1944-03-30,75,166-0012,"Wada, Suginami -ku, Tokyo",S13039,20170322,0-00000000-0
+CS030304000002,Yosuke Aihara,0,Female,1984-08-05,34,272-0026,"Higashi Owada, Ichikawa City, Chiba Prefecture",S12030,20150818,E-20100917-C
+CS019512000012,Ikue Yoshinaga,1,Male,1966-11-19,52,173-0035,"Otaniguchi, Itabashi -ku, Tokyo",S13019,20150204,8-20080603-3
+CS010514000045,Nanomo Takayanagi,1,Male,1967-12-11,51,222-0026,"Shinohara -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150415,7-20100815-9
+CS004215000052,Yumiko Senoo,1,Male,1989-02-02,30,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13004,20150504,C-20090421-B
+CS005603000052,Yosuke Uehara,0,Female,1954-05-07,64,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13005,20170208,0-00000000-0
+CS004615000354,Harumi Itakura,1,Male,1953-01-01,66,165-0035,"Shirasagi, Nakano -ku, Tokyo",S13004,20170602,0-00000000-0
+CS012715000068,Megumi Uehara,1,Male,1943-08-20,75,231-0826,"Honzaki Arai, Naka -ku, Yokohama -shi, Kanagawa",S14012,20151003,0-00000000-0
+CS006315000041,Maho Shimazaki,1,Male,1983-05-17,35,224-0006,"Eda Higashi, Tsuzuki -ku, Yokohama City, Kanagawa Prefecture",S14006,20141029,0-00000000-0
+CS003415000165,Ikue Oyama,1,Male,1976-06-13,42,201-0001,"Nishinogawa, Komae City, Tokyo",S13003,20141214,B-20090910-C
+CS022315000037,Rinko Yamazaki,1,Male,1979-10-12,39,249-0005,"Sakurayama, Zushi City, Kanagawa Prefecture",S14022,20150605,0-00000000-0
+CS021415000233,Megumi Hiratsuka,1,Male,1972-06-16,46,259-1142,"Tanaka, Isehara City, Kanagawa Prefecture",S14021,20150401,0-00000000-0
+CS013403000010,Kitajima Toshiaki,0,Female,1974-04-25,44,275-0021,"Sodegaura, Narashino City, Chiba Prefecture",S12013,20150731,0-00000000-0
+CS039613000040,Natsuki Kawagoe,1,Male,1956-03-23,63,167-0051,"Ogikubo, Suginami -ku, Tokyo",S13039,20151028,0-00000000-0
+CS014315000214,Love of the riverbank,9,Unknown,1984-08-27,34,263-0051,"Sono -cho, Inage -ku, Chiba -shi, Chiba",S12014,20161130,0-00000000-0
+CS014515000098,Momoko Ichimura,1,Male,1966-07-13,52,263-0014,"Sakube -cho, Inage -ku, Chiba -shi, Chiba",S12014,20150528,D-20100803-D
+CS001615000319,Megumi Koga,1,Male,1954-02-16,65,144-0056,"Nishi -Rokugo, Ota -ku, Tokyo",S13001,20170208,0-00000000-0
+CS037613000133,Morioka's eyes,1,Male,1954-08-21,64,136-0076,"Minami sand in Koto -ku, Tokyo",S13037,20150728,0-00000000-0
+CS011415000193,Reina Aida,1,Male,1973-09-03,45,223-0064,"Shimoda -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20150422,F-20100915-D
+CS028413000023,Mahiru Sasakawa,1,Male,1973-01-01,46,246-0025,"Akuwanishi, Seya -ku, Yokohama -shi, Kanagawa",S14028,20150320,0-00000000-0
+CS007503000041,Ayakoji Takashi,0,Female,1964-04-20,54,285-0854,"Kamiza, Sakura City, Chiba Prefecture",S12007,20160214,0-00000000-0
+CS007312000119,Mikako Tamura,1,Male,1986-07-29,32,276-0023,"Katsutadai, Yachiyo City, Chiba Prefecture",S12007,20150416,0-00000000-0
+CS003512000504,Rinako Kaneshiro,1,Male,1959-06-28,59,214-0008,"Sugakitaura, Tama -ku, Kawasaki City, Kanagawa Prefecture",S13003,20170623,0-00000000-0
+CS008613000042,Tomoka Inagaki,1,Male,1954-01-15,65,157-0066,"Seijo, Setagaya -ku, Tokyo",S13008,20150410,0-00000000-0
+CS001413000117,Megumi Toyama,1,Male,1972-03-24,47,144-0045,"Minami Rokugo, Ota -ku, Tokyo",S13001,20150426,0-00000000-0
+CS019215000029,Mayuko Sawa,1,Male,1994-10-14,24,176-0002,"Sakuradai, Nerima -ku, Tokyo",S13019,20151203,A-20100622-9
+CS029613000122,Erika Matsubara,1,Male,1953-01-27,66,279-0026,"Benten, Urayasu City, Chiba Prefecture",S12029,20161111,0-00000000-0
+CS034714000036,Yoko Morioka,1,Male,1940-01-02,79,216-0035,"Kawasaki -shi, Kanagawa Miyama -ku Silk",S14034,20150921,0-00000000-0
+CS023414000088,Hiroko Yoneya,1,Male,1975-04-19,43,212-0016,"Minamikai -cho, Sachi -ku, Kawasaki -shi, Kanagawa",S14023,20160101,F-20101029-F
+CS025413000033,Shun Sakurai,1,Male,1974-02-08,45,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20150221,0-00000000-0
+CS005412000265,Fukushi Asami,1,Male,1970-03-28,49,177-0041,"Shakujii -cho, Nerima -ku, Tokyo",S13005,20170626,0-00000000-0
+CS028515000186,Shoko Numata,1,Male,1965-08-29,53,241-0825,"Asahi -ku, Asahi -ku, Yokohama -shi, Kanagawa",S14028,20151231,D-20091105-D
+CS002712000039,Shoko Uchida,1,Male,1944-10-17,74,187-0011,"Suzuki -cho, Kodaira, Tokyo",S13002,20150710,0-00000000-0
+CS001411000150,Ryo Iwasawa,1,Male,1969-09-11,49,210-0808,"Asahi -cho, Kawasaki -ku, Kawasaki -shi, Kanagawa",S13001,20170508,0-00000000-0
+CS029415000264,Misa Ishii,1,Male,1971-05-17,47,279-0041,"Horie, Urayasu City, Chiba Prefecture",S12029,20150802,8-20100507-6
+CS007415000029,Saki Toda,1,Male,1968-11-04,50,285-0846,"Kamishizu, Sakura City, Chiba Prefecture",S12007,20160201,0-00000000-0
+CS038513000245,Murai Shibori,1,Male,1965-10-26,53,279-0004,"Urayasu City, Chiba Prefecture Cats",S13038,20180810,0-00000000-0
+CS001314000222,Ryo Hatano,1,Male,1979-02-22,40,144-0046,"Higashi Rokugo, Ota -ku, Tokyo",S13001,20170503,0-00000000-0
+CS004315000435,Yutaka Mizutani,9,Unknown,1979-11-10,39,176-0013,"Toyoda Naka, Nerima -ku, Tokyo",S13004,20161210,0-00000000-0
+CS040613000086,Ayako Komiya,9,Unknown,1952-05-05,66,226-0026,"Nagatsuda -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20151205,0-00000000-0
+CS008313000161,Haruka Oda,1,Male,1982-11-25,36,201-0005,"Iwato Minami, Komae City, Tokyo",S13008,20150106,0-00000000-0
+CS005415000361,Miyuki Kawahara,1,Male,1972-10-28,46,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13005,20170502,6-20100824-9
+CS032314000036,Kuno Kuno,1,Male,1982-04-28,36,144-0046,"Higashi Rokugo, Ota -ku, Tokyo",S13032,20150825,9-20100212-9
+CS040304000008,Professor Sakuma,0,Female,1981-04-24,37,226-0016,"Kirigaoka, Midori -ku, Yokohama City, Kanagawa Prefecture",S14040,20151014,8-20100416-9
+CS038712000003,Yu Yoshiwara,9,Unknown,1940-10-17,78,134-0083,"Tokyo, Edogawa -ku, Tokyo, Kasai",S13038,20150510,0-00000000-0
+CS023312000163,Keiko Fujiki,1,Male,1985-11-29,33,212-0054,"Kokura, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S14023,20190108,0-00000000-0
+CS034715000045,Miyu Motojo,1,Male,1945-01-24,74,216-0035,"Kawasaki -shi, Kanagawa Miyama -ku Silk",S14034,20150403,0-00000000-0
+CS031213000007,Chinatsu Kajiwara,9,Unknown,1997-06-29,21,160-0023,"Nishi -Shinjuku, Shinjuku -ku, Tokyo",S13031,20150531,1-20090517-4
+CS002715000010,Sachie Ichikawa,1,Male,1945-06-15,73,185-0011,"Honda, Kokubunji, Tokyo",S13002,20150903,0-00000000-0
+CS039413000162,Love of Naoto,1,Male,1972-10-05,46,167-0032,"Amanuma, Suginami -ku, Tokyo",S13039,20150810,6-20080217-4
+CS013614000006,Ishii Yasui,1,Male,1949-06-15,69,275-0022,"Kasumi, Narashino City, Chiba Prefecture",S12013,20150218,4-20090831-6
+CS002502000157,Serizawa Serizawa,0,Female,1964-12-14,54,187-0042,"Nakamachi, Kodaira City, Tokyo",S13002,20171030,0-00000000-0
+CS002502000024,Teranishi Blue Sea,0,Female,1966-06-18,52,185-0036,"Takagicho, Kokubunji -shi, Tokyo",S13002,20150630,0-00000000-0
+CS002212000081,Shihori Umeda,1,Male,1997-02-13,22,187-0043,"Gakuen -shi, Kodaira, Tokyo",S13002,20160408,0-00000000-0
+CS003513000602,Sachie Nagase,1,Male,1966-01-24,53,182-0022,"Kokuro -cho, Chofu -shi, Tokyo",S13003,20170501,0-00000000-0
+CS018613000109,Akihiro Shinoyama,9,Unknown,1951-08-13,67,204-0021,"Motomachi, Kiyose City, Tokyo",S13018,20150106,1-20091207-3
+CS008513000130,Manami Yonezawa,1,Male,1964-06-14,54,157-0073,"Kinuta, Setagaya -ku, Tokyo",S13008,20150624,8-20090329-8
+CS040714000032,Chinatsu Nishikawa,1,Male,1947-08-03,71,226-0025,"Toki -Ichimachi, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150822,0-00000000-0
+CS029413000217,Ikue Kageyama,1,Male,1972-07-28,46,279-0041,"Horie, Urayasu City, Chiba Prefecture",S12029,20150501,0-00000000-0
+CS002512000482,Tateishi Shibori,1,Male,1965-10-01,53,185-0036,"Takagicho, Kokubunji -shi, Tokyo",S13002,20170512,6-20090727-2
+CS028415000215,Airi Takigawa,1,Male,1974-10-12,44,246-0021,"Futatsuhashi -cho, Seya -ku, Yokohama -shi, Kanagawa",S14028,20150801,C-20100205-E
+CS009502000005,Ryuji Hori,0,Female,1966-07-01,52,156-0052,"Keido, Setagaya -ku, Tokyo",S13009,20150331,0-00000000-0
+CS025503000031,Daiki hexagonal,0,Female,1963-01-14,56,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20150318,0-00000000-0
+CS005603000046,Hoshi Kato,0,Female,1957-02-23,62,167-0021,"Igusa, Suginami -ku, Tokyo",S13005,20170305,0-00000000-0
+CS002314000199,Ashida Sora,1,Male,1984-12-28,34,185-0012,"Honmachi, Kokubunji -shi, Tokyo",S13002,20170403,0-00000000-0
+CS010515000129,Mika Kobe,1,Male,1963-09-10,55,222-0026,"Shinohara -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150206,F-20100807-F
+CS014514000038,Nozomi Kawahara,1,Male,1960-10-19,58,263-0021,"Gocho -cho, Inage -ku, Chiba -shi, Chiba",S12014,20151230,D-20100905-B
+CS004413000656,Ryo Yoshinaga,1,Male,1974-08-20,44,165-0031,"Kami -Saginomiya, Nakano -ku, Tokyo",S13004,20170708,0-00000000-0
+CS016614000047,Apricot of Owada,1,Male,1951-03-12,68,184-0012,"Nakamachi, Koganei City, Tokyo",S13016,20150901,0-00000000-0
+CS027414000106,Natsuki Sakashita,1,Male,1969-05-01,49,251-0026,"Kugenuma Higashi, Fujisawa City, Kanagawa Prefecture",S14027,20141222,B-20101001-D
+CS005612000140,Kyoko Kageyama,1,Male,1951-11-04,67,177-0033,"Takanodai, Nerima -ku, Tokyo",S13005,20170621,0-00000000-0
+CS005214000031,Masayo Eto,1,Male,1994-09-27,24,165-0031,"Kami -Saginomiya, Nakano -ku, Tokyo",S13005,20161113,9-20100505-8
+CS021513000202,Mahiru Kanai,1,Male,1963-03-22,56,259-1132,"Sakuradai, Isehara City, Kanagawa Prefecture",S14021,20150509,0-00000000-0
+CS039515000085,Abe Seven,1,Male,1964-03-06,55,167-0053,"Nishi -Oginan, Suginami -ku, Tokyo",S13039,20150510,8-20101002-B
+CS019502000006,Yoneya Santa Maria,0,Female,1963-12-30,55,174-0052,"Hasunuma -cho, Itabashi -ku, Tokyo",S13019,20150628,0-00000000-0
+CS003515000727,Erika Hosoi,9,Unknown,1964-01-08,55,182-0015,"Yakumodai, Chofu City, Tokyo",S13003,20170313,0-00000000-0
+CS032413000302,Nao Miyashita,1,Male,1977-05-01,41,144-0045,"Minami Rokugo, Ota -ku, Tokyo",S13032,20180503,0-00000000-0
+CS011311000018,Kaoru Niwa,1,Male,1981-08-17,37,230-0073,"Tsurumi -ku, Yokohama -shi, Kanagawa Shishigaya",S14011,20150321,0-00000000-0
+CS002511000030,Aiko Matsubara,1,Male,1967-03-17,52,187-0021,"Kamisui Minami -cho, Kodaira City, Tokyo",S13002,20150111,0-00000000-0
+CS028315000146,Kawase Bud,1,Male,1984-05-21,34,246-0035,"Shimoseya, Seya -ku, Yokohama -shi, Kanagawa",S14028,20150526,0-00000000-0
+CS010415000335,Haruka Kanai,1,Male,1975-03-13,44,222-0026,"Shinohara -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20160511,0-00000000-0
+CS003414000398,Chiemi Hagiwara,1,Male,1970-05-18,48,182-0022,"Kokuro -cho, Chofu -shi, Tokyo",S13003,20171015,0-00000000-0
+CS010413000080,Aya Tsuruta,1,Male,1971-04-20,47,221-0076,"Shirahatamachi, Kanagawa -ku, Yokohama City, Kanagawa Prefecture",S14010,20150621,0-00000000-0
+CS003412000488,Saki Okamoto,1,Male,1971-10-29,47,182-0012,"Chofu -shi, Tokyo, Jindaiji Temple Higashi -cho",S13003,20161201,0-00000000-0
+CS018613000152,Instant,1,Male,1955-08-10,63,204-0022,"Matsuyama, Kiyose City, Tokyo",S13018,20151128,0-00000000-0
+CS014413000177,Misako Hatano,1,Male,1973-11-04,45,263-0016,"Tendai, Inage -ku, Chiba -shi, Chiba",S12014,20151128,0-00000000-0
+CS018311000029,Itakura flower,1,Male,1984-09-27,34,204-0012,"Kiyoto, Kiyose City, Tokyo",S13018,20150505,0-00000000-0
+CS004414000217,Manami Nogami,1,Male,1969-02-04,50,165-0033,"Wakamiya, Nakano -ku, Tokyo",S13004,20160624,B-20101009-B
+CS032612000030,Ai Tamaki,1,Male,1955-05-31,63,210-0007,"Ekimae Honmachi, Kawasaki -ku, Kawasaki City, Kanagawa Prefecture",S13032,20150411,0-00000000-0
+CS006513000175,Kyoko Fujimura,1,Male,1961-06-06,57,224-0053,"Ikebe -cho, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20160219,C-20090202-A
+CS017401000027,Yosuke Shaku,0,Female,1977-06-09,41,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13017,20150428,0-00000000-0
+CS010713000020,Hanako Yoneya,1,Male,1945-03-25,74,221-0005,"Matsumi -cho, Kanagawa -ku, Yokohama City, Kanagawa Prefecture",S14010,20150408,0-00000000-0
+CS005415000557,Natsumi Uno,1,Male,1972-11-17,46,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13005,20170619,8-20100615-1
+CS016614000017,Isamu Okumura,1,Male,1956-06-20,62,184-0012,"Nakamachi, Koganei City, Tokyo",S13016,20141228,0-00000000-0
+CS027313000003,Ayako Hata,1,Male,1986-10-15,32,251-0016,"Maitreji Temple, Fujisawa City, Kanagawa Prefecture",S14027,20150811,0-00000000-0
+CS004415000041,Yuu Tanabe,1,Male,1972-11-03,46,165-0033,"Wakamiya, Nakano -ku, Tokyo",S13004,20151222,7-20090325-1
+CS053311000004,Aiko Komiya,1,Male,1986-10-21,32,272-0141,"Katori, Ichikawa City, Chiba Prefecture",S12053,20180911,0-00000000-0
+CS004413000416,Sayaka Shishido,1,Male,1975-12-16,43,165-0032,"Saginomiya, Nakano -ku, Tokyo",S13004,20160322,0-00000000-0
+CS037413000280,Miho Konuma,1,Male,1977-04-15,41,136-0073,"Kitasuna, Koto -ku, Tokyo",S13037,20180210,0-00000000-0
+CS034213000014,Miyuki Igawa,1,Male,1993-02-13,26,213-0014,"Takatsu -ku, Kawasaki City, Kanagawa Prefecture New work",S14034,20150821,3-20080915-5
+CS003213000176,Usami Sayaka,1,Male,1994-11-05,24,201-0001,"Nishinogawa, Komae City, Tokyo",S13003,20170122,0-00000000-0
+CS002415000749,Ogata tomorrow,1,Male,1977-11-29,41,185-0011,"Honda, Kokubunji, Tokyo",S13002,20171107,0-00000000-0
+CS001812000023,Erika Kameyama,1,Male,1935-03-25,84,212-0007,"Kawaramachi, Sachi -ku, Kawasaki -shi, Kanagawa",S13001,20160203,0-00000000-0
+CS021413000049,Sachiko Ohno,1,Male,1973-04-17,45,259-1113,"Awakubo, Isehara City, Kanagawa Prefecture",S14021,20150703,0-00000000-0
+CS017215000037,Rio Yoshii,1,Male,1996-03-24,23,164-0001,"Nakano, Nakano -ku, Tokyo",S13017,20151127,A-20100413-D
+CS030112000001,Haruki Yamauchi,1,Male,2002-01-26,17,272-0814,"Takaishijin, Ichikawa City, Chiba Prefecture",S12030,20150620,0-00000000-0
+CS005415000572,Kazue Yanagawa,1,Male,1972-12-22,46,167-0031,"Motomonuma, Suginami -ku, Tokyo",S13005,20170829,0-00000000-0
+CS040415000045,Noriko Aoki,1,Male,1976-03-29,43,226-0026,"Nagatsuda -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150110,D-20101014-E
+CS021215000015,Keita Hori Kita,9,Unknown,1990-03-19,29,259-1132,"Sakuradai, Isehara City, Kanagawa Prefecture",S14021,20160313,0-00000000-0
+CS021102000003,Nakahara,0,Female,2006-05-17,12,254-0004,"Kobujima, Hiratsuka City, Kanagawa Prefecture",S14021,20180510,0-00000000-0
+CS006403000042,Akira Uemura,0,Female,1970-02-19,49,224-0032,"Chigasaki Chuo, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20150616,0-00000000-0
+CS021312000027,Tomakawa tomorrow,1,Male,1986-05-14,32,259-1126,"Numa Mame, Isehara City, Kanagawa Prefecture",S14021,20150428,0-00000000-0
+CS025613000002,Sachie Mizuta,1,Male,1951-08-31,67,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20150526,0-00000000-0
+CS015414000138,Erika Kusano,1,Male,1972-07-29,46,136-0076,"Minami sand in Koto -ku, Tokyo",S13015,20150205,D-20100504-9
+CS033214000035,Rinko Kosuga,1,Male,1989-05-01,29,241-0824,"Minami Kibigaoka, Asahi -ku, Yokohama City, Kanagawa Prefecture",S14033,20170722,0-00000000-0
+CS003513000569,Ayako Shimura,1,Male,1963-06-25,55,182-0007,"Kikunodai, Chofu City, Tokyo",S13003,20170508,3-20090810-2
+CS024314000085,Yui Sugiyama,1,Male,1985-07-24,33,214-0035,"Nagasawa, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20161121,0-00000000-0
+CS035615000040,Daigoro Kawanishi,9,Unknown,1957-02-13,62,158-0098,"Kamimariga, Setagaya -ku, Tokyo",S13035,20150909,E-20100830-6
+CS011614000044,Kaoru Iwabuchi,1,Male,1952-08-30,66,223-0053,"Tsunashima Nishi, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20141129,0-00000000-0
+CS011413000240,Chinatsu Takemura,1,Male,1972-06-23,46,223-0053,"Tsunashima Nishi, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20150929,0-00000000-0
+CS039504000010,Shinichi Shiga,0,Female,1962-12-12,56,167-0052,"Minamiogikubo, Suginami -ku, Tokyo",S13039,20150922,0-00000000-0
+CS001301000040,Square sink,0,Female,1983-03-04,36,212-0054,"Kokura, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S13001,20181003,0-00000000-0
+CS003313000214,Yumiko Yamauchi,1,Male,1980-09-05,38,201-0003,"Izumi Honcho, Komae City, Tokyo",S13003,20160108,0-00000000-0
+CS008613000046,Erika Ozaki,1,Male,1953-03-23,66,157-0066,"Seijo, Setagaya -ku, Tokyo",S13008,20150907,7-20091228-1
+CS037515000132,Kyoko Naito,1,Male,1964-02-26,55,135-0003,"Sarue, Koto -ku, Tokyo",S13037,20150721,C-20100730-D
+CS034613000064,Ryo Yanagida,1,Male,1951-01-23,68,216-0035,"Kawasaki -shi, Kanagawa Miyama -ku Silk",S14034,20150117,0-00000000-0
+CS005514000146,Apricot of Yanagihara,1,Male,1964-08-15,54,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13005,20180216,0-00000000-0
+CS007712000038,Sachiko Toshima,1,Male,1942-06-29,76,285-0841,"Shimoshizu, Sakura City, Chiba Prefecture",S12007,20150525,0-00000000-0
+CS050413000004,Saki Uesugi,1,Male,1969-06-27,49,241-0816,"Sasanodai, Asahi -ku, Yokohama City, Kanagawa Prefecture",S14050,20180414,0-00000000-0
+CS009704000001,Oji Kenichi,0,Female,1942-08-04,76,154-0014,"Shinmachi, Setagaya -ku, Tokyo",S13009,20151113,0-00000000-0
+CS009412000023,Akira Uehara,9,Unknown,1976-09-01,42,157-0076,"Okamoto, Setagaya -ku, Tokyo",S13009,20150622,1-20080923-1
+CS004412000167,Chiemi Kawano,1,Male,1971-01-08,48,176-0002,"Sakuradai, Nerima -ku, Tokyo",S13004,20150717,1-20081021-1
+CS018405000001,Shingo Fujimura,0,Female,1976-11-13,42,203-0041,Higashi -Kurume City Nonori,S13018,20150727,0-00000000-0
+CS009415000047,Ayaka Kase,1,Male,1974-03-25,45,158-0097,"Yoga, Setagaya -ku, Tokyo",S13009,20150831,F-20100907-E
+CS009513000091,Tomoichi Kawano,1,Male,1959-07-03,59,154-0015,"Sakurashinmachi, Setagaya -ku, Tokyo",S13009,20150901,7-20100711-9
+CS019315000111,Yuu Ogiwara,1,Male,1979-11-17,39,173-0035,"Otaniguchi, Itabashi -ku, Tokyo",S13019,20150313,5-20090424-7
+CS004311000055,Misaki Ikuse,1,Male,1981-03-21,38,176-0004,"Kotake -cho, Nerima -ku, Tokyo",S13004,20160407,0-00000000-0
+CS039215000003,Masami Fuse,1,Male,1995-02-11,24,168-0072,"Takaido Higashi, Suginami -ku, Tokyo",S13039,20150317,B-20100119-D
+CS002312000082,Junko Ogou,1,Male,1986-04-02,32,187-0043,"Gakuen -shi, Kodaira, Tokyo",S13002,20150303,0-00000000-0
+CS007312000043,Yu Kamei,1,Male,1985-05-29,33,276-0025,"Katsuta Tainan, Yachiyo City, Chiba Prefecture",S12007,20150409,0-00000000-0
+CS004312000354,Miho Ozaki,1,Male,1981-09-25,37,179-0075,"Takamatsu, Nerima -ku, Tokyo",S13004,20161222,0-00000000-0
+CS029615000026,Satomi Narumi,1,Male,1953-01-14,66,279-0025,"Urayasu City, Chiba Prefecture Steel Street",S12029,20150206,4-20100801-5
+CS004512000396,Sachiko Uemura,1,Male,1962-09-02,56,166-0012,"Wada, Suginami -ku, Tokyo",S13004,20170515,0-00000000-0
+CS003614000108,Aiko Kitada,1,Male,1952-05-31,66,182-0023,"Dyeing land in Chofu City, Tokyo",S13003,20151228,4-20100830-1
+CS001415000050,Ishiguro cool,1,Male,1972-08-28,46,144-0053,"Kamata Honcho, Ota -ku, Tokyo",S13001,20151005,0-00000000-0
+CS015715000024,Yoko Oda,1,Male,1939-10-23,79,135-0042,"Kiba, Koto -ku, Tokyo",S13015,20150910,0-00000000-0
+CS015613000073,Nanami Fukuda,1,Male,1954-01-01,65,136-0073,"Kitasuna, Koto -ku, Tokyo",S13015,20151208,0-00000000-0
+CS038402000049,Masahiko Oe,0,Female,1974-01-18,45,134-0088,"Nishikasai, Edogawa -ku, Tokyo",S13038,20151230,0-00000000-0
+CS031615000147,Scandal of Noda,1,Male,1957-01-10,62,151-0062,"Former Yoyogi -cho, Shibuya -ku, Tokyo",S13031,20170706,0-00000000-0
+CS034315000104,Yo Infield,1,Male,1987-02-27,32,216-0001,"Nogawa, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150614,0-00000000-0
+CS010315000124,Rio Igawa,1,Male,1985-10-26,33,222-0026,"Shinohara -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150828,0-00000000-0
+CS033614000047,Asami Ichikawa,1,Male,1951-03-14,68,246-0022,"Soya -ku, Yokohama -shi, Kanagawa, three tsukai",S14033,20150905,0-00000000-0
+CS040312000047,Michiko Hosoya,1,Male,1979-12-16,39,226-0015,"Miho -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150323,0-00000000-0
+CS032115000007,Tomono Noguchi,1,Male,2006-04-11,12,144-0056,"Nishi -Rokugo, Ota -ku, Tokyo",S13032,20150428,B-20100822-A
+CS002703000052,Katahira George,0,Female,1944-03-03,75,185-0013,"Kokubunji -shi, Tokyo Nishiki Kokubo",S13002,20170701,0-00000000-0
+CS005612000021,Sachiko Nozaki,1,Male,1956-08-29,62,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13005,20150731,0-00000000-0
+CS002513000719,Yumiko Tsutsui,1,Male,1964-12-04,54,185-0012,"Honmachi, Kokubunji -shi, Tokyo",S13002,20170619,0-00000000-0
+CS024303000010,Masahiko Yokota,0,Female,1981-12-18,37,214-0035,"Nagasawa, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150917,0-00000000-0
+CS013412000208,Saki Yamauchi,1,Male,1970-05-28,48,275-0017,"Fujisaki, Narashino City, Chiba Prefecture",S12013,20170321,0-00000000-0
+CS001413000277,Miki Nishikawa,1,Male,1975-07-17,43,144-0054,"Shin -Kamata, Ota -ku, Tokyo",S13001,20161003,0-00000000-0
+CS001513000153,Ema Hamamoto,1,Male,1960-09-01,58,144-0053,"Kamata Honcho, Ota -ku, Tokyo",S13001,20150619,0-00000000-0
+CS008401000003,Teppei Rokugaku,0,Female,1973-04-09,45,213-0034,"Kami Sanshin, Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S13008,20150912,0-00000000-0
+CS011612000007,Miyuki Shibayama,1,Male,1952-02-16,67,211-0036,"Idasugiyama -cho, Nakahara -ku, Kawasaki -shi, Kanagawa",S14011,20150416,0-00000000-0
+CS015712000016,Arai Shibori,1,Male,1944-05-25,74,136-0072,"Oshima, Koto -ku, Tokyo",S13015,20150311,0-00000000-0
+CS005311000073,Theatrical company Yoko,1,Male,1984-11-04,34,177-0041,"Shakujii -cho, Nerima -ku, Tokyo",S13005,20170328,7-20090228-1
+CS012615000120,Reina Aoki,1,Male,1950-10-03,68,231-0837,"Takinogami, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150605,1-20100704-3
+CS033412000189,Nao Shiota,1,Male,1972-08-30,46,245-0016,"Izumi -cho, Izumi -ku, Yokohama -shi, Kanagawa",S14033,20150904,0-00000000-0
+CS030214000025,Uehara flower,1,Male,1994-02-21,25,272-0824,"Sugano, Ichikawa City, Chiba Prefecture",S12030,20150314,B-20100330-C
+CS052602000001,Akira Kikuta,0,Female,1953-02-21,66,194-0014,"Takagazaka, Machida -shi, Tokyo",S13052,20180531,0-00000000-0
+CS045313000015,Yoko Fukushi,1,Male,1980-10-19,38,243-0005,"Matsuei, Atsugi City, Kanagawa Prefecture",S14045,20180530,0-00000000-0
+CS021414000065,Kyoko Nagao,1,Male,1977-11-26,41,259-1144,"Ikehata, Isehara City, Kanagawa Prefecture",S14021,20150924,B-20100416-A
+CS001215000196,Shiina flower,1,Male,1989-10-15,29,144-0052,"Kamata, Ota -ku, Tokyo",S13001,20171110,0-00000000-0
+CS016715000040,Kaoru Senoo,1,Male,1942-05-30,76,184-0003,"Midoricho, Koganei -shi, Tokyo",S13016,20151006,0-00000000-0
+CS018715000066,Erika Yamazaki,1,Male,1942-07-07,76,203-0052,"Yuki -cho, Higashikumiku, Tokyo",S13018,20150418,0-00000000-0
+CS003611000117,Kazue Sudo,1,Male,1951-02-06,68,201-0005,"Iwato Minami, Komae City, Tokyo",S13003,20170809,0-00000000-0
+CS002314000018,Miki Haraguchi,1,Male,1987-09-17,31,185-0014,"Higashi Koikokubo, Kokubunji City, Tokyo",S13002,20160104,B-20100319-B
+CS020415000261,Natsumi Takada,1,Male,1970-08-03,48,114-0034,"Kita -ku, Kita -ku, Tokyo",S13020,20150403,F-20101014-F
+CS001513000238,Mina Mizuta,1,Male,1960-02-02,59,144-0056,"Nishi -Rokugo, Ota -ku, Tokyo",S13001,20160702,0-00000000-0
+CS003413000361,Sachie Nagano,1,Male,1971-05-27,47,182-0023,"Dyeing land in Chofu City, Tokyo",S13003,20160617,0-00000000-0
+CS023401000018,Toru Fujiwara,0,Female,1976-08-29,42,212-0022,"Shinmeicho, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S14023,20180408,0-00000000-0
+CS032411000034,Sachie Terashima,1,Male,1975-10-31,43,212-0054,"Kokura, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S13032,20150430,0-00000000-0
+CS018512000186,Hiromi Mikami,1,Male,1959-10-30,59,204-0012,"Kiyoto, Kiyose City, Tokyo",S13018,20170314,0-00000000-0
+CS016412000124,Erika Ishikawa,1,Male,1969-09-17,49,187-0011,"Suzuki -cho, Kodaira, Tokyo",S13016,20150706,5-20080310-6
+CS006314000047,Kaori Nagata,1,Male,1987-05-11,31,224-0006,"Eda Higashi, Tsuzuki -ku, Yokohama City, Kanagawa Prefecture",S14006,20150708,2-20081018-2
+CS005714000006,Ryo Kikuchi,1,Male,1942-07-24,76,165-0031,"Kami -Saginomiya, Nakano -ku, Tokyo",S13005,20150809,0-00000000-0
+CS033812000004,Natsumi Kase,1,Male,1933-09-06,85,245-0016,"Izumi -cho, Izumi -ku, Yokohama -shi, Kanagawa",S14033,20150209,0-00000000-0
+CS010613000002,Erika Kitazawa,1,Male,1956-01-17,63,221-0005,"Matsumi -cho, Kanagawa -ku, Yokohama City, Kanagawa Prefecture",S14010,20150613,0-00000000-0
+CS001413000790,Kyoko Kasai,1,Male,1969-02-24,50,144-0046,"Higashi Rokugo, Ota -ku, Tokyo",S13001,20170927,0-00000000-0
+CS037412000058,Hanako Nishitani,1,Male,1969-12-04,49,136-0071,"Kameido, Koto -ku, Tokyo",S13037,20151215,1-20090510-4
+CS011515000207,Rinako Maeda,1,Male,1962-09-11,56,223-0052,"Tsunashima Higashi, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20150216,D-20101030-E
+CS006415000024,Miyuki Otsuka,1,Male,1976-12-13,42,224-0057,"Kawawa -cho, Chiku, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20151013,D-20100210-D
+CS007713000022,Erika Tomosaka,1,Male,1944-10-30,74,285-0846,"Kamishizu, Sakura City, Chiba Prefecture",S12007,20151216,0-00000000-0
+CS019615000050,Nana Arakawa,1,Male,1953-06-28,65,174-0073,"Higashiyama -cho, Itabashi -ku, Tokyo",S13019,20150325,2-20090601-3
+CS004413000815,Saki Itagaki,1,Male,1970-01-29,49,165-0035,"Shirasagi, Nakano -ku, Tokyo",S13004,20170722,0-00000000-0
+CS001415000491,Yuu Matsubara,1,Male,1974-02-23,45,144-0045,"Minami Rokugo, Ota -ku, Tokyo",S13001,20160129,0-00000000-0
+CS038515000197,Ichikawa 7th,1,Male,1961-02-14,58,279-0043,"Fujimi, Urayasu City, Chiba Prefecture",S13038,20150221,C-20100729-E
+CS017713000064,Rie Nishitani,1,Male,1947-12-15,71,165-0027,"Nakano -ku, Tokyo Nomo",S13017,20150306,0-00000000-0
+CS033402000004,Katsumi Abe,0,Female,1976-07-22,42,245-0002,"Midorien, Izumi -ku, Yokohama -shi, Kanagawa",S14033,20150707,0-00000000-0
+CS032412000016,Ryoko Kinoshita,1,Male,1972-12-28,46,212-0054,"Kokura, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S13032,20150615,0-00000000-0
+CS001604000014,Mitsuhiro Serizawa,0,Female,1953-11-13,65,144-0055,"Nakarokugo, Ota -ku, Tokyo",S13001,20160823,0-00000000-0
+CS032412000223,Aiko Nagasawa,1,Male,1971-03-23,48,212-0016,"Minamikai -cho, Sachi -ku, Kawasaki -shi, Kanagawa",S13032,20170207,0-00000000-0
+CS023415000299,Miki Saito,1,Male,1972-09-03,46,144-0056,"Nishi -Rokugo, Ota -ku, Tokyo",S14023,20170331,0-00000000-0
+CS001313000412,Ema Yasui,1,Male,1981-11-21,37,144-0055,"Nakarokugo, Ota -ku, Tokyo",S13001,20170613,0-00000000-0
+CS039414000098,Miki Tsuruta,1,Male,1977-09-06,41,167-0051,"Ogikubo, Suginami -ku, Tokyo",S13039,20150816,D-20100114-E
+CS003314000025,Miki Morinaga,1,Male,1982-02-25,37,201-0012,"Komae -shi, Tokyo Ikuwaki",S13003,20150516,8-20100416-B
+CS003213000184,Misaki Seki,1,Male,1989-08-07,29,201-0012,"Komae -shi, Tokyo Ikuwaki",S13003,20170602,0-00000000-0
+CS007615000086,Hirao Sora,1,Male,1956-07-31,62,285-0846,"Kamishizu, Sakura City, Chiba Prefecture",S12007,20150603,C-20091209-B
+CS014613000039,Uehara buds,9,Unknown,1957-11-16,61,263-0012,"Hagidai -cho, Inage -ku, Chiba -shi, Chiba",S12014,20150605,0-00000000-0
+CS004215000095,Yoko Arai,9,Unknown,1989-05-22,29,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13004,20160907,0-00000000-0
+CS002513000049,Mami Kajiwara,1,Male,1961-04-14,57,185-0014,"Higashi Koikokubo, Kokubunji City, Tokyo",S13002,20150326,2-20080331-2
+CS007415000171,Miyuki Saito,1,Male,1972-09-30,46,285-0855,"Ino, Sakura City, Chiba Prefecture",S12007,20150111,0-00000000-0
+CS005502000097,Tsuji Tsuji,0,Female,1960-06-27,58,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13005,20170520,0-00000000-0
+CS002615000353,Asami Kusano,1,Male,1954-10-30,64,185-0021,"Minami -cho, Kokubunji -shi, Tokyo",S13002,20171211,0-00000000-0
+CS002415000905,Yakushi Maru Saki,1,Male,1972-11-22,46,185-0014,"Higashi Koikokubo, Kokubunji City, Tokyo",S13002,20170424,0-00000000-0
+CS025715000083,Fabric,1,Male,1944-12-17,74,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20170218,0-00000000-0
+CS013212000009,River River,1,Male,1994-06-18,24,262-0032,"Makuhari -cho, Hanamigawa -ku, Chiba -shi, Chiba",S12013,20150521,3-20100912-3
+CS019514000050,Ryoko Ohno,1,Male,1963-02-28,56,173-0037,"Komorine, Itabashi -ku, Tokyo",S13019,20150125,0-00000000-0
+CS017515000124,Ikue Inagaki,1,Male,1962-12-05,56,166-0000,"Suginami-ku, Tokyo",S13017,20151014,8-20100630-A
+CS014415000045,Sayaka Yasui,1,Male,1974-11-01,44,264-0035,"Higashijiyama -cho, Wakaba -ku, Chiba -shi, Chiba",S12014,20151204,F-20100511-F
+CS003413000499,Erika Aoyama,1,Male,1973-04-19,45,201-0001,"Nishinogawa, Komae City, Tokyo",S13003,20170107,0-00000000-0
+CS033612000080,Erika Oyama,1,Male,1950-03-01,69,245-0009,"Shimbashi -cho, Izumi -ku, Yokohama -shi, Kanagawa",S14033,20150704,0-00000000-0
+CS021413000185,Yonezo Sawada,9,Unknown,1977-10-27,41,259-1133,"Higashi Otake, Isehara City, Kanagawa Prefecture",S14021,20141222,0-00000000-0
+CS011612000016,Saki Kasahara,1,Male,1953-03-28,66,211-0016,"Notofo, Nakahara -ku, Kawasaki City, Kanagawa Prefecture",S14011,20151216,0-00000000-0
+CS001314000207,Mayuko Kitada,1,Male,1982-10-24,36,144-0046,"Higashi Rokugo, Ota -ku, Tokyo",S13001,20170911,5-20100917-7
+CS025415000191,Mika Masaki,1,Male,1976-11-08,42,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20141102,D-20100528-D
+CS011314000018,Ishiguro first generation,1,Male,1986-08-06,32,223-0062,"Hiyoshi Honmachi, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20151214,7-20091020-9
+CS040712000007,Mirai Kusakabe,1,Male,1939-04-08,79,226-0021,"Kita -Hatsusaku -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20151208,0-00000000-0
+CS003513000573,Iizuka flower,1,Male,1964-03-21,55,182-0006,"Nishitsukijigaoka, Chofu City, Tokyo",S13003,20170501,A-20090705-2
+CS015515000174,Ryo Nishimura,1,Male,1959-11-27,59,136-0076,"Minami sand in Koto -ku, Tokyo",S13015,20150807,8-20100117-B
+CS007613000081,Golden castle squirrels,1,Male,1952-09-17,66,276-0022,"Kamikono, Yachiyo City, Chiba Prefecture",S12007,20151003,7-20100308-B
+CS035405000012,Kaoru Tsuboi,0,Female,1970-12-20,48,157-0076,"Okamoto, Setagaya -ku, Tokyo",S13035,20160214,0-00000000-0
+CS025515000261,Isabu Nagano,1,Male,1966-05-25,52,242-0015,"Shimwada, Yamato City, Kanagawa Prefecture",S14025,20180121,0-00000000-0
+CS037413000272,Masayo Kanai,1,Male,1976-08-17,42,136-0073,"Kitasuna, Koto -ku, Tokyo",S13037,20170515,0-00000000-0
+CS005812000025,Ryo Nagase,1,Male,1931-10-06,87,176-0022,"Mukoyama, Nerima -ku, Tokyo",S13005,20170524,0-00000000-0
+CS024212000005,Kaoru Kinoshita,1,Male,1992-04-25,26,182-0025,"Tama River, Chofu City, Tokyo",S14024,20150622,3-20100912-4
+CS031403000011,Teppei Okumura,0,Female,1969-11-02,49,151-0053,"Yoyogi, Shibuya -ku, Tokyo",S13031,20151031,0-00000000-0
+CS018611000030,Nana Shigematsu,1,Male,1958-01-02,61,204-0001,"Kiyose -shi, Tokyo",S13018,20150809,0-00000000-0
+CS014514000003,Hitomi Higuchi,1,Male,1980-05-25,38,222-0024,"Shinohara -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S12014,20150401,8-20091229-A
+CS010313000137,Miki Shimamura,1,Male,1980-11-02,38,222-0022,"Shinohara Higashi, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20151021,0-00000000-0
+CS020413000072,Yu Uno,1,Male,1969-06-24,49,174-0054,"Miyamotocho, Itabashi -ku, Tokyo",S13020,20150604,0-00000000-0
+CS013614000024,Mika Tamura,1,Male,1956-10-28,62,275-0021,"Sodegaura, Narashino City, Chiba Prefecture",S12013,20150129,5-20100104-6
+CS027414000125,Miyuki Kawachi,1,Male,1976-02-28,43,251-0053,"Honmachi, Fujisawa City, Kanagawa Prefecture",S14027,20151015,B-20101013-C
+CS011312000032,Erika Igawa,1,Male,1986-03-26,33,211-0041,"Shimo -Odanaka, Nakahara -ku, Kawasaki City, Kanagawa Prefecture",S14011,20151027,0-00000000-0
+CS012411000006,Hikaru Nagase,1,Male,1977-03-21,42,232-0008,"Koshidai, Minami -ku, Yokohama -shi, Kanagawa",S14012,20150206,9-20091114-7
+CS035512000069,Michiko Tamaki,1,Male,1963-08-24,55,157-0076,"Okamoto, Setagaya -ku, Tokyo",S13035,20150720,3-20091221-4
+CS002215000117,Junko Yanagita,1,Male,1993-05-22,25,185-0022,"Higashimotomachi, Kokubunji -shi, Tokyo",S13002,20160727,0-00000000-0
+CS012512000171,Maho Kawahara,1,Male,1962-05-07,56,231-0832,"Honmaki Midorigaoka, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150307,0-00000000-0
+CS040703000011,Akira Oe,0,Female,1939-03-26,80,226-0025,"Toki -Ichimachi, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150803,0-00000000-0
+CS026512000010,Fukushi Nanko,1,Male,1966-02-20,53,253-0053,"Chigasaki City, Kanagawa Prefecture East Coast Kita",S14026,20151105,0-00000000-0
+CS014214000031,Yoshino Ishida,9,Unknown,1996-07-12,22,263-0024,"Anagawa, Inage -ku, Chiba -shi, Chiba",S12014,20181021,0-00000000-0
+CS026403000035,Satoshi Arita,0,Female,1971-06-12,47,253-0032,"Tokiwamachi, Chigasaki City, Kanagawa Prefecture",S14026,20150223,0-00000000-0
+CS005401000034,Koji Imaizumi,0,Female,1974-08-22,44,177-0045,"Nerima -ku, Tokyo Shakujimiidai",S13005,20170702,0-00000000-0
+CS014313000053,Maho Tabe,1,Male,1986-07-17,32,263-0051,"Sono -cho, Inage -ku, Chiba -shi, Chiba",S12014,20150814,0-00000000-0
+CS019512000156,Narikai Tamaki,1,Male,1966-07-22,52,173-0013,"Hikawa -cho, Itabashi -ku, Tokyo",S13019,20150527,0-00000000-0
+CS003203000014,Teijima Spiritual,0,Female,1995-09-20,23,182-0022,"Kokuro -cho, Chofu -shi, Tokyo",S13003,20160423,0-00000000-0
+CS024213000061,Rinako Kasai,1,Male,1991-07-12,27,214-0039,"Kuriya, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20161230,0-00000000-0
+CS007403000003,Arikiya Tamaki,0,Female,1969-06-12,49,285-0855,"Ino, Sakura City, Chiba Prefecture",S12007,20141225,0-00000000-0
+CS034415000173,Tomoya Kubo,9,Unknown,1976-05-21,42,216-0034,"Kajigaya, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150412,F-20091006-F
+CS027415000030,Yoko Takakura,1,Male,1973-05-25,45,251-0033,"Kataseyama, Fujisawa City, Kanagawa Prefecture",S14027,20150816,C-20101021-D
+CS033304000001,Kazuya Ito,0,Female,1987-01-15,32,241-0824,"Minami Kibigaoka, Asahi -ku, Yokohama City, Kanagawa Prefecture",S14033,20150524,9-20100423-D
+CS046615000004,Apricot of Kawano,1,Male,1957-10-14,61,224-0021,"Kitayamada, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14046,20170705,4-20100705-6
+CS030412000119,Erika Yasu,1,Male,1975-11-04,43,273-0034,"Futako -cho, Funabashi City, Chiba Prefecture",S12030,20151104,0-00000000-0
+CS003413000448,Kyoko Nishiwaki,1,Male,1972-05-17,46,182-0022,"Kokuro -cho, Chofu -shi, Tokyo",S13003,20160322,0-00000000-0
+CS004614000041,Asami Ichikawa,1,Male,1956-03-09,63,165-0031,"Kami -Saginomiya, Nakano -ku, Tokyo",S13004,20150525,0-00000000-0
+CS032214000014,Hikaru Yanagawa,1,Male,1993-07-11,25,144-0056,"Nishi -Rokugo, Ota -ku, Tokyo",S13032,20150424,F-20101005-F
+CS012512000030,Natsumi Matsubara,1,Male,1959-12-16,59,231-0063,"Hanasaki -cho, Naka -ku, Yokohama -shi, Kanagawa",S14012,20141207,3-20100502-3
+CS003513000494,Hikaru Furusawa,1,Male,1959-05-25,59,182-0022,"Kokuro -cho, Chofu -shi, Tokyo",S13003,20171218,0-00000000-0
+CS003512000019,Akane Saito,1,Male,1965-03-24,54,201-0012,"Komae -shi, Tokyo Ikuwaki",S13003,20150819,8-20100809-7
+CS004403000093,Miyashita Kazunori,0,Female,1976-12-04,42,165-0035,"Shirasagi, Nakano -ku, Tokyo",S13004,20160118,0-00000000-0
+CS012515000224,Yuko Kita,1,Male,1962-04-18,56,231-0806,"Honmaki -cho, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150527,9-20100926-8
+CS019413000083,Harumi Narumi,1,Male,1973-01-25,46,173-0036,"Mukohara, Itabashi -ku, Tokyo",S13019,20160107,0-00000000-0
+CS011513000193,Sachie Nemoto,1,Male,1962-08-05,56,223-0064,"Shimoda -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20150803,0-00000000-0
+CS015615000147,Ema Tsuchiya,1,Male,1950-12-30,68,136-0076,"Minami sand in Koto -ku, Tokyo",S13015,20150919,D-20080729-3
+CS013412000077,Miki Uchimura,1,Male,1971-02-21,48,275-0017,"Fujisaki, Narashino City, Chiba Prefecture",S12013,20150418,B-20081013-7
+CS025513000218,Michiko Miyahara,1,Male,1962-12-01,56,242-0015,"Shimwada, Yamato City, Kanagawa Prefecture",S14025,20171126,0-00000000-0
+CS010313000148,Antono,1,Male,1984-12-22,34,222-0026,"Shinohara -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150926,0-00000000-0
+CS005312000205,Maho Nishii,9,Unknown,1980-01-22,39,176-0002,"Sakuradai, Nerima -ku, Tokyo",S13005,20161019,0-00000000-0
+CS010213000048,Nana Nishitani,1,Male,1996-01-08,23,222-0021,"Shinohara Kita, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150514,0-00000000-0
+CS004515000513,Matsunaga,1,Male,1963-07-16,55,176-0024,"Nakamura, Nerima -ku, Tokyo",S13004,20160922,9-20091210-8
+CS011412000145,Nozomi Konno,1,Male,1976-08-04,42,211-0012,"Nakamaruko, Nakahara -ku, Kawasaki City, Kanagawa Prefecture",S14011,20150912,6-20080623-3
+CS028515000155,Riho Noda,1,Male,1962-02-08,57,187-0011,"Suzuki -cho, Kodaira, Tokyo",S14028,20150121,B-20100529-C
+CS025315000031,Hiroko Ishikawa,1,Male,1982-05-12,36,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20150717,0-00000000-0
+CS003602000013,Yuji Oshita,0,Female,1949-09-14,69,201-0002,"Higashinogawa, Komae City, Tokyo",S13003,20151207,0-00000000-0
+CS020313000159,Ai Takamatsu,1,Male,1984-02-12,35,114-0032,"Kita -ku, Tokyo Nakagojo",S13020,20151021,0-00000000-0
+CS004712000089,Saki Horii,1,Male,1944-07-14,74,166-0000,"Suginami-ku, Tokyo",S13004,20160713,0-00000000-0
+CS035401000016,Squirrels,0,Female,1971-05-06,47,155-0033,"Daeda, Setagaya -ku, Tokyo",S13035,20150527,0-00000000-0
+CS002415000882,Born Yoneya,1,Male,1976-02-09,43,185-0014,"Higashi Koikokubo, Kokubunji City, Tokyo",S13002,20170803,0-00000000-0
+CS014514000004,Pupil Kikuchi,1,Male,1967-03-08,52,264-0036,"Tonai -cho, Wakaba -ku, Chiba -shi, Chiba",S12014,20150427,F-20100913-E
+CS005515000350,Mikako Seto,1,Male,1962-01-01,57,165-0033,"Wakamiya, Nakano -ku, Tokyo",S13005,20170224,7-20091217-2
+CS028513000025,Kazuki Matsuda,9,Unknown,1967-04-09,51,246-0021,"Futatsuhashi -cho, Seya -ku, Yokohama -shi, Kanagawa",S14028,20150901,5-20100725-6
+CS018212000046,Nao Aihara,1,Male,1993-05-17,25,204-0012,"Kiyoto, Kiyose City, Tokyo",S13018,20170509,0-00000000-0
+CS021615000045,Nana Uchino,1,Male,1951-09-19,67,259-1141,"Kamikasuya, Isehara City, Kanagawa Prefecture",S14021,20150718,E-20100913-D
+CS046415000005,Akane Ginjo,1,Male,1970-10-10,48,224-0023,"Higashiyamada, Tsuzuki -ku, Yokohama City, Kanagawa Prefecture",S14046,20171103,D-20100916-D
+CS029515000251,Mika Suikoshi,1,Male,1959-12-06,59,279-0041,"Horie, Urayasu City, Chiba Prefecture",S12029,20150111,D-20100831-D
+CS010412000047,Mizuki Yamagata,1,Male,1975-05-06,43,223-0053,"Tsunashima Nishi, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150529,0-00000000-0
+CS012412000105,Pupil,1,Male,1974-04-18,44,231-0864,"Chiyosaki -cho, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150227,2-20080210-3
+CS037112000007,Sayaka Temple,1,Male,2004-01-20,15,101-0031,"Higashi Kanda, Chiyoda -ku, Tokyo",S13037,20151108,0-00000000-0
+CS020813000009,Uchida Kou,1,Male,1936-12-08,82,114-0001,"Higashi Jujo, Kita -ku, Tokyo",S13020,20141125,0-00000000-0
+CS005513000417,Kasai flower,1,Male,1963-03-03,56,167-0031,"Motomonuma, Suginami -ku, Tokyo",S13005,20170729,A-20090810-2
+CS037412000183,Mami Muto,1,Male,1977-04-18,41,135-0042,"Kiba, Koto -ku, Tokyo",S13037,20150913,0-00000000-0
+CS014314000064,Honda Natsuka Sky,1,Male,1982-02-05,37,263-0051,"Sono -cho, Inage -ku, Chiba -shi, Chiba",S12014,20150525,5-20080913-7
+CS012415000030,Hirosue Riho,1,Male,1973-01-01,46,231-0825,"Honmaki gate, Naka -ku, Yokohama -shi, Kanagawa",S14012,20151106,E-20100615-E
+CS005414000072,Erika Okumura,1,Male,1977-05-12,41,167-0021,"Igusa, Suginami -ku, Tokyo",S13005,20150118,9-20080807-8
+CS035513000038,Apricot of Tsutsui,1,Male,1965-02-19,54,157-0076,"Okamoto, Setagaya -ku, Tokyo",S13035,20160323,8-20100530-6
+CS003413000708,Chiemi Nagao,1,Male,1973-11-23,45,201-0012,"Komae -shi, Tokyo Ikuwaki",S13003,20170608,0-00000000-0
+CS032302000021,Ayase Ayaseya,0,Female,1986-03-06,33,212-0058,"Kashimada, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S13032,20151111,0-00000000-0
+CS001311000033,Nao Hirota,1,Male,1985-07-08,33,212-0054,"Kokura, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S13001,20150212,3-20080927-2
+CS023514000041,Nanomo Fukikoshi,1,Male,1960-05-07,58,212-0012,"Nakayuki -cho, Yuki -ku, Kawasaki -shi, Kanagawa",S14023,20150519,5-20081228-6
+CS025314000025,Sayaka Temple,1,Male,1985-08-12,33,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20150218,C-20080913-6
+CS038513000067,Kyoko Kawano,1,Male,1962-06-08,56,279-0004,"Urayasu City, Chiba Prefecture Cats",S13038,20150713,8-20090817-8
+CS001513000126,Aiko Mizuguchi,1,Male,1964-01-29,55,144-0035,"Minami Kamata, Ota -ku, Tokyo",S13001,20150526,0-00000000-0
+CS012312000062,Erika Sakuma,9,Unknown,1981-12-18,37,231-0865,"Kita -cho, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150530,0-00000000-0
+CS020503000019,Hori Hori Hori,0,Female,1959-11-17,59,174-0053,"Shimizu -cho, Itabashi -ku, Tokyo",S13020,20150422,0-00000000-0
+CS001515000237,Erika Hosoya,1,Male,1965-03-27,54,144-0056,"Nishi -Rokugo, Ota -ku, Tokyo",S13001,20150317,4-20101018-7
+CS007612000124,Ikenai Saki,1,Male,1952-11-01,66,285-0863,"Usui, Sakura City, Chiba Prefecture",S12007,20170331,0-00000000-0
+CS017315000031,Mayuko Takayama,1,Male,1983-06-03,35,166-0011,"Umisato, Suginami -ku, Tokyo",S13017,20150303,8-20100917-9
+CS040513000024,Nishitani Bunsei,1,Male,1964-02-13,55,226-0018,"Nagatsuda Minamidai, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150405,8-20100412-6
+CS032212000027,Megumi Sugihara,1,Male,1994-07-01,24,210-0007,"Ekimae Honmachi, Kawasaki -ku, Kawasaki City, Kanagawa Prefecture",S13032,20150929,7-20101010-A
+CS015514000020,Misa Hara,1,Male,1965-07-27,53,136-0076,"Minami sand in Koto -ku, Tokyo",S13015,20150121,6-20100815-7
+CS018415000178,Saki Oda,1,Male,1972-09-30,46,204-0012,"Kiyoto, Kiyose City, Tokyo",S13018,20141013,E-20090924-E
+CS037402000046,Fujishima Flower Green,0,Female,1970-08-18,48,136-0071,"Kameido, Koto -ku, Tokyo",S13037,20150819,0-00000000-0
+CS002412000355,Erika Ikuta,1,Male,1975-06-04,43,187-0042,"Nakamachi, Kodaira City, Tokyo",S13002,20160312,2-20090426-1
+CS032314000022,Imaishi tomorrow,1,Male,1986-08-10,32,144-0045,"Minami Rokugo, Ota -ku, Tokyo",S13032,20150317,5-20081015-6
+CS032515000131,Harumi Fujiyama,1,Male,1963-04-13,55,144-0055,"Nakarokugo, Ota -ku, Tokyo",S13032,20150629,C-20101002-D
+CS007715000037,Mahiru Yanagawa,1,Male,1942-01-11,77,285-0859,"Minami Eucalyptus, Sakura City, Chiba Prefecture",S12007,20150514,0-00000000-0
+CS024511000043,Miyaji Masami,1,Male,1962-09-16,56,216-0026,"Hatsuyama, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150701,0-00000000-0
+CS025315000159,Natsuki Ishii,1,Male,1985-12-05,33,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20150808,0-00000000-0
+CS026415000150,Rinko Tamako,1,Male,1974-05-24,44,251-0046,"Tsujido, Fujisawa City, Kanagawa Prefecture Tsujido West Coast",S14026,20150313,E-20101020-E
+CS033413000051,Rio Nagai,1,Male,1972-11-30,46,246-0023,"Akuwato, Seya -ku, Yokohama -shi, Kanagawa",S14033,20150911,0-00000000-0
+CS005415000563,Hikaru Ishii,1,Male,1972-05-29,46,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13005,20170930,0-00000000-0
+CS042512000026,Harumi Igawa,1,Male,1958-12-03,60,231-0862,"Yamate -cho, Naka -ku, Yokohama -shi, Kanagawa",S14042,20180721,0-00000000-0
+CS025413000228,Nao Morinaga,1,Male,1973-12-13,45,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20161102,0-00000000-0
+CS001613000002,Mikako Uno,1,Male,1951-07-21,67,144-0035,"Minami Kamata, Ota -ku, Tokyo",S13001,20150202,0-00000000-0
+CS034312000068,Riko Uehara,1,Male,1985-12-05,33,213-0022,"Thousands of Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150629,0-00000000-0
+CS033515000070,Kaoru Tamura,1,Male,1961-09-16,57,246-0022,"Soya -ku, Yokohama -shi, Kanagawa, three tsukai",S14033,20160114,B-20100807-D
+CS002313000294,Mami Shibata,1,Male,1987-07-13,31,185-0022,"Higashimotomachi, Kokubunji -shi, Tokyo",S13002,20160630,0-00000000-0
+CS039403000029,Mitaro Akimoto,0,Female,1976-06-28,42,167-0051,"Ogikubo, Suginami -ku, Tokyo",S13039,20150304,0-00000000-0
+CS039214000007,Ishizawa Isamu,1,Male,1994-05-02,24,167-0053,"Nishi -Oginan, Suginami -ku, Tokyo",S13039,20150910,E-20100909-F
+CS010712000028,Yoko Otsuka,1,Male,1947-09-05,71,223-0057,"Shinhamachi, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20151029,0-00000000-0
+CS007615000149,Numata Asayang,1,Male,1957-08-19,61,285-0855,"Ino, Sakura City, Chiba Prefecture",S12007,20180613,0-00000000-0
+CS014415000037,Nana Minagawa,1,Male,1973-12-21,45,263-0051,"Sono -cho, Inage -ku, Chiba -shi, Chiba",S12014,20150507,E-20100220-E
+CS033314000073,Fumyo Aoi,1,Male,1979-10-01,39,246-0021,"Futatsuhashi -cho, Seya -ku, Yokohama -shi, Kanagawa",S14033,20150908,2-20080913-5
+CS020702000023,Subaru Okochi,0,Female,1940-01-13,79,174-0072,"Minamitoshidai, Itabashi -ku, Tokyo",S13020,20150225,0-00000000-0
+CS034412000218,Shirori Tada,1,Male,1974-11-30,44,213-0032,"Kukuchi, Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S14034,20160326,0-00000000-0
+CS003414000209,Natsume Fukushi,1,Male,1973-09-29,45,182-0015,"Yakumodai, Chofu City, Tokyo",S13003,20160724,E-20100105-8
+CS004315000240,Seika Segawa,1,Male,1983-10-05,35,176-0025,"Nakamura Minami, Nerima -ku, Tokyo",S13004,20161019,4-20090424-1
+CS024313000118,Maho Sasakawa,1,Male,1984-05-01,34,216-0014,"Sugaigaoka, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150511,0-00000000-0
+CS027413000261,Sachie Nozaki,1,Male,1977-07-23,41,251-0033,"Kataseyama, Fujisawa City, Kanagawa Prefecture",S14027,20150210,0-00000000-0
+CS003415000083,Yuu Nogiwa,1,Male,1969-03-25,50,201-0011,"Nishimai Iwaizumi, Komae City, Tokyo",S13003,20150614,4-20080209-2
+CS022515000248,Sachiko Mizukami,1,Male,1966-03-07,53,249-0005,"Sakurayama, Zushi City, Kanagawa Prefecture",S14022,20160921,B-20100827-A
+CS012301000003,Yuki Matsuyama,0,Female,1979-03-08,40,231-0842,"Ueno -cho, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150416,0-00000000-0
+CS028613000074,Keiko Hamamoto,1,Male,1951-08-12,67,246-0022,"Soya -ku, Yokohama -shi, Kanagawa, three tsukai",S14028,20150418,0-00000000-0
+CS039613000119,Aya Kurosaki,1,Male,1953-01-29,66,167-0053,"Nishi -Oginan, Suginami -ku, Tokyo",S13039,20150418,0-00000000-0
+CS018715000084,Suzuki Kahara,1,Male,1939-05-15,79,204-0003,"Nakazato, Kiyose City, Tokyo",S13018,20161107,0-00000000-0
+CS033412000235,Miyuki Kasahara,1,Male,1971-01-19,48,245-0018,"Kamiiida -cho, Izumi -ku, Yokohama -shi, Kanagawa",S14033,20180713,0-00000000-0
+CS027415000133,Manami Furusawa,1,Male,1976-08-05,42,251-0002,"Kawakuri, Fujisawa City, Kanagawa Prefecture",S14027,20150430,F-20101014-C
+CS005415000025,Rary,9,Unknown,1969-08-22,49,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13005,20150110,D-20100716-D
+CS037714000009,Riho Hamamoto,1,Male,1939-11-28,79,135-0011,"Ogihashi, Koto -ku, Tokyo",S13037,20150516,0-00000000-0
+CS038603000031,Mitsuhiro Kameda,0,Female,1949-03-17,70,279-0041,"Horie, Urayasu City, Chiba Prefecture",S13038,20161210,0-00000000-0
+CS008714000030,Hikari Itakura,1,Male,1946-07-05,72,201-0004,"Iwato Kita, Komae City, Tokyo",S13008,20151011,0-00000000-0
+CS019515000108,Mia Asakawa,1,Male,1963-01-22,56,176-0011,"Toyodaigami, Nerima -ku, Tokyo",S13019,20151116,8-20100603-B
+CS002303000006,Yuta Nojima,0,Female,1982-07-25,36,185-0012,"Honmachi, Kokubunji -shi, Tokyo",S13002,20150517,0-00000000-0
+CS001604000003,Kubota Seoyo,0,Female,1953-07-31,65,144-0046,"Higashi Rokugo, Ota -ku, Tokyo",S13001,20150713,A-20081019-1
+CS022214000007,Sayaka Nishimoto,1,Male,1991-05-15,27,249-0006,"Zushi, Zushi City, Kanagawa Prefecture",S14022,20160121,B-20101008-D
+CS045403000006,Saito Saito,0,Female,1977-01-01,42,243-0005,"Matsuei, Atsugi City, Kanagawa Prefecture",S14045,20180908,0-00000000-0
+CS009603000036,Lion,0,Female,1953-05-17,65,154-0014,"Shinmachi, Setagaya -ku, Tokyo",S13009,20170601,0-00000000-0
+CS023514000005,Aya Hatano,1,Male,1966-01-25,53,212-0012,"Nakayuki -cho, Yuki -ku, Kawasaki -shi, Kanagawa",S14023,20151023,B-20091212-B
+CS010614000086,Maki Seto,1,Male,1951-02-16,68,222-0011,"Kikuna, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20180411,0-00000000-0
+CS039402000038,Masayoshi Iwazawa,0,Female,1969-03-19,50,166-0004,"Asaya Minami, Suginami -ku, Tokyo",S13039,20150721,0-00000000-0
+CS023415000252,Natsuki Hashiguchi,1,Male,1972-01-25,47,212-0022,"Shinmeicho, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S14023,20151102,D-20101020-B
+CS022401000004,Akira Nakajima,0,Female,1977-04-16,41,240-0115,"Kamiyamaguchi, Hayama -cho, Miura -gun, Kanagawa",S14022,20150830,0-00000000-0
+CS039613000067,Kusakabe Mekei,9,Unknown,1949-11-03,69,167-0051,"Ogikubo, Suginami -ku, Tokyo",S13039,20160204,0-00000000-0
+CS029512000006,Nao Okamoto,1,Male,1965-10-26,53,279-0043,"Fujimi, Urayasu City, Chiba Prefecture",S12029,20150910,2-20091221-5
+CS026412000175,Misako Ichikawa,1,Male,1971-12-04,47,253-0002,"Takada, Chigasaki City, Kanagawa Prefecture",S14026,20160225,0-00000000-0
+CS011712000061,Omura Tomorrow,1,Male,1942-01-16,77,212-0058,"Kashimada, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S14011,20170915,0-00000000-0
+CS020413000005,Manami Sunagawa,1,Male,1975-04-09,43,173-0005,"Nakajuku, Itabashi -ku, Tokyo",S13020,20150323,0-00000000-0
+CS018615000056,Meisa Yamamoto,1,Male,1957-06-22,61,204-0023,"Takoka, Kiyose City, Tokyo",S13018,20151225,7-20100809-3
+CS031611000031,Megumi Uehara,1,Male,1953-03-10,66,150-0032,"Uguisudani -cho, Shibuya -ku, Tokyo",S13031,20150418,0-00000000-0
+CS003514000342,Manami Noguchi,1,Male,1966-12-23,52,182-0022,"Kokuro -cho, Chofu -shi, Tokyo",S13003,20171011,0-00000000-0
+CS001602000081,Hiroaki Tsutsumi,0,Female,1957-05-09,61,211-0013,"Kamihiraama, Nakahara -ku, Kawasaki City, Kanagawa Prefecture",S13001,20170416,0-00000000-0
+CS001412000102,Tomoyo Saito,1,Male,1971-08-01,47,212-0026,"Konya -cho, Sachi -ku, Kawasaki -shi, Kanagawa",S13001,20150302,2-20081013-1
+CS037413000187,Akane Matsuda,1,Male,1973-04-16,45,136-0076,"Minami sand in Koto -ku, Tokyo",S13037,20150314,4-20080210-4
+CS043414000005,Chinatsu Nagata,1,Male,1969-11-20,49,140-0004,"Minami -Shinagawa, Shinagawa -ku, Tokyo",S13043,20171025,A-20101009-B
+CS034412000050,Aya Miyahara,1,Male,1970-03-19,49,213-0022,"Thousands of Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150618,0-00000000-0
+CS019313000157,Rinako Asada,1,Male,1983-07-21,35,173-0035,"Otaniguchi, Itabashi -ku, Tokyo",S13019,20150411,0-00000000-0
+CS002615000180,Mia Ishii,1,Male,1951-09-18,67,185-0014,"Higashi Koikokubo, Kokubunji City, Tokyo",S13002,20161022,0-00000000-0
+CS019513000175,Shigematsu Asayang,1,Male,1967-04-04,51,179-0084,"Hikawadai, Nerima -ku, Tokyo",S13019,20150509,B-20100308-9
+CS004415000050,Yo Uemura,1,Male,1972-12-24,46,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13004,20150426,7-20091127-9
+CS025503000024,Mitsuhiro Tsuzuki,0,Female,1961-04-24,57,242-0024,"Fukuda, Yamato City, Kanagawa Prefecture",S14025,20150219,0-00000000-0
+CS023514000032,Hojo Saki,1,Male,1963-11-18,55,144-0055,"Nakarokugo, Ota -ku, Tokyo",S14023,20150810,A-20100729-B
+CS020513000258,Salt rice cool,1,Male,1962-09-20,56,173-0002,"Inari stand, Itabashi -ku, Tokyo",S13020,20181020,0-00000000-0
+CS003513000543,Mahiru Abe,1,Male,1961-06-16,57,182-0007,"Kikunodai, Chofu City, Tokyo",S13003,20170413,0-00000000-0
+CS003712000014,Saki Tsugawa,1,Male,1942-08-12,76,214-0014,"Noborito, Tama -ku, Kawasaki City, Kanagawa Prefecture",S13003,20151218,0-00000000-0
+CS008515000002,Yu Kawahara,1,Male,1967-01-09,52,201-0004,"Iwato Kita, Komae City, Tokyo",S13008,20160120,C-20100717-8
+CS039812000008,Tamura Sayuri,1,Male,1935-12-04,83,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13039,20150518,0-00000000-0
+CS031313000167,Misa Takigawa,1,Male,1987-09-06,31,151-0063,"Tomigaya, Shibuya -ku, Tokyo",S13031,20160124,0-00000000-0
+CS002401000049,Daigoro Kawabe,0,Female,1976-04-03,42,189-0012,"Hagiyama -cho, Higashimurayama City, Tokyo",S13002,20161110,0-00000000-0
+CS003712000077,Ochiai rice brewery,9,Unknown,1940-02-17,79,182-0013,"Fukudaiji Minamicho, Chofu City, Tokyo",S13003,20160702,0-00000000-0
+CS013515000038,Kyoko Oda,1,Male,1965-01-06,54,261-0026,"Makuhari Nishi, Mihama -ku, Chiba -shi, Chiba",S12013,20150621,E-20101002-F
+CS021315000089,Natsuki Masagi,1,Male,1983-05-09,35,259-1144,"Ikehata, Isehara City, Kanagawa Prefecture",S14021,20150426,0-00000000-0
+CS030815000027,Maki Tomoichi,1,Male,1936-01-26,83,272-0021,"Yawata, Ichikawa City, Chiba Prefecture",S12030,20170209,0-00000000-0
+CS002611000089,Yu Hamamoto,1,Male,1951-10-06,67,187-0013,"Mazutacho, Kodaira City, Tokyo",S13002,20170626,0-00000000-0
+CS027412000059,Miyuki Shimamura,1,Male,1972-11-15,46,251-0011,"Watanai, Fujisawa City, Kanagawa Prefecture",S14027,20150924,0-00000000-0
+CS034212000046,Ayaka Matsunaga,1,Male,1991-01-10,28,213-0024,"Akitsu, Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S14034,20160430,0-00000000-0
+CS028313000151,Kurita Kou,1,Male,1980-02-28,39,246-0021,"Futatsuhashi -cho, Seya -ku, Yokohama -shi, Kanagawa",S14028,20150911,0-00000000-0
+CS034813000001,Yuko Yasuko,1,Male,1932-03-03,87,216-0001,"Nogawa, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150625,0-00000000-0
+CS009314000032,Katsumushi Munako,9,Unknown,1987-03-10,32,154-0014,"Shinmachi, Setagaya -ku, Tokyo",S13009,20160206,B-20100910-B
+CS023414000132,Miyu Kurita,1,Male,1970-10-31,48,212-0012,"Nakayuki -cho, Yuki -ku, Kawasaki -shi, Kanagawa",S14023,20160825,6-20100925-9
+CS020715000065,Tricycle,1,Male,1940-01-20,79,173-0002,"Inari stand, Itabashi -ku, Tokyo",S13020,20141229,0-00000000-0
+CS020513000053,Reiko Kawachi,1,Male,1960-10-12,58,114-0034,"Kita -ku, Kita -ku, Tokyo",S13020,20150627,1-20081103-3
+CS030512000133,Yu Uemura,1,Male,1995-03-26,24,253-0001,"Akabane, Chigasaki City, Kanagawa Prefecture",S12030,20151023,5-20100502-6
+CS005601000020,Kenji Doi,0,Female,1954-02-05,65,177-0043,"Kamiishini Minami -cho, Nerima -ku, Tokyo",S13005,20170704,0-00000000-0
+CS024312000115,Saki Shishido,1,Male,1981-02-18,38,214-0014,"Noborito, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150121,0-00000000-0
+CS003512000535,Kyoko Shiota,1,Male,1960-07-02,58,214-0014,"Noborito, Tama -ku, Kawasaki City, Kanagawa Prefecture",S13003,20170502,0-00000000-0
+CS031313000138,Toshima Sora,1,Male,1985-08-06,33,151-0071,"Honmachi, Shibuya -ku, Tokyo",S13031,20151021,0-00000000-0
+CS033503000044,Ryukichi Muramatsu,0,Female,1965-03-07,54,246-0023,"Akuwato, Seya -ku, Yokohama -shi, Kanagawa",S14033,20150922,0-00000000-0
+CS010315000081,Erika Utada,1,Male,1981-05-01,37,222-0021,"Shinohara Kita, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150112,3-20080222-1
+CS003613000188,Megumi Nishimoto,1,Male,1950-05-18,68,201-0012,"Komae -shi, Tokyo Ikuwaki",S13003,20160820,0-00000000-0
+CS039412000099,Shigematsu Nanko,1,Male,1969-10-04,49,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13039,20150801,8-20080520-4
+CS001215000075,Bud Konno Bud,1,Male,1990-10-11,28,146-0094,"Higashi -Yaguchi, Ota -ku, Tokyo",S13001,20160421,0-00000000-0
+CS004412000362,Yu Tamura,1,Male,1973-07-06,45,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13004,20161020,0-00000000-0
+CS039413000193,Asaka Hatano,1,Male,1971-01-29,48,167-0053,"Nishi -Oginan, Suginami -ku, Tokyo",S13039,20150730,0-00000000-0
+CS037413000002,Mao Tsukamoto,1,Male,1971-01-30,48,136-0072,"Oshima, Koto -ku, Tokyo",S13037,20150826,0-00000000-0
+CS002315000196,Yuko Sakakibara,1,Male,1980-08-30,38,187-0022,"Kamimizuhonmachi, Kodaira City, Tokyo",S13002,20150531,0-00000000-0
+CS004315000074,Mika Tsutsui,1,Male,1979-04-23,39,165-0021,"Maruyama, Nakano -ku, Tokyo",S13004,20151115,6-20080322-1
+CS003715000093,Reiko Itagaki,1,Male,1943-09-03,75,201-0002,"Higashinogawa, Komae City, Tokyo",S13003,20161105,0-00000000-0
+CS020715000035,Nao Koyanagi,1,Male,1941-04-24,77,174-0054,"Miyamotocho, Itabashi -ku, Tokyo",S13020,20150426,0-00000000-0
+CS018711000024,Aiko Matsui,1,Male,1939-05-27,79,204-0004,"Kiyose -shi, Tokyo.",S13018,20170212,0-00000000-0
+CS024612000086,Ogata flower,1,Male,1954-01-14,65,214-0012,"Nakanojima, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20151215,0-00000000-0
+CS027411000021,Nanomo Kanazawa,1,Male,1975-07-19,43,251-0015,"Name, Fujisawa City, Kanagawa Prefecture",S14027,20150521,5-20091114-6
+CS023613000137,Satomi Iwamoto,1,Male,1955-07-30,63,212-0016,"Minamikai -cho, Sachi -ku, Kawasaki -shi, Kanagawa",S14023,20160116,1-20081201-4
+CS021603000011,Yusuke Koizumi,0,Female,1952-01-17,67,259-1133,"Higashi Otake, Isehara City, Kanagawa Prefecture",S14021,20150223,0-00000000-0
+CS010615000117,Mizuki,1,Male,1973-09-04,45,204-0004,"Kiyose -shi, Tokyo.",S14010,20150801,0-00000000-0
+CS032415000228,Star,1,Male,1976-03-02,43,210-0807,"Kawasaki -ku, Kawasaki City, Kanagawa Prefecture",S13032,20151113,E-20101023-F
+CS004814000017,Ryo Nakata,1,Male,1934-10-15,84,176-0025,"Nakamura Minami, Nerima -ku, Tokyo",S13004,20160818,5-20100611-8
+CS004615000055,Miki Ono,1,Male,1952-10-25,66,165-0032,"Saginomiya, Nakano -ku, Tokyo",S13004,20150305,0-00000000-0
+CS014613000025,Nanami Asani,1,Male,1942-08-09,76,216-0001,"Nogawa, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S12014,20151022,0-00000000-0
+CS003412000377,Megumi Nakata,1,Male,1970-12-15,48,214-0001,"Suga, Tama -ku, Kawasaki City, Kanagawa Prefecture",S13003,20160822,5-20100926-7
+CS025403000018,Misako Mizuta,1,Male,1959-05-21,59,201-0005,"Iwato Minami, Komae City, Tokyo",S14025,20150625,0-00000000-0
+CS020315000092,Kyoko Inada,1,Male,1980-02-05,39,114-0001,"Higashi Jujo, Kita -ku, Tokyo",S13020,20150920,5-20080517-3
+CS020402000015,Toshiaki Iwanaga,0,Female,1974-11-23,44,173-0034,"Yuki -cho, Itabashi -ku, Tokyo",S13020,20151008,0-00000000-0
+CS037315000018,Sayuri Hirata,1,Male,1987-08-02,31,135-0003,"Sarue, Koto -ku, Tokyo",S13037,20150802,0-00000000-0
+CS034603000008,Takashi Kitamura,0,Female,1949-10-14,69,216-0001,"Nogawa, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150705,0-00000000-0
+CS020615000096,Masayo Aida,1,Male,1956-05-22,62,173-0002,"Inari stand, Itabashi -ku, Tokyo",S13020,20150609,2-20100104-3
+CS020512000007,Yui Uno,1,Male,1966-03-11,53,174-0071,"Tokiwadai, Itabashi -ku, Tokyo",S13020,20150902,0-00000000-0
+CS002412000196,Mirai Noda,1,Male,1973-04-23,45,185-0013,"Kokubunji -shi, Tokyo Nishiki Kokubo",S13002,20150530,2-20100214-1
+CS011513000130,Yoko Matsubara,1,Male,1960-03-27,59,223-0066,"Takada Nishi, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20150630,9-20100405-7
+CS040402000007,Akira Konuma,0,Female,1971-02-13,48,226-0021,"Kita -Hatsusaku -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150906,0-00000000-0
+CS040302000031,Loose,0,Female,1979-08-01,39,226-0015,"Miho -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150822,0-00000000-0
+CS028215000024,Mami Moriyama,1,Male,1989-11-18,29,241-0816,"Sasanodai, Asahi -ku, Yokohama City, Kanagawa Prefecture",S14028,20150220,B-20101020-B
+CS027212000007,Scandal of Noda,1,Male,1994-03-19,25,244-0004,"Kojaku -cho, Totsuka -ku, Yokohama -shi, Kanagawa",S14027,20151227,6-20090412-6
+CS035712000047,Ogoro Nanko,1,Male,1940-12-27,78,157-0072,"Soshitani, Setagaya -ku, Tokyo",S13035,20150824,0-00000000-0
+CS003611000075,Takamiko Tanabe,1,Male,1949-10-13,69,206-0812,"Yanoguchi, Inagi City, Tokyo",S13003,20160203,0-00000000-0
+CS017515000178,Natsumi Nagano,1,Male,1960-04-16,58,166-0004,"Asaya Minami, Suginami -ku, Tokyo",S13017,20151123,C-20100710-D
+CS021715000036,Kyoko Miyamoto,1,Male,1941-12-01,77,259-1142,"Tanaka, Isehara City, Kanagawa Prefecture",S14021,20160110,0-00000000-0
+CS019314000035,Tricycles,1,Male,1980-11-28,38,173-0035,"Otaniguchi, Itabashi -ku, Tokyo",S13019,20151007,A-20100420-A
+CS015312000021,Risa Maeda,1,Male,1978-11-05,40,136-0073,"Kitasuna, Koto -ku, Tokyo",S13015,20150628,0-00000000-0
+CS019415000213,Okayama Asami,1,Male,1974-09-09,44,176-0002,"Sakuradai, Nerima -ku, Tokyo",S13019,20150717,B-20100925-A
+CS004413000018,Akane Otsuka,1,Male,1976-02-11,43,165-0027,"Nakano -ku, Tokyo Nomo",S13004,20150401,0-00000000-0
+CS034413000035,Mikako Aida,1,Male,1976-12-19,42,216-0001,"Nogawa, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150508,4-20100919-5
+CS011412000021,Riho Tamada,1,Male,1999-10-21,19,165-0022,"Ekoda, Nakano -ku, Tokyo",S14011,20150526,4-20090412-3
+CS026413000129,Ikuta Ikujo,1,Male,1971-05-04,47,251-0043,"Tsujido Motomachi, Fujisawa City, Kanagawa Prefecture",S14026,20150305,0-00000000-0
+CS011614000053,Risa Fukasawa,1,Male,1954-11-17,64,223-0064,"Shimoda -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20160610,4-20100802-3
+CS016415000215,Ayako Maeda,1,Male,1969-12-04,49,184-0012,"Nakamachi, Koganei City, Tokyo",S13016,20141105,E-20100513-E
+CS026511000058,Erika Kameyama,1,Male,1965-06-29,53,253-0053,"Chigasaki City, Kanagawa Prefecture East Coast Kita",S14026,20150915,4-20100829-5
+CS040313000047,Yui Koyama,1,Male,1981-08-27,37,226-0026,"Nagatsuda -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150119,0-00000000-0
+CS009515000203,Ayako Umezawa,1,Male,1964-03-05,55,158-0095,"Seta, Setagaya -ku, Tokyo",S13009,20160511,0-00000000-0
+CS018315000029,Theatrical company Chinatsu,1,Male,1980-05-27,38,203-0051,"Oyama, Higashikurume City, Tokyo",S13018,20151013,9-20080222-5
+CS003703000037,Matsushima Mitsuhiro,0,Female,1946-03-17,73,201-0013,"Motoizumi, Komae City, Tokyo",S13003,20160513,0-00000000-0
+CS023403000007,Akira Morinaga,0,Female,1973-05-25,45,212-0016,"Minamikai -cho, Sachi -ku, Kawasaki -shi, Kanagawa",S14023,20150221,0-00000000-0
+CS006514000034,Nanami Sugaya,1,Male,1965-03-02,54,224-0056,"Kawadai, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20150202,8-20100524-9
+CS030415000209,Haruka Kuno,1,Male,1974-11-11,44,272-0031,"Hirata, Ichikawa City, Chiba Prefecture",S12030,20150331,F-20100908-F
+CS011412000193,Miki Nishimoto,1,Male,1976-01-16,43,211-0036,"Idasugiyama -cho, Nakahara -ku, Kawasaki -shi, Kanagawa",S14011,20160119,0-00000000-0
+CS020515000277,Saki Yoneya,1,Male,1959-10-16,59,115-0043,"Kamiya, Kita -ku, Tokyo",S13020,20171221,0-00000000-0
+CS020515000218,Michiko Kasahara,1,Male,1965-07-22,53,173-0003,"Kaga, Itabashi -ku, Tokyo",S13020,20150715,9-20101002-A
+CS015712000006,Nao Tamaki,1,Male,1944-09-03,74,135-0042,"Kiba, Koto -ku, Tokyo",S13015,20141222,0-00000000-0
+CS021515000211,Yumiko Ogou,1,Male,1963-01-19,56,259-1141,"Kamikasuya, Isehara City, Kanagawa Prefecture",S14021,20150329,F-20101027-F
+CS019712000032,Masayo Shimamura,1,Male,1942-08-20,76,173-0004,"Itabashi -ku, Tokyo, Itabashi",S13019,20150112,0-00000000-0
+CS035514000110,Mami Kitazawa,1,Male,1962-02-27,57,158-0098,"Kamimariga, Setagaya -ku, Tokyo",S13035,20150211,3-20100228-6
+CS010613000129,Kanako Hagiwara,1,Male,1949-01-16,70,222-0024,"Shinohara -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20160327,0-00000000-0
+CS020315000211,Tomosaka Yu,1,Male,1984-12-14,34,173-0004,"Itabashi -ku, Tokyo, Itabashi",S13020,20180616,0-00000000-0
+CS033503000002,Kotaro Kojima,0,Female,1964-12-14,54,246-0035,"Shimoseya, Seya -ku, Yokohama -shi, Kanagawa",S14033,20150702,0-00000000-0
+CS005513000460,Nana Matsui,1,Male,1964-12-21,54,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13005,20170705,3-20100719-2
+CS022315000167,Hitomi Sugaya,1,Male,1984-03-19,35,249-0005,"Sakurayama, Zushi City, Kanagawa Prefecture",S14022,20151001,0-00000000-0
+CS015303000019,Daigoro Motobashi,0,Female,1980-05-16,38,135-0016,"Toyo, Koto -ku, Tokyo",S13015,20150620,0-00000000-0
+CS009515000089,Riho Umemoto,1,Male,1965-04-15,53,154-0014,"Shinmachi, Setagaya -ku, Tokyo",S13009,20160118,B-20100920-D
+CS002514000122,Michiko Otsuka,1,Male,1965-08-01,53,185-0013,"Kokubunji -shi, Tokyo Nishiki Kokubo",S13002,20161211,4-20100509-2
+CS035511000068,Shoko Uehara,1,Male,1965-06-02,53,168-0073,"Shimotaka well, Suginami -ku, Tokyo",S13035,20151123,0-00000000-0
+CS005614000015,Yuichi Shoji,9,Unknown,1952-03-19,67,165-0035,"Shirasagi, Nakano -ku, Tokyo",S13005,20151011,0-00000000-0
+CS014302000009,Hidetaka Fujisaki,0,Female,1985-10-08,33,263-0051,"Sono -cho, Inage -ku, Chiba -shi, Chiba",S12014,20141228,0-00000000-0
+CS029412000112,Tamaki Hosoi,1,Male,1975-10-13,43,134-0003,"Harue -cho, Edogawa -ku, Tokyo",S12029,20141011,7-20090621-6
+CS031615000042,Megumi Kaneda,1,Male,1954-01-03,65,160-0023,"Nishi -Shinjuku, Shinjuku -ku, Tokyo",S13031,20150508,0-00000000-0
+CS033415000251,Cool Okura,1,Male,1976-11-10,42,246-0025,"Akuwanishi, Seya -ku, Yokohama -shi, Kanagawa",S14033,20150526,E-20100424-D
+CS008714000007,Haruka Ishii,1,Male,1941-02-11,78,157-0066,"Seijo, Setagaya -ku, Tokyo",S13008,20150706,0-00000000-0
+CS029512000141,Maki Shimamura,1,Male,1960-12-08,58,134-0013,"Edogawa -ku, Tokyo Edogawa",S12029,20150820,4-20080708-5
+CS023613000006,Ryo nozaki,9,Unknown,1949-04-13,69,210-0841,"Kawasaki -shi, Kawasaki -ku, Kanagawa, Watada Mukai -cho",S14023,20150322,0-00000000-0
+CS002612000310,Kyoko Yanagida,1,Male,1954-01-15,65,186-0002,Tokyo Kunitachi City East,S13002,20170706,0-00000000-0
+CS004215000047,Ari Ando,1,Male,1997-08-27,21,167-0021,"Igusa, Suginami -ku, Tokyo",S13004,20150221,C-20100417-8
+CS024513000055,Haruka Otsuka,1,Male,1959-01-12,60,214-0036,"Minaminata, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150607,4-20100906-6
+CS006513000112,Fukushi Shibori,1,Male,1961-07-19,57,224-0062,"Kuzugaya, Tsuzuki -ku, Yokohama City, Kanagawa Prefecture",S14006,20151221,2-20090202-2
+CS017711000013,Yoko Sakaguchi,1,Male,1947-04-15,71,166-0004,"Asaya Minami, Suginami -ku, Tokyo",S13017,20150108,0-00000000-0
+CS031413000056,Nana Kawahara,1,Male,1975-04-06,43,151-0071,"Honmachi, Shibuya -ku, Tokyo",S13031,20150530,0-00000000-0
+CS014712000037,Mia Murayama,1,Male,1945-06-16,73,264-0024,"Takabu -cho, Wakaba -ku, Chiba -shi, Chiba",S12014,20150429,0-00000000-0
+CS005413000328,Megiko Ishii,1,Male,1973-04-29,45,167-0031,"Motomonuma, Suginami -ku, Tokyo",S13005,20170726,0-00000000-0
+CS008413000111,Small city sand,1,Male,1970-05-30,48,157-0066,"Seijo, Setagaya -ku, Tokyo",S13008,20150721,0-00000000-0
+CS014415000077,Mayuko Matsui,1,Male,1976-02-01,43,263-0025,"Anagawa -cho, Inage -ku, Chiba -shi, Chiba",S12014,20150923,F-20100903-F
+CS020313000013,Yoshino Oda,1,Male,1985-01-29,34,114-0034,"Kita -ku, Kita -ku, Tokyo",S13020,20150326,0-00000000-0
+CS032412000045,Sayaka Nakai,1,Male,1974-02-10,45,210-0006,"Kawasaki -ku, Kawasaki -shi, Kanagawa",S13032,20160206,A-20100425-5
+CS002502000113,Abe Jiaki,0,Female,1960-07-07,58,187-0011,"Suzuki -cho, Kodaira, Tokyo",S13002,20170616,0-00000000-0
+CS008514000053,Nao Ishikawa,1,Male,1964-05-20,54,157-0066,"Seijo, Setagaya -ku, Tokyo",S13008,20150821,B-20100718-B
+CS040615000129,Aya Hamaguchi,1,Male,1957-11-16,61,226-0026,"Nagatsuda -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150502,B-20100705-6
+CS033514000105,Kyoko Hiraoka,1,Male,1965-06-15,53,246-0038,"Miyazawa, Seya -ku, Yokohama -shi, Kanagawa",S14033,20150514,8-20090730-9
+CS021612000032,Ai Yanagihara,1,Male,1953-04-14,65,259-1124,"Kamihiraama, Isehara City, Kanagawa Prefecture",S14021,20150512,9-20100628-7
+CS037701000008,Yu Yonekura,0,Female,1942-04-20,76,136-0072,"Oshima, Koto -ku, Tokyo",S13037,20151128,0-00000000-0
+CS012515000171,Ikue Nishitani,1,Male,1961-02-25,58,231-0825,"Honmaki gate, Naka -ku, Yokohama -shi, Kanagawa",S14012,20141106,C-20100811-F
+CS001404000044,Yujiro Takai,0,Female,1972-12-04,46,144-0054,"Shin -Kamata, Ota -ku, Tokyo",S13001,20170605,0-00000000-0
+CS027413000024,Ai Kosugi,1,Male,1974-05-28,44,251-0052,"Fujisawa, Fujisawa City, Kanagawa Prefecture",S14027,20151021,0-00000000-0
+CS001402000041,Drilling,0,Female,1969-09-11,49,212-0058,"Kashimada, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S13001,20150414,0-00000000-0
+CS004612000058,Princess Kosugi,1,Male,1949-09-09,69,179-0084,"Hikawadai, Nerima -ku, Tokyo",S13004,20150625,0-00000000-0
+CS034413000191,Ryunosuke Noguchi,9,Unknown,1977-02-05,42,216-0001,"Nogawa, Miyamae -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150622,7-20090223-5
+CS038813000006,Miyuki Toshima,1,Male,1931-01-07,88,134-0084,"Higashi Kasai, Edogawa -ku, Tokyo",S13038,20150603,0-00000000-0
+CS022615000141,Rie Kasai,1,Male,1950-03-11,69,249-0001,"Hisegi, Zushi City, Kanagawa Prefecture",S14022,20150601,C-20090928-A
+CS023515000166,Saki Nagai,1,Male,1959-02-15,60,144-0046,"Higashi Rokugo, Ota -ku, Tokyo",S14023,20150221,E-20101009-E
+CS010311000001,Reina Ishikura,1,Male,1980-11-13,38,230-0073,"Tsurumi -ku, Yokohama -shi, Kanagawa Shishigaya",S14010,20151106,D-20080917-9
+CS001512000453,Mina Uehara,1,Male,1959-08-14,59,212-0011,"Yuki -cho, Kawasaki -shi, Kanagawa",S13001,20170629,0-00000000-0
+CS019511000022,Hikari Abe,1,Male,1966-06-12,52,174-0061,"Ohara -cho, Itabashi -ku, Tokyo",S13019,20150315,0-00000000-0
+CS013301000006,Hidetaka Murai,0,Female,1980-05-26,38,262-0018,"Hatamachi, Hanamigawa -ku, Chiba City, Chiba Prefecture",S12013,20150907,0-00000000-0
+CS042311000001,Mahiru Yoshii,1,Male,1982-03-05,37,230-0053,"Daikoku -cho, Tsurumi -ku, Yokohama -shi, Kanagawa",S14042,20160830,5-20100521-9
+CS004613000341,Saki Hamamoto,1,Male,1954-03-19,65,165-0035,"Shirasagi, Nakano -ku, Tokyo",S13004,20170308,0-00000000-0
+CS037413000155,Nao Kase,1,Male,1976-12-02,42,136-0076,"Minami sand in Koto -ku, Tokyo",S13037,20151126,0-00000000-0
+CS030315000179,Rinako Oya,1,Male,1983-04-17,35,272-0025,"Owada, Ichikawa City, Chiba Prefecture",S12030,20160210,0-00000000-0
+CS028213000058,Mayuko Terashima,1,Male,1997-12-17,21,246-0025,"Akuwanishi, Seya -ku, Yokohama -shi, Kanagawa",S14028,20180806,0-00000000-0
+CS002515000164,Erika car,1,Male,1961-07-07,57,185-0023,"Nishimotocho, Kokubunji -shi, Tokyo",S13002,20141204,6-20100529-7
+CS003415000269,Chikako Kitada,1,Male,1971-04-13,47,182-0014,"Shibasaki, Chofu City, Tokyo",S13003,20160822,B-20100519-B
+CS006405000014,Akira Koyanagi,0,Female,1970-04-05,48,224-0053,"Ikebe -cho, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20170518,0-00000000-0
+CS024412000085,Ai Kosuga,1,Male,1970-01-07,49,214-0014,"Noborito, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150215,0-00000000-0
+CS014414000136,Manami Kaneshiro,1,Male,1972-07-10,46,263-0051,"Sono -cho, Inage -ku, Chiba -shi, Chiba",S12014,20150816,D-20100408-B
+CS014312000039,Ryo Owada,1,Male,1985-02-07,34,263-0002,"Sanno -cho, Inage -ku, Chiba -shi, Chiba",S12014,20150923,0-00000000-0
+CS030315000143,Satomi multi,1,Male,1979-09-21,39,272-0025,"Owada, Ichikawa City, Chiba Prefecture",S12030,20150603,0-00000000-0
+CS010415000121,Mika Ogawa,1,Male,1976-06-26,42,222-0013,"Nishikigaoka, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20151001,F-20100410-E
+CS028714000032,Michiko Yasui,1,Male,1943-09-28,75,246-0025,"Akuwanishi, Seya -ku, Yokohama -shi, Kanagawa",S14028,20150402,0-00000000-0
+CS025512000140,Sachie Umezawa,1,Male,1964-01-22,55,242-0022,"Yanagibashi Bridge, Yamato City, Kanagawa Prefecture",S14025,20151002,9-20090504-6
+CS033213000061,Yui Itagaki,1,Male,1993-11-07,25,246-0032,"Minamidai, Seya -ku, Yokohama -shi, Kanagawa",S14033,20150519,0-00000000-0
+CS004612000036,Yu Toyoda,1,Male,1949-09-28,69,176-0021,"Nukii, Nerima -ku, Tokyo",S13004,20150330,0-00000000-0
+CS006412000143,Hiromi Moriyama,1,Male,1977-02-19,42,224-0034,"Katsuta -cho, Chikushi -ku, Yokohama -shi, Kanagawa",S14006,20150814,0-00000000-0
+CS003313000502,Kaori Miki,1,Male,1987-09-02,31,201-0003,"Izumi Honcho, Komae City, Tokyo",S13003,20170613,0-00000000-0
+CS001412000120,Yuki Motoyama,1,Male,1971-09-30,47,210-0827,"Yotsuya Shimocho, Kawasaki -ku, Kawasaki City, Kanagawa Prefecture",S13001,20150328,0-00000000-0
+CS016414000039,Nanami Okochi,1,Male,1977-12-02,41,184-0004,"Honmachi, Koganei City, Tokyo",S13016,20150225,C-20100825-C
+CS039412000182,Kaoru Hori,1,Male,1972-04-10,46,168-0073,"Shimotaka well, Suginami -ku, Tokyo",S13039,20160130,2-20080923-4
+CS001512000173,Kaoru Fujiki,1,Male,1960-05-16,58,212-0051,"Higashiko Market, Yuki -ku, Kawasaki -shi, Kanagawa",S13001,20160607,8-20091206-2
+CS010715000009,Shihori Kaneshiro,1,Male,1942-08-27,76,222-0012,"Fujizuka, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150416,0-00000000-0
+CS035602000023,Ayukiya Koyanagi,0,Female,1951-11-17,67,158-0097,"Yoga, Setagaya -ku, Tokyo",S13035,20150611,0-00000000-0
+CS004612000156,Pupil of Ogiwara,1,Male,1954-09-15,64,177-0034,"Fujimidai, Nerima -ku, Tokyo",S13004,20160823,0-00000000-0
+CS038305000004,Sakamoto Ukyo,0,Female,1982-12-30,36,134-0085,"Minami Kasai, Edogawa -ku, Tokyo",S13038,20150915,D-20101015-C
+CS031513000096,Otsuki Santa Maria,1,Male,1963-09-12,55,151-0071,"Honmachi, Shibuya -ku, Tokyo",S13031,20150716,8-20100823-B
+CS015415000034,Yu Uehara,1,Male,1974-03-31,45,135-0016,"Toyo, Koto -ku, Tokyo",S13015,20150812,E-20100824-E
+CS004412000188,Natsuki Miyake,1,Male,1976-06-13,42,171-0051,"Nagasaki, Toshima -ku, Tokyo",S13004,20150615,0-00000000-0
+CS010412000049,Harumi Yoshiwara,1,Male,1976-07-08,42,222-0026,"Shinohara -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20150511,0-00000000-0
+CS004513000739,Kaori Kikuchi,9,Unknown,1959-09-03,59,176-0023,"Nakamura Kita, Nerima -ku, Tokyo",S13004,20180408,0-00000000-0
+CS006315000159,Kurita Asuka,1,Male,1984-05-03,34,224-0053,"Ikebe -cho, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20150517,A-20080215-2
+CS023403000019,Hiroyuki Nagai,0,Female,1976-08-28,42,212-0005,"Tate at Sachi -ku, Kawasaki City, Kanagawa Prefecture",S14023,20160122,0-00000000-0
+CS001612000316,Hamaguchi Santa Maria,1,Male,1951-03-25,68,210-0015,"Minamicho, Kawasaki -ku, Kawasaki City, Kanagawa Prefecture",S13001,20180115,0-00000000-0
+CS002401000018,Kazunori Sugawara,0,Female,1977-05-22,41,189-0012,"Hagiyama -cho, Higashimurayama City, Tokyo",S13002,20150320,0-00000000-0
+CS032411000048,Yui Kitazawa,1,Male,1976-12-29,42,212-0058,"Kashimada, Sachi -ku, Kawasaki City, Kanagawa Prefecture",S13032,20160209,3-20100101-5
+CS004813000013,Toshiya Mikami,9,Unknown,1934-06-19,84,165-0031,"Kami -Saginomiya, Nakano -ku, Tokyo",S13004,20151107,0-00000000-0
+CS040611000016,Chinatsu Kamei,1,Male,1951-11-10,67,285-0843,"Nakashizu, Sakura City, Chiba Prefecture",S14040,20150615,0-00000000-0
+CS021312000098,Tsukamoto Sora,1,Male,1980-04-21,38,259-1103,"Sannomiya, Isehara City, Kanagawa Prefecture",S14021,20150903,0-00000000-0
+CS028513000079,Erika Hamaguchi,1,Male,1964-02-26,55,246-0021,"Futatsuhashi -cho, Seya -ku, Yokohama -shi, Kanagawa",S14028,20151225,7-20100613-B
+CS016414000040,Maho Yamauchi,1,Male,1970-02-27,49,184-0003,"Midoricho, Koganei -shi, Tokyo",S13016,20150509,E-20100821-D
+CS002313000272,Risa Motobashi,1,Male,1983-05-30,35,185-0024,"Izumi -cho, Kokubunji, Tokyo",S13002,20160703,0-00000000-0
+CS021714000030,Hanako Yaguchi,1,Male,1942-12-08,76,259-1133,"Higashi Otake, Isehara City, Kanagawa Prefecture",S14021,20150325,0-00000000-0
+CS040313000013,Miho Igarashi,1,Male,1980-10-07,38,226-0026,"Nagatsuda -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20151029,0-00000000-0
+CS021512000049,Ruria Tamura,1,Male,1962-02-12,57,259-1116,"Ishida, Isehara City, Kanagawa Prefecture",S14021,20150514,6-20100314-9
+CS024414000072,Apricot,1,Male,1976-02-13,43,214-0036,"Minaminata, Tama -ku, Kawasaki City, Kanagawa Prefecture",S14024,20150412,E-20100908-E
+CS003412000374,Haruka Yamagami,1,Male,1974-05-09,44,182-0001,"Midorigaoka, Chofu City, Tokyo",S13003,20160324,2-20090209-2
+CS038412000232,Miwa picking,1,Male,1969-07-31,49,134-0084,"Higashi Kasai, Edogawa -ku, Tokyo",S13038,20180826,0-00000000-0
+CS005405000011,Kotaro Takigawa,0,Female,1969-07-24,49,177-0034,"Fujimidai, Nerima -ku, Tokyo",S13005,20160207,0-00000000-0
+CS052515000003,Kyoko Fujikawa,1,Male,1961-09-03,57,194-0022,"Morino, Machida City, Tokyo",S13052,20180919,0-00000000-0
+CS026415000069,Asuka Nishimoto,1,Male,1973-02-25,46,251-0044,"Fujisawa City, Kanagawa Prefecture Tsujido Taihidai",S14026,20150811,E-20100922-F
+CS031515000206,Sachie Yoshiwara,1,Male,1961-08-19,57,151-0065,"Oyama -cho, Shibuya -ku, Tokyo",S13031,20160114,D-20091210-B
+CS005711000009,Reiko Kosugi,1,Male,1939-08-06,79,177-0041,"Shakujii -cho, Nerima -ku, Tokyo",S13005,20150305,0-00000000-0
+CS037205000004,Homeno Homeno,0,Female,1993-04-01,25,135-0011,"Ogihashi, Koto -ku, Tokyo",S13037,20151230,C-20090415-A
+CS020813000004,Haruka Maeda,1,Male,1936-08-28,82,114-0034,"Kita -ku, Kita -ku, Tokyo",S13020,20150216,0-00000000-0
+CS030512000129,Natsumi Ishii,1,Male,1965-07-08,53,270-2222,"Takatsuka Nitta, Matsudo City, Chiba Prefecture",S12030,20150104,3-20090504-5
+CS039313000150,Sachie Nishii,1,Male,1981-09-21,37,166-0004,"Asaya Minami, Suginami -ku, Tokyo",S13039,20150706,0-00000000-0
+CS031512000188,Ryo Ishikawa,1,Male,1967-04-11,51,151-0073,"Sasazuka, Shibuya -ku, Tokyo",S13031,20171023,0-00000000-0
+CS027415000109,Aya Shishido,1,Male,1975-05-25,43,251-0016,"Maitreji Temple, Fujisawa City, Kanagawa Prefecture",S14027,20151121,D-20100914-D
+CS021513000108,Risa Matsui,1,Male,1966-11-06,52,259-1141,"Kamikasuya, Isehara City, Kanagawa Prefecture",S14021,20150304,4-20080922-7
+CS010412000221,Hayashi Kawase,9,Unknown,1970-05-07,48,222-0023,"Nakamotohara, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20160725,0-00000000-0
+CS003411000111,Aya Takigawa,1,Male,1970-08-06,48,206-0812,"Yanoguchi, Inagi City, Tokyo",S13003,20160620,0-00000000-0
+CS019415000076,Mayuko Fukuda,1,Male,1970-02-16,49,173-0031,"Otaniguchi Kitamachi, Itabashi -ku, Tokyo",S13019,20151201,D-20101027-D
+CS004512000076,Satomi Fujishima,1,Male,1966-09-11,52,176-0002,"Sakuradai, Nerima -ku, Tokyo",S13004,20150825,8-20100103-1
+CS005514000043,Risa Kusakabe,1,Male,1966-01-15,53,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13005,20160108,0-00000000-0
+CS002413000447,Hikaru Umezawa,1,Male,1974-08-05,44,185-0012,"Honmachi, Kokubunji -shi, Tokyo",S13002,20160627,0-00000000-0
+CS017313000170,Natsuki Fujishima,1,Male,1985-08-30,33,166-0015,"Narita Higashi, Suginami -ku, Tokyo",S13017,20170412,0-00000000-0
+CS014413000090,Miyuki Tazaki,1,Male,1974-04-10,44,263-0014,"Sakube -cho, Inage -ku, Chiba -shi, Chiba",S12014,20150701,0-00000000-0
+CS002513000742,Harumi Sugiyama,1,Male,1960-07-10,58,185-0014,"Higashi Koikokubo, Kokubunji City, Tokyo",S13002,20170302,0-00000000-0
+CS007515000083,Megumi Okubo,1,Male,1959-11-02,59,276-0028,"Murakami, Yachiyo City, Chiba Prefecture",S12007,20150427,E-20100928-F
+CS002613000371,Reina Kumazawa,1,Male,1956-11-19,62,187-0021,"Kamisui Minami -cho, Kodaira City, Tokyo",S13002,20170419,0-00000000-0
+CS039204000003,Mayuko Hamaguchi,9,Unknown,1989-09-04,29,167-0033,"Shimizu, Suginami -ku, Tokyo",S13039,20150911,9-20101012-B
+CS012712000011,Kazuka Toda,1,Male,1944-05-16,74,231-0826,"Honzaki Arai, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150524,0-00000000-0
+CS001513000035,Airi Shimura,1,Male,1958-12-10,60,144-0056,"Nishi -Rokugo, Ota -ku, Tokyo",S13001,20160119,0-00000000-0
+CS013403000031,Akira Miyabe,0,Female,1973-04-07,45,261-0026,"Makuhari Nishi, Mihama -ku, Chiba -shi, Chiba",S12013,20150426,0-00000000-0
+CS003615000403,Miho Yamamoto,1,Male,1957-01-30,62,201-0002,"Higashinogawa, Komae City, Tokyo",S13003,20170227,0-00000000-0
+CS002513000631,Erika Honda,1,Male,1962-06-30,56,185-0013,"Kokubunji -shi, Tokyo Nishiki Kokubo",S13002,20170816,0-00000000-0
+CS013212000049,Maho Nishikawa,1,Male,1994-06-17,24,275-0022,"Kasumi, Narashino City, Chiba Prefecture",S12013,20160518,0-00000000-0
+CS007712000061,Tomoyo Sandagawa,1,Male,1939-08-12,79,285-0861,"Usuida, Sakura City, Chiba Prefecture",S12007,20181003,0-00000000-0
+CS026304000002,Tsuyoshi Fujiwara,0,Female,1986-11-11,32,251-0047,"Tsujido, Fujisawa City, Kanagawa Prefecture",S14026,20150515,B-20100521-A
+CS044415000027,Reina Takada,1,Male,1945-02-13,74,168-0064,"Eifuku, Suginami -ku, Tokyo",S13044,20180511,7-20100512-4
+CS039412000084,Asami Ishii,1,Male,1971-06-11,47,167-0022,"Suginami -ku, Tokyo Shimoigusa",S13039,20150515,3-20090405-4
+CS014313000153,Nana Tsukamoto,1,Male,1986-02-15,33,263-0016,"Tendai, Inage -ku, Chiba -shi, Chiba",S12014,20150424,0-00000000-0
+CS037513000182,Rinako Owada,1,Male,1960-08-10,58,136-0076,"Minami sand in Koto -ku, Tokyo",S13037,20150628,8-20100823-A
+CS010513000231,Momoko Tamada,1,Male,1966-01-23,53,222-0023,"Nakamotohara, Kohoku -ku, Yokohama -shi, Kanagawa",S14010,20160102,B-20100906-7
+CS002402000125,Seiichi Fujisaki,0,Female,1971-01-13,48,187-0002,"Hanakoganei, Kodaira City, Tokyo",S13002,20170924,0-00000000-0
+CS041301000002,Yuichi Kimoto,0,Female,1981-08-07,37,192-0354,"Hachioji Ichimatsu, Tokyo",S13041,20180315,0-00000000-0
+CS022502000009,Takashi Matsutani,0,Female,1962-10-08,56,240-0112,"Horiuchi, Hayama -cho, Miura -gun, Kanagawa",S14022,20150622,0-00000000-0
+CS016611000026,First generation of Osaki,1,Male,1953-01-03,66,187-0011,"Suzuki -cho, Kodaira, Tokyo",S13016,20150511,0-00000000-0
+CS012305000005,Taguchi Taguchi,0,Female,1982-05-02,36,231-0834,"Ikebukuro, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150327,E-20100924-D
+CS006704000002,Yosuke Nonaka,0,Female,1941-03-11,78,224-0061,"Daimaru, Tsuzuki -ku, Yokohama -shi, Kanagawa",S14006,20150719,0-00000000-0
+CS028512000010,Bunbun Hashiguchi,1,Male,1966-11-01,52,246-0015,"Hongo, Seya -ku, Yokohama -shi, Kanagawa",S14028,20150304,0-00000000-0
+CS039514000059,Ryo Kageyama,1,Male,1967-07-20,51,167-0051,"Ogikubo, Suginami -ku, Tokyo",S13039,20151101,6-20100510-9
+CS005313000194,Yuu Shimazaki,1,Male,1980-03-21,39,177-0034,"Fujimidai, Nerima -ku, Tokyo",S13005,20170219,0-00000000-0
+CS004415000326,Aida Kou,1,Male,1974-07-28,44,165-0032,"Saginomiya, Nakano -ku, Tokyo",S13004,20160627,B-20100213-B
+CS027715000026,Maeda tomorrow,1,Male,1942-06-04,76,251-0016,"Maitreji Temple, Fujisawa City, Kanagawa Prefecture",S14027,20160210,0-00000000-0
+CS051512000003,Yo Moriharu Yo Mori,1,Male,1964-04-25,54,332-0015,"Kawaguchi, Kawaguchi City, Saitama Prefecture",S13051,20180605,0-00000000-0
+CS038315000136,Mina Koyanagi,1,Male,1983-06-12,35,134-0085,"Minami Kasai, Edogawa -ku, Tokyo",S13038,20160106,9-20100917-9
+CS028512000210,Natsuki Oizumi,1,Male,1963-01-19,56,245-0018,"Kamiiida -cho, Izumi -ku, Yokohama -shi, Kanagawa",S14028,20180417,0-00000000-0
+CS032513000054,Satomi Ozaki,1,Male,1962-09-01,56,144-0056,"Nishi -Rokugo, Ota -ku, Tokyo",S13032,20150607,4-20090712-6
+CS037514000039,Haruka Ogawa,1,Male,1960-02-09,59,136-0076,"Minami sand in Koto -ku, Tokyo",S13037,20160224,8-20100307-9
+CS020412000155,Sawaki,1,Male,1975-01-13,44,173-0027,"Minami -cho, Itabashi -ku, Tokyo",S13020,20151101,6-20081124-3
+CS016413000152,Miwako Matsui,1,Male,1974-03-23,45,184-0011,"Higashi -cho, Koganei -shi, Tokyo",S13016,20150707,4-20091018-3
+CS005314000114,Fucker buds,1,Male,1979-06-15,39,167-0021,"Igusa, Suginami -ku, Tokyo",S13005,20170704,0-00000000-0
+CS030612000034,Erika Suwa,1,Male,1949-11-02,69,272-0014,Ichikawa Ichikawa Ichikawa Ichikawa,S12030,20150604,0-00000000-0
+CS002411000103,Sachie Nagao,1,Male,1972-03-16,47,187-0045,"Gakuen Nishimachi, Kodaira City, Tokyo",S13002,20160928,B-20100727-9
+CS005315000331,Rinako Maruyama,1,Male,1979-08-22,39,165-0032,"Saginomiya, Nakano -ku, Tokyo",S13005,20161225,0-00000000-0
+CS018214000015,Toshio Tsutsumi,9,Unknown,1994-04-06,24,352-0032,"Shinbori, Niiza City, Saitama Prefecture",S13018,20150608,E-20100810-F
+CS014313000147,Erika Hamaguchi,1,Male,1982-07-01,36,263-0012,"Hagidai -cho, Inage -ku, Chiba -shi, Chiba",S12014,20150108,0-00000000-0
+CS029514000129,Manami Oda,1,Male,1966-04-24,52,279-0041,"Horie, Urayasu City, Chiba Prefecture",S12029,20160702,0-00000000-0
+CS037504000012,Mitsuhiro Takemoto,9,Unknown,1961-10-24,57,135-0016,"Toyo, Koto -ku, Tokyo",S13037,20150912,0-00000000-0
+CS035615000169,Toda Asayang,1,Male,1952-06-23,66,158-0093,"Kaminoge, Setagaya -ku, Tokyo",S13035,20181022,0-00000000-0
+CS012311000020,Miyuki Itakura,1,Male,1980-04-11,38,230-0054,"Daikoku Wharf, Tsurumi -ku, Yokohama City, Kanagawa Prefecture",S14012,20150424,0-00000000-0
+CS007312000113,Ruria Honjo,1,Male,1982-11-21,36,276-0024,"Katsuta, Yachiyo City, Chiba Prefecture",S12007,20150429,0-00000000-0
+CS045513000010,Tomoka Iwabuchi,1,Male,1966-08-23,52,243-0006,"Azuma -cho, Atsugi City, Kanagawa Prefecture",S14045,20180626,6-20100912-4
+CS025515000148,Natsuki Yanagida,1,Male,1965-07-03,53,242-0015,"Shimwada, Yamato City, Kanagawa Prefecture",S14025,20150617,C-20100807-C
+CS001302000004,Satoshi Hirao,0,Female,1980-05-22,38,210-0025,"Kawasaki -ku, Kawasaki City, Kanagawa Prefecture",S13001,20150412,0-00000000-0
+CS004515000032,Ayako Otsuki,1,Male,1960-12-21,58,165-0032,"Saginomiya, Nakano -ku, Tokyo",S13004,20150905,2-20080505-1
+CS018614000078,Kageyama Chinatsu,1,Male,1951-05-17,67,352-0032,"Shinbori, Niiza City, Saitama Prefecture",S13018,20170420,0-00000000-0
+CS005612000066,Aya Oya,1,Male,1952-03-06,67,177-0044,"Kamiishi Kamiii, Nerima -ku, Tokyo",S13005,20150703,0-00000000-0
+CS040212000045,Asami Yamagata,1,Male,1990-11-08,28,226-0021,"Kita -Hatsusaku -cho, Midori -ku, Yokohama -shi, Kanagawa",S14040,20150908,0-00000000-0
+CS012715000018,Chinatsu Minagawa,1,Male,1945-05-27,73,231-0843,"Hongo -cho, Naka -ku, Yokohama -shi, Kanagawa",S14012,20150806,0-00000000-0
+CS004412000095,Mayuko Moriguchi,1,Male,1971-06-28,47,179-0075,"Takamatsu, Nerima -ku, Tokyo",S13004,20150110,6-20081013-8
+CS039615000106,Natsuki Kasai,1,Male,1951-09-18,67,168-0081,"Miyamae, Suginami -ku, Tokyo",S13039,20150630,0-00000000-0
+CS029714000022,Saki Kikuchi,9,Unknown,1942-08-31,76,279-0042,"Higashino, Urayasu City, Chiba Prefecture",S12029,20150313,0-00000000-0
+CS039412000049,Saki Noda,1,Male,1970-04-24,48,166-0001,"Asaya Kita, Suginami -ku, Tokyo",S13039,20160118,3-20090322-4
+CS002215000111,Haruka Hosokawa,1,Male,1993-08-15,25,185-0014,"Higashi Koikokubo, Kokubunji City, Tokyo",S13002,20160701,7-20090215-7
+CS003413000655,Tomosaka Natsumi,1,Male,1974-08-04,44,201-0012,"Komae -shi, Tokyo Ikuwaki",S13003,20171005,0-00000000-0
+CS017513000096,Haruka Uehara,1,Male,1964-12-23,54,166-0002,"Koenji Kita, Suginami -ku, Tokyo",S13017,20141102,7-20080610-3
+CS003514000151,Satomi Okamoto,1,Male,1962-11-01,56,201-0012,"Komae -shi, Tokyo Ikuwaki",S13003,20160404,3-20080929-2
+CS011212000053,Fukushi Sachie,1,Male,1991-05-23,27,212-0056,"Yagami, Yuki -ku, Kawasaki -shi, Kanagawa",S14011,20160710,0-00000000-0
+CS019614000039,Erika Shishido,1,Male,1953-06-18,65,176-0003,"Hazawa, Nerima -ku, Tokyo",S13019,20150410,0-00000000-0
+CS013615000064,Asami Takamura,1,Male,1954-05-07,64,275-0023,"Shibaen, Narashino City, Chiba Prefecture",S12013,20150720,0-00000000-0
+CS003215000058,Mami Omori,1,Male,1995-11-01,23,201-0012,"Komae -shi, Tokyo Ikuwaki",S13003,20160309,6-20100220-7
+CS002414000213,Yonezawa Toshika,1,Male,1970-11-26,48,185-0013,"Kokubunji -shi, Tokyo Nishiki Kokubo",S13002,20160516,D-20100428-D
+CS011213000034,Bike,1,Male,1994-11-09,24,223-0058,"Shinyoshida Higashi, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20160316,0-00000000-0
+CS005613000114,Inagaki Mirai,1,Male,1957-10-15,61,167-0021,"Igusa, Suginami -ku, Tokyo",S13005,20150826,0-00000000-0
+CS005311000034,Kaoru Tamaki,1,Male,1982-02-20,37,177-0045,"Nerima -ku, Tokyo Shakujimiidai",S13005,20161105,1-20090522-1
+CS033713000085,Megumi Yanagita,1,Male,1942-07-13,76,246-0038,"Miyazawa, Seya -ku, Yokohama -shi, Kanagawa",S14033,20170406,0-00000000-0
+CS014512000015,Ryo Kono,1,Male,1965-09-16,53,264-0032,"Mitsuwadai, Wakaba -ku, Chiba City, Chiba Prefecture",S12014,20150724,7-20090810-9
+CS014215000025,Tomoichi Fujisawa,1,Male,1990-04-30,28,263-0043,"Konakadai, Inage -ku, Chiba -shi, Chiba",S12014,20150611,1-20080820-2
+CS033414000091,Reiko Uno,1,Male,1970-05-14,48,246-0035,"Shimoseya, Seya -ku, Yokohama -shi, Kanagawa",S14033,20151029,D-20100206-E
+CS020314000002,Haruka Itakura,1,Male,1981-09-20,37,114-0031,"Jujo Nakahara, Kita -ku, Tokyo",S13020,20150829,B-20091020-B
+CS002312000074,Kaoru Fujisawa,1,Male,1987-06-20,31,187-0011,"Suzuki -cho, Kodaira, Tokyo",S13002,20150721,0-00000000-0
+CS003611000068,Miho Takigawa,1,Male,1957-10-05,61,214-0008,"Sugakitaura, Tama -ku, Kawasaki City, Kanagawa Prefecture",S13003,20160416,0-00000000-0
+CS037412000090,Hitomi Fukuda,1,Male,1971-11-24,47,135-0048,"Koto -ku, Tokyo Mae -Nakacho",S13037,20150311,A-20100418-5
+CS001205000006,Fukushi Akira,0,Female,1993-06-12,25,144-0056,"Nishi -Rokugo, Ota -ku, Tokyo",S13001,20161111,B-20100224-C
+CS003615000092,Rinko Asanuma,1,Male,1954-11-03,64,182-0023,"Dyeing land in Chofu City, Tokyo",S13003,20150524,0-00000000-0
+CS032414000045,Urano Seven,1,Male,1974-07-15,44,144-0055,"Nakarokugo, Ota -ku, Tokyo",S13032,20150708,E-20091010-E
+CS005513000114,Yuki Kawachi,1,Male,1966-06-04,52,165-0032,"Saginomiya, Nakano -ku, Tokyo",S13005,20141202,6-20090705-A
+CS008402000039,Yusuke Yokoi,0,Female,1975-01-26,44,201-0016,"Komai -cho, Komae City, Tokyo",S13008,20150619,0-00000000-0
+CS004505000032,Hayashi Yamada,0,Female,1963-07-04,55,165-0034,"Yamato -cho, Nakano -ku, Tokyo",S13004,20170428,3-20100131-5
+CS040513000098,Aida tomorrow,1,Male,1961-07-28,57,226-0018,"Nagatsuda Minamidai, Midori -ku, Yokohama -shi, Kanagawa",S14040,20151118,4-20100118-6
+CS034511000008,Miyuki Takamatsu,1,Male,1963-11-14,55,213-0033,"Shimosakuri, Takatsu -ku, Kawasaki City, Kanagawa Prefecture",S14034,20150719,6-20091206-5
+CS013313000153,Ai Takeuchi,1,Male,1981-09-14,37,275-0023,"Shibaen, Narashino City, Chiba Prefecture",S12013,20150706,0-00000000-0
+CS013513000061,Maho Yamauchi,1,Male,1961-02-07,58,275-0021,"Sodegaura, Narashino City, Chiba Prefecture",S12013,20150228,6-20100517-3
+CS019414000068,Yoji Yo,1,Male,1972-04-10,46,176-0004,"Kotake -cho, Nerima -ku, Tokyo",S13019,20150325,F-20100629-F
+CS002415000029,Saki Yonezawa,1,Male,1972-07-07,46,187-0021,"Kamisui Minami -cho, Kodaira City, Tokyo",S13002,20151026,B-20100427-9
+CS003313000470,Miyuki Morishita,1,Male,1985-06-29,33,201-0013,"Motoizumi, Komae City, Tokyo",S13003,20170606,0-00000000-0
+CS039511000062,Mayuko Kikuchi,1,Male,1967-07-29,51,166-0012,"Wada, Suginami -ku, Tokyo",S13039,20160826,0-00000000-0
+CS008404000002,Roku Kameda,0,Female,1974-09-27,44,157-0066,"Seijo, Setagaya -ku, Tokyo",S13008,20150915,0-00000000-0
+CS015602000008,Akira Seo,0,Female,1952-01-26,67,136-0072,"Oshima, Koto -ku, Tokyo",S13015,20150213,0-00000000-0
+CS011615000007,Ryoko Tamura,1,Male,1956-09-22,62,223-0064,"Shimoda -cho, Kohoku -ku, Yokohama -shi, Kanagawa",S14011,20150513,0-00000000-0
+CS025511000066,Masayo Hosoi,1,Male,1965-01-04,54,242-0014,"Kamewada, Yamato City, Kanagawa Prefecture",S14025,20180204,0-00000000-0
