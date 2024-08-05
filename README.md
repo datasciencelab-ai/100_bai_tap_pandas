@@ -15,7 +15,7 @@
 ### Clone thư mục GitHub này
 
 ```shell
-git clone git@github.com:The-Japan-DataScientist-Society/100_bai_tap_pandas.git
+git clone https://github.com/datasciencelab-ai/100_bai_tap_pandas.git
 cd 100_bai_tap_pandas
 ```
 
