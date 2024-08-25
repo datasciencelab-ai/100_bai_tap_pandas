@@ -2,7 +2,7 @@
 
 ## Tổng quan
 
-- Chào mừng bạn đến với bộ tài liệu "100 bài tập xử lý dữ liệu với Pandas" do Data Science Lab biên dịch. Đây là một tài liệu tuyệt vời giúp bạn rèn luyện và nâng cao kỹ năng phân tích dữ liệu với thư viện Pandas trong Python. Với 100 bài tập phong phú và đa dạng, tài liệu này bao quát nhiều khía cạnh của công việc phân tích dữ liệu, từ xử lý dữ liệu cơ bản đến những kỹ thuật nâng cao.
+- Chào mừng bạn đến với bộ tài liệu "100 bài tập xử lý dữ liệu với Pandas" do Nguyen Ha DS biên dịch. Đây là một tài liệu tuyệt vời giúp bạn rèn luyện và nâng cao kỹ năng phân tích dữ liệu với thư viện Pandas trong Python. Với 100 bài tập phong phú và đa dạng, tài liệu này bao quát nhiều khía cạnh của công việc phân tích dữ liệu, từ xử lý dữ liệu cơ bản đến những kỹ thuật nâng cao.
 
 - Những bài tập trong tài liệu này được thiết kế sát với thực tiễn và đã được kiểm chứng bởi cộng đồng các nhà phân tích dữ liệu tại Nhật Bản. Được công bố bởi Hiệp hội Khoa học Dữ liệu Nhật Bản (The Data Scientist Society Japan) [[1]](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess), tài liệu này đã nhận được sự ưa chuộng và đánh giá cao từ giới chuyên môn.
 
