@@ -134,12 +134,12 @@ jupyter kernelspec uninstall unwanted-kernel
 ## Tài liệu tham khảo
 
 - [[1]](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) Tài liệu gốc bằng tiếng Nhât được phát hành từ Hiệp hội Khoa học Dữ liệu Nhật Bản (The Data Scientist Society Japan)
-- [Chuỗii videos live code được Data Science Lab biên soạn](https://www.youtube.com/channel/UCEQogq4zi6g2VKysLyhT-nw)
+- [Chuỗii videos live code được Nguyen Ha DS biên soạn](https://www.youtube.com/playlist?list=PL85bwuRqeUWYccgtXOxLt68YwyPo6g2W9)
 
 ## Tác giả
 
 - Hiệp hội Khoa học Dữ liệu Nhật Bản (The Data Scientist Society Japan)
-- Bản dịch tiếng Việt và lời giải: Data Science Lab
+- Bản dịch tiếng Việt và lời giải: Nguyen Ha DS
 
 ## LICENSE
 
