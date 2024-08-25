@@ -6,9 +6,9 @@
 
 - Những bài tập trong tài liệu này được thiết kế sát với thực tiễn và đã được kiểm chứng bởi cộng đồng các nhà phân tích dữ liệu tại Nhật Bản. Được công bố bởi Hiệp hội Khoa học Dữ liệu Nhật Bản (The Data Scientist Society Japan) [[1]](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess), tài liệu này đã nhận được sự ưa chuộng và đánh giá cao từ giới chuyên môn.
 
-- Data Science Lab đã dịch và biên soạn lại tài liệu này với mục tiêu giúp các bạn dễ dàng tiếp cận hơn và cung cấp phần lời giải dễ hiểu và phong cách viết code pandas hiệu quả hơn. Chúng tôi hy vọng tài liệu này sẽ trở thành một công cụ hữu ích trong việc học tập và nâng cao kỹ năng của bạn.
+- Nguyen Ha DS đã dịch và biên soạn lại tài liệu này với mục tiêu giúp các bạn dễ dàng tiếp cận hơn và cung cấp phần lời giải dễ hiểu và phong cách viết code pandas hiệu quả hơn. Chúng tôi hy vọng tài liệu này sẽ trở thành một công cụ hữu ích trong việc học tập và nâng cao kỹ năng của bạn.
 
-- Với kinh nghiệm nhiều năm trong lĩnh vực phân tích dữ liệu, Data Science Lab tin tưởng rằng nếu bạn kiên nhẫn hoàn thành hết 100 bài tập Pandas này, bạn sẽ trở nên thành thạo và tự tin xử lý mọi loại dữ liệu dạng bảng bạn gặp trong công việc của mình. Chúc các bạn thành công.
+- Với kinh nghiệm nhiều năm trong lĩnh vực phân tích dữ liệu, mình tin tưởng rằng nếu bạn kiên nhẫn hoàn thành hết 100 bài tập Pandas này, bạn sẽ trở nên thành thạo và tự tin xử lý mọi loại dữ liệu dạng bảng bạn gặp trong công việc của mình. Chúc các bạn thành công.
 
 ## Cài đặt
 
